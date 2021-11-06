@@ -1,0 +1,105 @@
+Lmod is automatically replacing "intel/2020.1.217" with "gcc/9.3.0".
+
+
+Due to MODULEPATH changes, the following have been reloaded:
+  1) openmpi/4.0.3
+
+abricate databases are located in $EBROOTABRICATE/db
+Using nucl database ncbi:  5386 sequences -  2021-Oct-12
+Processing: MEGAHIT-COR01e_t2_M.10.fa
+#FILE	SEQUENCE	START	END	STRAND	GENE	COVERAGE	COVERAGE_MAP	GAPS	%COVERAGE	%IDENTITY	DATABASE	ACCESSION	PRODUCT	RESISTANCE
+Found 0 genes in MEGAHIT-COR01e_t2_M.10.fa
+Tip: did you know? abricate was named after 'A'nti 'B'acterial 'R'esistiance
+Done.
+Processing: MEGAHIT-COR01e_t2_M.11.fa
+Found 0 genes in MEGAHIT-COR01e_t2_M.11.fa
+Tip: you can use the --summary option to combine reports in a presence/absence matrix.
+Done.
+Processing: MEGAHIT-COR01e_t2_M.12.fa
+Found 0 genes in MEGAHIT-COR01e_t2_M.12.fa
+Tip: remember that abricate is unable to find AMR-mediated SNPs.
+Done.
+Processing: MEGAHIT-COR01e_t2_M.13.fa
+Found 0 genes in MEGAHIT-COR01e_t2_M.13.fa
+Tip: abricate can also find virulence factors; use --list to see all supported databases.
+Done.
+Processing: MEGAHIT-COR01e_t2_M.14.fa
+Found 0 genes in MEGAHIT-COR01e_t2_M.14.fa
+Tip: remember that abricate is unable to find AMR-mediated SNPs.
+Done.
+Processing: MEGAHIT-COR01e_t2_M.15.fa
+Found 0 genes in MEGAHIT-COR01e_t2_M.15.fa
+Tip: did you know? abricate was named after 'A'nti 'B'acterial 'R'esistiance
+Done.
+Processing: MEGAHIT-COR01e_t2_M.16.fa
+Found 0 genes in MEGAHIT-COR01e_t2_M.16.fa
+Tip: remember that abricate is unable to find AMR-mediated SNPs.
+Done.
+Processing: MEGAHIT-COR01e_t2_M.17.fa
+Found 0 genes in MEGAHIT-COR01e_t2_M.17.fa
+Tip: abricate can also find virulence factors; use --list to see all supported databases.
+Done.
+Processing: MEGAHIT-COR01e_t2_M.18.fa
+Found 0 genes in MEGAHIT-COR01e_t2_M.18.fa
+Tip: the abricate manual is at https://github.com/tseemann/abricate/blob/master/README.md
+Done.
+Processing: MEGAHIT-COR01e_t2_M.19.fa
+Found 0 genes in MEGAHIT-COR01e_t2_M.19.fa
+Tip: the --fofn option allows you to feed in a big list of files to run on.
+Done.
+Processing: MEGAHIT-COR01e_t2_M.1.fa
+Found 0 genes in MEGAHIT-COR01e_t2_M.1.fa
+Tip: abricate can also find virulence factors; use --list to see all supported databases.
+Done.
+Processing: MEGAHIT-COR01e_t2_M.20.fa
+Found 0 genes in MEGAHIT-COR01e_t2_M.20.fa
+Tip: found a bug in abricate? Post it at https://github.com/tseemann/abricate/issues.
+Done.
+Processing: MEGAHIT-COR01e_t2_M.21.fa
+Found 0 genes in MEGAHIT-COR01e_t2_M.21.fa
+Tip: you can use the --summary option to combine reports in a presence/absence matrix.
+Done.
+Processing: MEGAHIT-COR01e_t2_M.22.fa
+Found 0 genes in MEGAHIT-COR01e_t2_M.22.fa
+Tip: it's important to realise abricate uses DNA matching, not AA.
+Done.
+Processing: MEGAHIT-COR01e_t2_M.23.fa
+Found 0 genes in MEGAHIT-COR01e_t2_M.23.fa
+Tip: it's important to realise abricate uses DNA matching, not AA.
+Done.
+Processing: MEGAHIT-COR01e_t2_M.24.fa
+Found 0 genes in MEGAHIT-COR01e_t2_M.24.fa
+Tip: the abricate manual is at https://github.com/tseemann/abricate/blob/master/README.md
+Done.
+Processing: MEGAHIT-COR01e_t2_M.2.fa
+Found 0 genes in MEGAHIT-COR01e_t2_M.2.fa
+Tip: abricate can also find virulence factors; use --list to see all supported databases.
+Done.
+Processing: MEGAHIT-COR01e_t2_M.3.fa
+Found 0 genes in MEGAHIT-COR01e_t2_M.3.fa
+Tip: the abricate manual is at https://github.com/tseemann/abricate/blob/master/README.md
+Done.
+Processing: MEGAHIT-COR01e_t2_M.4.fa
+Found 0 genes in MEGAHIT-COR01e_t2_M.4.fa
+Tip: found a bug in abricate? Post it at https://github.com/tseemann/abricate/issues.
+Done.
+Processing: MEGAHIT-COR01e_t2_M.5.fa
+Found 0 genes in MEGAHIT-COR01e_t2_M.5.fa
+Tip: abricate can also find virulence factors; use --list to see all supported databases.
+Done.
+Processing: MEGAHIT-COR01e_t2_M.6.fa
+Found 0 genes in MEGAHIT-COR01e_t2_M.6.fa
+Tip: did you know? abricate was named after 'A'nti 'B'acterial 'R'esistiance
+Done.
+Processing: MEGAHIT-COR01e_t2_M.7.fa
+Found 0 genes in MEGAHIT-COR01e_t2_M.7.fa
+Tip: it's important to realise abricate uses DNA matching, not AA.
+Done.
+Processing: MEGAHIT-COR01e_t2_M.8.fa
+Found 0 genes in MEGAHIT-COR01e_t2_M.8.fa
+Tip: have a suggestion for abricate? Tell me at https://github.com/tseemann/abricate/issues
+Done.
+Processing: MEGAHIT-COR01e_t2_M.9.fa
+Found 0 genes in MEGAHIT-COR01e_t2_M.9.fa
+Tip: abricate can also find virulence factors; use --list to see all supported databases.
+Done.
