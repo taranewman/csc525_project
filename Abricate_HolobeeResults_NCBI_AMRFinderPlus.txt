@@ -1,0 +1,29 @@
+Lmod is automatically replacing "intel/2020.1.217" with "gcc/9.3.0".
+
+
+Due to MODULEPATH changes, the following have been reloaded:
+  1) blis/0.8.1     2) flexiblas/3.0.4     3) openmpi/4.0.3
+
+abricate databases are located in $EBROOTABRICATE/db
+Using nucl database ncbi:  5386 sequences -  2021-Oct-12
+Processing: HB_Mop_v2016.1.fasta
+#FILE	SEQUENCE	START	END	STRAND	GENE	COVERAGE	COVERAGE_MAP	GAPS	%COVERAGE	%IDENTITY	DATABASE	ACCESSION	PRODUCT	RESISTANCE
+Found 16 genes in HB_Mop_v2016.1.fasta
+Tip: remember that abricate is unable to find AMR-mediated SNPs.
+Done.
+HB_Mop_v2016.1.fasta	gi|110591927|ref|NZ_AARF01000388.1|	1922	2953	vanF	1-1032/1032	===============	0/0	100.00	97.87	ncbi	NG_048367.1	D-alanine--(R)-lactate ligase VanF	VANCOMYCIN
+HB_Mop_v2016.1.fasta	gi|402813883|ref|NZ_AMBZ01000002.1|	575064	575675	vanZ-F	1-615/621	========/======	3/9	98.07	89.00	ncbi	NG_048535.1	glycopeptide resistance protein VanZ-F	VANCOMYCIN
+HB_Mop_v2016.1.fasta	gi|402813883|ref|NZ_AMBZ01000002.1|	575737	576600	vanY-F	1-882/882	========/======	3/18	97.96	90.70	ncbi	NG_048526.1	D-Ala-D-Ala carboxypeptidase VanY-F	VANCOMYCIN
+HB_Mop_v2016.1.fasta	gi|402813883|ref|NZ_AMBZ01000002.1|	576717	577814	vanS-F	1-1098/1098	===============	0/0	100.00	95.26	ncbi	NG_048437.1	VanF-type vancomycin resistance histidine kinase VanS	VANCOMYCIN
+HB_Mop_v2016.1.fasta	gi|402817579|ref|NZ_AMBZ01000009.1|	12132	14719	rphC	1-2606/2607	========/======	8/24	99.16	81.64	ncbi	NG_063825.1	rifamycin-inactivating phosphotransferase RphC	RIFAMYCIN
+HB_Mop_v2016.1.fasta	gi|568262354|ref|NC_023134.1|	778784	779815	-	vanF	1-1032/1032	===============	0/0	100.00	97.87	ncbi	NG_048367.1	D-alanine--(R)-lactate ligase VanF	VANCOMYCIN
+HB_Mop_v2016.1.fasta	gi|664676885|gb|JAIN01000052.1|	105	1154	+	tet(B)	157-1206/1206	.==============	0/0	87.06	99.52	ncbi	NG_048173.1	tetracycline efflux MFS transporter Tet(B)	TETRACYCLINE
+HB_Mop_v2016.1.fasta	gi|664677052|gb|JAIN01000039.1|	5348	6550	+	tet(H)	1-1203/1203	===============	0/0	100.00	99.83	ncbi	NG_048194.1	tetracycline efflux MFS transporter Tet(H)	TETRACYCLINE
+HB_Mop_v2016.1.fasta	gi|736514617|ref|NZ_JPUI01000002.1|	351	1071	cat-TC	1-717/717	========/======	4/4	100.00	99.03	ncbi	NG_047562.1	type A-9 chloramphenicol O-acetyltransferase Cat-TC	CHLORAMPHENICOL
+HB_Mop_v2016.1.fasta	gi|738764510|ref|NZ_ADFW01000001.1|	1867385	1868416vanF	1-1032/1032	===============	0/0	100.00	97.87	ncbi	NG_048367.1	D-alanine--(R)-lactate ligase VanF	VANCOMYCIN
+HB_Mop_v2016.1.fasta	gi|749204473|ref|NZ_CP009056.1|	2504819	2506024	-	tet(B)	1-1206/1206	===============	0/0	100.00	100.00	ncbi	NG_048161.1	tetracycline efflux MFS transporter Tet(B)	TETRACYCLINE
+HB_Mop_v2016.1.fasta	gi|752296438|ref|NZ_JPYX01000005.1|	565	1302	erm(B)	1-738/738	===============	0/0	100.00	100.00	ncbi	NG_047803.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)	MACROLIDE
+HB_Mop_v2016.1.fasta	gi|752579341|ref|NZ_CP007445.1|	958647	959852	-	tet(B)	1-1206/1206	===============	0/0	100.00	99.92	ncbi	NG_048161.1	tetracycline efflux MFS transporter Tet(B)	TETRACYCLINE
+HB_Mop_v2016.1.fasta	gi|752776059|ref|NZ_CP007446.1|	754840	756030	-	tet(C)	1-1191/1191	===============	0/0	100.00	100.00	ncbi	NG_048181.1	tetracycline efflux MFS transporter Tet(C)	TETRACYCLINE
+HB_Mop_v2016.1.fasta	gi|754118703|ref|NZ_CP007806.1|	3393876	3395340	-	lsa(B)	1-1465/1479	===============	0/0	99.05	80.96	ncbi	NG_047933.1	ABC-F type ribosomal protection protein Lsa(B)	LINCOSAMIDE;STREPTOGRAMIN
+HB_Mop_v2016.1.fasta	gi|817691890|ref|NZ_LAWY01000018.1|	70584	71615	vanF	1-1032/1032	===============	0/0	100.00	97.87	ncbi	NG_048367.1	D-alanine--(R)-lactate ligase VanF	VANCOMYCIN
