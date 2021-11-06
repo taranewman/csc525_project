@@ -5,3 +5,13 @@ This file contains the output from abricate that searches the Holobee-Mop databa
  
 ### Holobee_ARGs_gene_regions.fasta
 This file contains the fasta files of the gene regions of the species matching the ARGs found in the ABRicate search results in Abricate_HolobeeResults_NCBI_AMRFinderPlus.txt
+
+### Abricate_on_Megahit_contigs.txt
+This file contains the ABRicate search results of the contigs assembled by MEGAHit against the NCBI AMRFinderPlus database.
+
+### Abricate_on_discarded_contigs.txt
+
+This file contains the ABRicate search results of the contigs discarded by Metabat against the NCBI AMRFinderPlus database.
+
+### Abricate_on_Metabat_bins.txt
+This file contains the ABRicate search results of the bins from Metabat against the NCBI AMRFinderPlus database.
