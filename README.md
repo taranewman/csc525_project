@@ -15,3 +15,7 @@ This file contains the ABRicate search results of the contigs discarded by Metab
 
 ### Abricate_on_Metabat_bins.txt
 This file contains the ABRicate search results of the bins from Metabat against the NCBI AMRFinderPlus database.
+
+### The following file contain the multiple sequence alignments created from the four tools used for guide tree/phylogenetic trees
+
+MAAFT: Holobee_ARGs_CLUSTAL_format_alignment_by_MAFFT (v7.490).txt
