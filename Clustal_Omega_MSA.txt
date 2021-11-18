@@ -1,0 +1,830 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+5rphC       ATGAATACTTTCGTTCTCGATTTTCAGGAAATGAAAAAT---ACACAGCTATTGCTCGTT	57
+11tetB      ------------------------------------------------------------	0
+13tetB      ------------------------------------------------------------	0
+14tetC      ------------------------------------------------------------	0
+1vanF       --TCAT-CCTTTGAGTGCCAGTGTGATGCAATGATCAATTAA-------------CCCGG	44
+16vanF      --TCAT-CCTTTGAGTGCCAGTGTGATGCAATGATCAATTAA-------------CCCGG	44
+6vanF       --TCAT-CCTTTGAGTGCCAGTGTGATGCAATGATCAATTAA-------------CCCGG	44
+10vanF      ----------------------TTGAATAGATTG--------------------------	12
+7tetB       ------------------------------------------------------------	0
+8tetH       ----------------------ATGAATAAATCAATTAT----------------TATTA	22
+4vanS       -----------------------------------------------------------T	1
+9catTC      ------------------------------------------------------------	0
+15lsaB      -----T-TTTTGTTGCAACTGTTTGTTGAAATGCCTGATCATGCTCAACAATAACCATTG	54
+3vanY       ------------------------------------------------------------	0
+2vanZ       ------------------------------------------------------------	0
+12ermB      ------------------------------------------------------------	0
+                                                                        
+
+5rphC       GGCGGAAAAGGGTTGAATGTAGGGGAGTTATCAAAAATGGAGGGAATACAAGTACCGGAA	117
+11tetB      ------------------------------------------------------------	0
+13tetB      ------------------------------------------------------------	0
+14tetC      ------------------------------------------------------------	0
+1vanF       AAAGTGTCATCCC-------------CGCGGCAGCCATCATACGG------------GG-	78
+16vanF      AAAGTGTCATCCC-------------CGCGGCAGCCATCATACGG------------GG-	78
+6vanF       AAAGTGTCATCCC-------------CGCGGCAGCCATCATACGG------------GG-	78
+10vanF      ----------------AAAATAG---CCCTCCTGTTTGGGGGCTGCTCAGAGGAACACG-	52
+7tetB       ------------------------------------------------------------	0
+8tetH       TACTGCTGATCCC---------C---GTATTAG---------ATGCCATTGGTATCGGGC	61
+4vanS       TGGGAATCCTCCATTGGTAATCG---GGCTTCAAATATAGTGCGT---------------	43
+9catTC      -----------------------------TTCAACTAACGGGGCA---------------	16
+15lsaB      TAGGATTAAA-TCTTTGAATAAG---CTCTTCAATCTGCATGCGTGAATAAATATCAATA	110
+3vanY       ------------------------------------------------------TCAAG-	5
+2vanZ       ------------------------------------------------------------	0
+12ermB      -----------------------------------------------------ATGAACA	7
+                                                                        
+
+5rphC       GGATTTTGTGTGACAACAGCAGGATATCAAAAAGCAATCGAGCAAAA-C----GAAACGT	172
+11tetB      ------------------------------------------------------------	0
+13tetB      ------------------------------------------------------------	0
+14tetC      ------------------------------------------------------------	0
+1vanF       --------------ATAACGGCTGTATACCGTG---------------------------	97
+16vanF      --------------ATAACGGCTGTATACCGTG---------------------------	97
+6vanF       --------------ATAACGGCTGTATACCGTG---------------------------	97
+10vanF      ------------------------------------------------------------	52
+7tetB       ------------------------------------------------------------	0
+8tetH       TTATCATGCCAGTACTCCCTACTCTATTAAATGAAT------------------------	97
+4vanS       --ATTAA-------------------------------------ATCACTTTCGGCAGTT	64
+9catTC      ------------------------------------------------------------	16
+15lsaB      AAATTTAACGGTTCATCCCAAATATATAAATGAGCTTTTTCACATAAACTTTTGGCTATA	170
+3vanY       ------------------------------------------------------------	5
+2vanZ       ------------------------------------------------------------	0
+12ermB      ------------------------------------------------------------	7
+                                                                        
+
+5rphC       ACCATGCTTTGCT-CAATCGACTAACGATGCTACACGTAGAAGATCGAGATCAAATTGGT	231
+11tetB      ------------------------------------------------------------	0
+13tetB      ------------------------------------------------------------	0
+14tetC      ------------------------------------------------------------	0
+1vanF       --------------AATCCCGGCAACGTATTG---------------------ACTTCAT	122
+16vanF      --------------AATCCCGGCAACGTATTG---------------------ACTTCAT	122
+6vanF       --------------AATCCCGGCAACGTATTG---------------------ACTTCAT	122
+10vanF      ---ATGTGTCGGTAAAATCGGCGAAAGAGATTGCCGATAACATCGACACAGAAAAATATG	109
+7tetB       ------------------------------------------------------------	0
+8tetH       ------------------------------------------TTGTCAGTGAAAATTCAC	115
+4vanS       A-----------------------------------------TTGTCCCATTGTGTTGCT	83
+9catTC      ------------------------------------------------------------	16
+15lsaB      AGCAGCTTTTTCTTTTGTCCACCAGAATAATGAGATATATCTTTCTCAAATTGAATTCGG	230
+3vanY       --------------------------AAAATG---------------------AGGTCAC	18
+2vanZ       ------------------------------------------------------AATTTT	6
+12ermB      ------------------------AAAATATA---------------------AAATATT	22
+                                                                        
+
+5rphC       G--AAATCAGTAGGGAGATTCGACAAATCCTTTTGGAAGTAGAAATTCCTTCTGATGTAG	289
+11tetB      ------------------------------------------------------------	0
+13tetB      ------------------------------------------------------------	0
+14tetC      ------------------------------------------------------------	0
+1vanF       T-------------------------------------CAGTATAATACGTCCGTTTTTC	145
+16vanF      T-------------------------------------CAGTATAATACGTCCGTTTTTC	145
+6vanF       T-------------------------------------CAGTATAATACGTCCGTTTTCC	145
+10vanF      AGCCGAT-----------------------------------------------------	116
+7tetB       ------------------------------------------------------------	0
+8tetH       TGGCAACCCATTACGGT------------GTGCTATTAGCGCTCTATGCT----------	153
+4vanS       CTACTATATTCTTC------------------------GCAATGAATAAA----------	109
+9catTC      ------------------------------------------------------------	16
+15lsaB      TCAAAATCCATCTTACGCAG-GATGG---ATTTAAATAACGGTTCATCAATCTCATGCTC	286
+3vanY       AATCACTCCATCTATATTAT-T--AC---CGGATATTTCATGATGTTCATTCGCTGGTAC	72
+2vanZ       TCGAAATAAAATTGGATAAT-GAAGT---AGTATCATACCTGTAAATGAACAAACTAAAT	62
+12ermB      CTCAAAACTTTTTAACGAGT-GAAAA---AGTACTCAACCAAATAATAAAACAATTGAAT	78
+                                                                        
+
+5rphC       TGAAAGAAGTAACTCAATATCTCTCCCGGTTTGGCGAGGAACATGCATATGCCGTGCGTT	349
+11tetB      ------------------------------------------------------------	0
+13tetB      ------------------------------------------------------------	0
+14tetC      ------------------------------------------------------------	0
+1vanF       TGCAAAAACA----------------TATCAACACGAGAAAGACCTTTACA-GCCGAGCG	188
+16vanF      TGCAAAAACA----------------TATCAACACGAGAAAGACCTTTACA-GCCGAGCG	188
+6vanF       TGCAAAAACA----------------TATCAACACGAGAAAGACCTTTACA-GCCGAGCG	188
+10vanF      ------------------ATACATCGGAATCACCCGATCCGGCGTT--TGG-AAAATGTG	155
+7tetB       -------ATG----------------------------CAGGTTATCTTTG-CTCCTTGG	24
+8tetH       ----ACCATG----------------------------CAGGTTATTTTTG-CTCCTATT	180
+4vanS       -------------CCGAGACCTGTGCTATTTTCTTGATGAGTTCGTGCTTT-GTCA-CCA	154
+9catTC      ---------------------------------------GGTT-----AGT-GACA-TTA	30
+15lsaB      TTCAATAAAGT--CCGATAACAGTCCC-TTCAAATGAGAAGTACCTTGTTG-GACA-TAG	341
+3vanY       TTCAACTTCAA--T------------------------TGTCTCATTTTGA-GAAA-TGG	104
+2vanZ       AAAAAACAGC---C----------------------------------------------	73
+12ermB      TTAAAAGAAA---C------------------------CGATACCGTTTAC-GAAA-TTG	109
+                                                                        
+
+5rphC       CTAGTGCGACTGCTGAAGATTT-----------GCCGCATGCCTC-TTTTGCTGGTCAAC	397
+11tetB      ------------------------------------------------------------	0
+13tetB      ------------------------------------------------------------	0
+14tetC      ------------------------------------------------------------	0
+1vanF       CCTTATAAATTGCTTTCGC-------CGTTTCTTGTATCTTTATGCGTTT----CTCT--	235
+16vanF      CCTTATAAATTGCTTTCGC-------CGTTTCTTGTATCTTTATGCGTTT----CTCT--	235
+6vanF       CCTTATAAATTGCTTTCGC-------CGTTTCTTGTATCTTTATGCGTTT----CTCT--	235
+10vanF      CGAAAAGCCATGCGTGGATTGGG-ACAACGAAAACTGCCGTTCGGCAGTGCTTTCTCCGG	214
+7tetB       CTTGGAAAAATGTCTGACCGATTTGGTCGGCGCCCAGTGCTGTTGTTGTCATTAATAGGC	84
+8tetH       CTAGGACGACTGTCTGATAAATACGGCAGAAAACCCATCTTGCTGTTTTCCCTTTTAGGC	240
+4vanS       GTAAAAAGCATATCGAAAATATGAGGCAGTTCATCTGGAGGAATGGCGTCCCCATAAT-T	213
+9catTC      GAAAACCGACTGTAAAAAGT------------------------ACAGTCGGCATTAT-C	65
+15lsaB      GAAATAACGAGGCCTGAACCTA----AATTCATTGAGCCTGTATGCTGTATCGGATTT-C	396
+3vanY       GGTAA-------TATGAAATTG----TATATTTTGTCCCATCAAC-ACTAACAGAAAT--	150
+2vanZ       -------------------TCG----TATTTTACGACTAAAGAGGAAATATC-AGGTT--	107
+12ermB      GAACA-------G-GTAAAGGG----CATTTAACGACGAAACTGGCTAAAATAAGTAA--	155
+                                                                        
+
+5rphC       ------AAGACACCTATTTACATATTA---------TCGG-CAAAGAAGCCATCCTGCAG	441
+11tetB      ------------------------------------------------------------	0
+13tetB      ------------------------------------------------------------	0
+14tetC      ------------------------------------------------------------	0
+1vanF       --------------GC-CGACAGGTTT-G-------CGGG-AACCAAAACAACTGCGTTT	271
+16vanF      --------------GC-CGACAGGTTT-G-------CGGG-AACCAAAACAACTGCGTTT	271
+6vanF       --------------GC-CGACAGGTTT-G-------CGGG-AACCAAAACAACTGCGTTT	271
+10vanF      ACAAAAAAATGCACGGGCTGCTTGTTATGCGGAATAAAGGATATCAAATACAACGTATAG	274
+7tetB       ------GCATCGCTGGATTACTTATTG---------CTGGCTTTTTCAAGTGCGCTTTGG	129
+8tetH       ------GCGGCACTCGACTATCTTTTA---------ATGGCATTCTCAACCACACTTTGG	285
+4vanS       ------GATAACTTGAATAACTACTTC---------CTTTGAATCAATAGAGCCGTTGAT	258
+9catTC      --------------------------------------TCATATTATAAAAGCCAGTCAT	87
+15lsaB      -------CTAGAATTAGTTTGAGGATA---------CTAC-TTTTTCCGCTTCCATTCTT	439
+3vanY       -------------------GCTCTTTT---------CTTC-TTTTAAATAATCCAAATAT	181
+2vanZ       -------------------TTATTTCA---------CCTC-TTTTATATA---------T	129
+12ermB      -------------------ACAGGTAA---------CGTC-TATTGAATTAGACAGTCAT	186
+                                                                        
+
+5rphC       CATATCAGCAAATGT--TGGGCCTCCCTATTTACGGATCGCGCA----GTCATTTACCGG	495
+11tetB      ------------------------------------------------------------	0
+13tetB      ------------------------------------------------------------	0
+14tetC      ------------------------------------------------------------	0
+1vanF       TCG-------GAGCCTTTTTCTGGTTGATCTTCTTGATGAATGCGAAAGATACCATGCGA	324
+16vanF      TCG-------GAGCCTTTTTCTGGTTGATCTTCTTGATGAATGCGAAAGATACCATGCGA	324
+6vanF       TCG-------GAGCCTTTTTCTGGGTGATCTTCTTGATGAATGCGAAAGATACCATGCGA	324
+10vanF      ACGCGGTATTTTCGGTTTTGCACGGCAAATCGGGTGAAGACGGCG--CCATACAAGGTTT	332
+7tetB       ATGCTGTATTTAGGC------CGTTTGCTTTCAGGGCTCACAGG---AGCTACTGGGGCT	180
+8tetH       ATGCTCTATATTGGG------CGCATCATTGCGGGGATCACAGG---CGCAACAGGTGCC	336
+4vanS       ATCTACA---TACTG------CCCATCATATCCATAACGGTTTG---CATTAATTAGAAG	306
+9catTC      TAG-----------G------CCTATCTGACAATTCCTGAATAG---AGTTCATAAA-CA	126
+15lsaB      TCCATCAAGTACAAT------TCGGTCACCTTGTTCAACTTTAA---AGCTAATTGGCTT	490
+3vanY       TCTTCC----AAAGC------TAAATTCATTTCCTGCATAATCA---CACTGTGAGGCAA	228
+2vanZ       CATTTTAAATAAAGC------TCTATATATTAAATACCCAATAA---TCGCGCCTAGGGT	180
+12ermB      CTATTCAACTTATCG------TCAGAAAAATTAAAACTGAATAC---TCGTGTCACTTTA	237
+                                                                        
+
+5rphC       --------------------------------ATGCAA---AATGGATTCGACCACAGTC	520
+11tetB      ------------------------------------------------------------	0
+13tetB      ------------------------------------------------------------	0
+14tetC      ------------------------------------------------------------	0
+1vanF       A-----------------AG-------------TGAAATTTGGTCCACTTCGCCAACGAT	354
+16vanF      A-----------------AG-------------TGAAATTTGGTCCACTTCGCCAACGAT	354
+6vanF       A-----------------AG-------------TGAAATTTGGTCCACTTCGCCAACGAT	354
+10vanF      A-TTTGAATTATCCGGCATCCCC-TATGTAGGCTGTGATGTTCAAAGTTCGGCGGTATGT	390
+7tetB       G--------TC-GCGGCATCGGT-CATTGCCGATACCACCTCAGCTTCTCAACGCGTGAA	230
+8tetH       G--------TA-TGTGCATCAGC-GATGAGTGATGTGACTCCCGCTAAAAATCGAACTCG	386
+4vanS       ATTTTCAAACA-CACGCGCCAAC-AACTCTCCATCACCCATAATAGATAAAGGGGAAGTA	364
+9catTC      ATCCTGCATGA-TAACCATCACAAACAGAATGATGTACCTGTAAAGATAGCGGT--AAAT	183
+15lsaB      ----------------ATTCACT-ATTTGGTCATTGTACTTAACAGACACATCAGCCAAA	533
+3vanY       G-----------CCGACATAACG-AATATGCCAAGGTTCATAATGAATTCCTGTAACA--	274
+2vanZ       G-----------TT--CATAAGT-AAATCATCAATATCTGTAATCCTATGATTTAGCA--	224
+12ermB      A-----------TT--CACCA------------AGATATT------------CTACAG--	258
+                                                                        
+
+5rphC       ACGTTTATTTAGCTGTTATCGTTCAAAGGATGGT-GTTCCCACAAGCTTCAGGGATATTA	579
+11tetB      ------------------------------------------------------------	0
+13tetB      ------------------------------------------------------------	0
+14tetC      ------------------------------------------------------------	0
+1vanF       TAAGTCGGTACCGTTTCCCAACACGGCACA---------GC-CAACTTCAAGGCCTGGAA	404
+16vanF      TAAGTCGGTACCGTTTCCCAACACGGCACA---------GC-CAACTTCAAGGCCTGGAA	404
+6vanF       TAAGTCGGTACCGTTTCCCAACACGGCACA---------GC-CAACTTCAAGGCCTGAAA	404
+10vanF      -------ATGGACAAATCCCTGACATACATTGTG----GCCAAAAATGCTGGTTTTGGCA	439
+7tetB       GT---G-GTTCGGTTGGTTAGGGGCAAGTTTTGGGCTTGGTTTAATAGCGGGGCCTATTA	286
+8tetH       CT---A-TTTTGGTTTCTTAGGTGGTGCTTTTGGTGTTGGCCTTATTATCGGCCCAATGC	442
+4vanS       AT-----ATTCGT-TCTTGCTA---TCAAATCGT----TTTTCTCTAAGACAGGATACAA	411
+9catTC      AT-----ATTGAATTACCTTTATTAATGAATTTT----CCTGCTGTAATAATGGGTAGAA	234
+15lsaB      ACAATCAATTCGTTTGACTGAA-ATTCCAATGGTTCTAATTTTAATGACTCAGTTTTTTC	592
+3vanY       -------ACCGTTTTATCCAAG----GGATAG------CGTAATATAAATCCGTATTCCC	317
+2vanZ       -------ATTGACTTAGCTCAA-TAGCCAATG------AGAAAAATAATCCAGTATATGC	270
+12ermB      -------TTTCAATTCCCTAAC-AAACAGAGG------TATAAAATTGTTGGGAATATTC	304
+                                                                        
+
+5rphC       TTTACCGCTGATCCGATTACTTCAAACCGTAAGGTGATA-TCCATTGATGCCAGTTATGG	638
+11tetB      ------------------------------------------------------------	0
+13tetB      ------------------------------------------------------------	0
+14tetC      ------------------------------------------------------------	0
+1vanF       CAGCTTGTTCAATC--------AGGACTTTACTGTCATA-------CTGCCTTGCTGTTT	449
+16vanF      CAGCTTGTTCAATC--------AGGACTTTACTGTCATA-------CTGCCTTGCTGTTT	449
+6vanF       CAGCTTGTTCAATC--------AGGACTTTACTGTCATA-------CTGCCTTGCTGTTT	449
+10vanF      CTCCTGAATTTTTG----ATTTTGAATCATGGCGATAAACCGGATTCAAATACCTTAACA	495
+7tetB       TTGGTGGTTTTGTA-----GGAGAGATTTCACCGCA----------TAGTCCCTTTTTTA	331
+8tetH       TAGGGGGATTATTA-----GGTGATATCAGTGCTCA----------TATGCCATTTATTT	487
+4vanS       CTCTTCTTTTAATT-----GAATAAGTAGCTCGCTTAAA-TCGATTTGTTTCTTTTCAAT	465
+9catTC      GGTAATTACTATTA-----TTATTGATATTTAAGTTAAA-CCCAGT--------------	274
+15lsaB      CACATTTTTTAGCA-----GTTTTGACTTTTCCTCAATA-GCTTTTTGTTGCCTTGATTC	646
+3vanY       AAGAATTTTTTTC---------------------------------TATCCACCTTCCTT	344
+2vanZ       AACATTT-----------------------------------------------------	277
+12ermB      CTTACAATTTAAG---------------------------------CACACAAATTATTA	331
+                                                                        
+
+5rphC       ACTTGGAGAAGCACTGGTCTCTGGCCTGGTCTCTGCCGATTG--TTATAAAGTAAAGGAA	696
+11tetB      ------CTAAGCACTTGTCTCCTGTTTACTCCCCTG------------------------	30
+13tetB      ------CTAAGCACTTGTCTCCTGTTTACTCCCCTG------------------------	30
+14tetC      -------------------TC----------AGGTC------------------------	7
+1vanF       CAATGGCGGTGTGTAATTCG---TCCTAGTTATTG----------ACTTTATTCACGCCG	496
+16vanF      CAATGGCGGTGTGTAATTCG---TCCTAGTTATTG----------ACTTTATTCACGCCG	496
+6vanF       CAATGGCGGTGTGTAATTCG---TCCTCGTTATTG----------ACTTTATTCACGCCG	496
+10vanF      TATCCTGTTTTTGTTAAACC---GGCGCGTTCCGGCTCA------TCTTTCGGCGTGAAT	546
+7tetB       TCGCTGCGTTGCTAAATATT---GTCACTTTCCTTGTGGTTATGTTTTGGTTCCGTGAAA	388
+8tetH       TTGCCGCTATTTCACACTCG---ATATTATTAATACTCTCTTTGCTCTTTTTCCGAGAAA	544
+4vanS       TGGTAACATGCCATAATTCA---TCCTAGTTATT-------------TCGAATAATTCAT	509
+9catTC      --------------AAATGA--------AGTCCA-------------TGGAATAATAGAA	299
+15lsaB      AAGGTTCTTTGCTCTCTTCA---TCATCTTTGCTGCTTTATGTCCTACAAAACCCTTGTC	703
+3vanY       CAGGTGCT-----TTATCCA---TCTTCATTTGA-------------GTAGATCCCACAT	383
+2vanZ       -------------------------TTGATTGTT-------------CTAAACTG-----	294
+12ermB      AA-----------------A---AAGTGGTTTTT-------------GAAAGCCGTG---	355
+                                                                        
+
+5rphC       GGAGAGATCATCGAGAAGAGGATCGCGGCCAAAAAATTAGCGATCTATGGACGTAAAGAA	756
+11tetB      ------------------------------------------------------------	30
+13tetB      ------------------------------------------------------------	30
+14tetC      ------------------------------------------------------------	7
+1vanF       AAAG--------------AT---------GAG--------CCGGAACG--------CGCC	517
+16vanF      AAAG--------------AT---------GAG--------CCGGAACG--------CGCC	517
+6vanF       AAAG--------------AT---------GAG--------CCGGAACG--------CGCC	517
+10vanF      AAAG--------------TC-AATAACTAGGA-------CGAATTACA--------CACC	576
+7tetB       CCAA--------AAATACACGTGATA---ATA-------CAGAT--AC--------CGAA	420
+8tetH       CACA--------AAAAAGAGAAGCGCTTGTTG-------CCAAT--AG--------GACA	579
+4vanS       CAAT----------CAACCG-TTCTAGGCGTT-------GAGAT-TTA--------GT--	540
+9catTC      AGAG-------AAAAAGCAT-TTTCAGGTATA-------GGTGTTTTG--------GG--	334
+15lsaB      CAAC-------TTGGAACCCGAATTCGTTGTC--------CCATTTTT--------GGAA	740
+3vanY       CAAG-------CGATAACCCCAAATTGTGTTC-------GCTATGACC--------TGCT	421
+2vanZ       ----------------------------CGGC-------CAAATAGTT--------GG--	309
+12ermB      -------------------------CGTCTGA-------CATCTATCT--------GACT	375
+                                                                        
+
+5rphC       GGCGGAATAGAGACACAACAGATTGATCCTGAGCAGCAAAAGACTCAAACTCTTACGGAG	816
+11tetB      ------------------------------------------------------------	30
+13tetB      ------------------------------------------------------------	30
+14tetC      ------------------------------------------------------------	7
+1vanF       GGTTTAACAAAAACAGGATATGTTAAGGTAT-----------------------------	548
+16vanF      GGTTTAACAAAAACAGGATATGTTAAGGTAT-----------------------------	548
+6vanF       GGTTTAACAAAAACAGGATATGTTAAGGTAT-----------------------------	548
+10vanF      ---GCCATTGAAACAGCAAGGCA----GTA------------------------------	599
+7tetB       GTAGGGGTTGAGACGCAATCGAATTCGGTAT-----------------------------	451
+8tetH       CCTGAAAACCAAACTGCCTCAAATACAGTCA-----------------------------	610
+4vanS       ----AAAGGCAATCGTTAAAAAATGCCTGAT-----------------------------	567
+9catTC      ----AAACAATTTCCCCGAACCATTATATTT-----------------------------	361
+15lsaB      GCTTCCACTTGATTAGACCAGCCTGCTGTAC-----------------------------	771
+3vanY       GGCAAAGCAAAATCAGAACCCATTTCTTCGT-----------------------------	452
+2vanZ       ---CAATAAAAATCCTAACGGCATAAATAAA-----------------------------	337
+12ermB      GTTGAAGAAGGATTCTACAAGCGTACCTTGG-----------------------------	406
+                                                                        
+
+5rphC       CAACAAATCTTGCAACTAGCACGCATCGGAAGGCATATCGAAGCCTATTTTGGTTGCCCG	876
+11tetB      ------------------------------------------------------------	30
+13tetB      ------------------------------------------------------------	30
+14tetC      ------------------------------------------------------------	7
+1vanF       ----------------------------------TTGAAT----CCGGTTTA-TCG--CC	567
+16vanF      ----------------------------------TTGAAT----CCGGTTTA-TCG--CC	567
+6vanF       ----------------------------------TTGAAT----CCGGTTTA-TCG--CC	567
+10vanF      ------------------------------------------------------------	599
+7tetB       ----------------------------------ACATCA-----C--------------	458
+8tetH       ----------------------------------CTGTTT-----T--------------	617
+4vanS       ----------------------------------CTGATT-----T-------TCAGTCA	581
+9catTC      ----------------------------------CTCTAC-----A--------------	368
+15lsaB      ----------------------------------GCTTTGAAGACTGTTTTAATCTCCCT	797
+3vanY       ----------------------------------AAAGTC-----TGCTTTG-CTCATCT	472
+2vanZ       ----------------------------------ATAATG-----TTC-----AAAATAT	353
+12ermB      ----------------------------------ATATTC-----ACC-----GAACACT	422
+                                                                        
+
+5rphC       CAAGATATCGAGTGGTGCCTGGTTGATGATACCTTTTACATTGTCCAGAGTCGGCCAATC	936
+11tetB      ----------------------------------------------AGCTTGAGGGGTTA	44
+13tetB      ----------------------------------------------AGCTTGAGGGGTTA	44
+14tetC      ----------------------------------------------GAGGTGGCCCGGCT	21
+1vanF       A--------TGATTC---------------------------------------------	574
+16vanF      A--------TGATTC---------------------------------------------	574
+6vanF       A--------TGATTC---------------------------------------------	574
+10vanF      ---------TGACAG---------------------------------------------	605
+7tetB       ---------TTTATT---------------------------------------------	464
+8tetH       ---------TTTTAA---------------------------------------------	623
+4vanS       A----GCTATCATCC---------------------------------------------	592
+9catTC      ------------TCA---------------------------------------------	371
+15lsaB      A----TGTCTTTTTG---------------------------------------------	808
+3vanY       A----AGTCTCGAAA---------------------------------------------	483
+2vanZ       A------TGTAGTAA---------------------------------------------	362
+12ermB      A----GGGTTGCTCT---------------------------------------------	433
+                                                                        
+
+5rphC       ACGACATTATACCCGATTCCTGAAGCGAATGATCAGGAAAATCGCGTTTATGTCTCTGTC	996
+11tetB      ACATGAAGGTCATCGATAG--CAGGATAATAATACAGTAAAACGC-------------TA	89
+13tetB      ACATGAAGGTCATCGATAG--CAGGATAATAATACAGTAAAACGC-------------TA	89
+14tetC      CCATGCACCGCGACGCAACGCGGGGAGGCAGACAAGGTATAGGGC-------------GG	68
+1vanF       ----------------------------------------------------------AA	576
+16vanF      ----------------------------------------------------------AA	576
+6vanF       ----------------------------------------------------------AA	576
+10vanF      ----------------------------------------------------------TA	607
+7tetB       ----------------------------------------------------------TA	466
+8tetH       ----------------------------------------------------------GA	625
+4vanS       ----------------------------------------------------------TT	594
+9catTC      ----------------------------------------------------------GA	373
+15lsaB      ----------------------------------------------------------TA	810
+3vanY       ----------------------------------------------------------AC	485
+2vanZ       ----------------------------------------------------------TA	364
+12ermB      ----------------------------------------------------------TG	435
+                                                                        
+
+5rphC       GGTCACCAACAAATGATGACCGATCCCATGAAACC--GCTGGGATTGTCTTTTTTCCAGT	1054
+11tetB      AACCAATAATCCAAATCCAGCCATCCCAAATTGGT--AGTGAATGATTATAAATAACAGC	147
+13tetB      AACCAATAATCCAAATCCAGCCATCCCAAATTGGT--AGTGAATGATTATAAATAACAGC	147
+14tetC      CGCCTACAATCCATGCCAACCCGTTCCATGTGCTC--GCCGAGGCGGCATAAATCGCCGT	126
+1vanF       AATCAAAAATTCAGGAGTGCCAAAACCA------------------GCATTTTTGGCCAC	618
+16vanF      AATCAAAAATTCAGGAGTGCCAAAACCA------------------GCATTTTTGGCCAC	618
+6vanF       AATCAAAAATTCAGGAGTGCCAAAACCA------------------GCATTTTTGGCCAC	618
+10vanF      AAGTCCT-------GATTGAACAAGCTG------T-------------------TCCAGG	635
+7tetB       AAA-----------CGATGCCCATTTTG------T------TGATTATTTATTTTTCAGC	503
+8tetH       AAA-----------GCCTCTACTTTTGG------T------TAGCAACCTATTTTATTAT	662
+4vanS       AAGGATT-------AAATCTAAATAACC------T-----------------------AA	618
+9catTC      AAGGTAT-------AAATCATAAAACTC------TT-T-------------------GAA	400
+15lsaB      GACGCTGATTTGTTGCCTCTTCGTGTTC---CTGCTGTCTATCAAAATTTAACTTCCAAG	867
+3vanY       CACTGCTAATTAAAAAGTGCCAAACCCC---ATCTTTTTTAGCATCAGCTATCATCTTGG	542
+2vanZ       CCTTCAGAAGCAAAGGGGAGTAAGTTGATTTCACTTATACGAATTAATGTTTCATATTTT	424
+12ermB      CACACTCAAGTCTCGATTCAGCAATTGCTTAAGCTG-CCAGCGGAATGCTTTCATCCTAA	494
+                                                                        
+
+5rphC       TAACCAATCCAGCACCCATGCGTAAA-----------GCCGGTGGCAGAT--TGTTTGTT	1101
+11tetB      AAAC-AGTAATGGGCCAATAACACCGGTTGCATTGGTAAGGCTCACCAAT--AATCCCTG	204
+13tetB      AAAC-AGTAATGGGCCAATAACACCGGTTGCATTGGTAAGGCTCACCAAT--AATCCCTG	204
+14tetC      GAAG-ATCAGCGGTCCAATGATCGAAGTTAGGCTGGTAAGAGCCGCGAGC--GATCCTTG	183
+1vanF       AATG-TATGTCA--GGGATTTGTCCATACATACCGCCGAACTTTGAACAT----------	665
+16vanF      AATG-TATGTCA--GGGATTTGTCCATACATACCGCCGAACTTTGAACAT----------	665
+6vanF       AATG-TATGTCA--GGGATTTGTCCATACATACCGCCGAACTTTGAACAT----------	665
+10vanF      CCTT-GAAGTTG---------G---------CTGTGCCGTGTTGGGA-------------	663
+7tetB       GCAA-TTGATAGGCCAAATTCCCGCAACGGTGTGGGTGCTATTTACCGAA--AATCGTTT	560
+8tetH       CCAG-CTTATCGGGCAAATTCCTGCCACCATCTGGGTGCTGTTTACACAA--TATCGTTT	719
+4vanS       AACA-GAGGTAA--GAGGTGTGCGCAA--ATCATGAGCCAAATTCAA-----------T-	661
+9catTC      GTCA-TTCTTTA--CAGGAGTCCAAAT--ACCAGAGAA-------TG-----------T-	436
+15lsaB      AAGA-ATAGTTA--CCACTTTGAACTTCAATATTTGCCCTATTTATAGATAAAATATGAT	924
+3vanY       AAAA-TTTTTTA--GCTATTTCTTCTGACAATTTAATTTCGTTATCAAGT-------AAC	592
+2vanZ       CCTA-TCAC------------CCATATATTTCCTACCCCCGTCACCA-------------	458
+12ermB      ACCA-AAAGTAA--ACAGTGTCTTAATAAAACTTACCCGCCATACCA-------------	538
+                                                                        
+
+5rphC       GATGTGACACCCATGCTGGCTAGCAGAGACAATACATTACATTACCTGGGTCAATCCGAT	1161
+11tetB      TAAAGCACCTTGCTGATGACTCTTTGTTTGGATAGACATCACTCCCTGTAATGC------	258
+13tetB      TAAAGCACCTTGCTGATGACTCTTTGTTTGGATAGACATCACTCCCTGTAATGC------	258
+14tetC      AAGCTGTCCCTGATGGTCGTCATCTACCTGCCTGGACAGCATGGCCTGCAACGC------	237
+1vanF       ---CACAGCCTACATAGGGGATGCCGGATAATTC---------AAATAAACC--------	705
+16vanF      ---CACAGCCTACATAGGGGATGCCGGATAATTC---------AAATAAACC--------	705
+6vanF       ---CACAGCCTACATAGGGGATGCCGGATAATTC---------AAATAAACC--------	705
+10vanF      ------------------------------------------------------------	663
+7tetB       TGGATGGAATAGCATGATGGTTGGCTTTTCATTAGC-------GGGTCTTGGTCTTTTAC	613
+8tetH       TGATTGGAACACAACTTCTATCGGTATGTCTTTGGC-------GGTTCTGGGTGTATTAC	772
+4vanS       -ACTAACTGCTCTTTACTATTTTCCGAAAAGTCACCC----CTTTCTATAGCCTTTTCCA	716
+9catTC      -TTTAGATACACCATCAAAAATTGTATAAAGTGGCTC----TAACTTATCCCAATAACCT	491
+15lsaB      CAACACATCCATCTAAAAAGTTTCTGTCATGTGAAAT----TAAAATAAACCCTTTTTTC	980
+3vanY       CCATACCCCTTTGTCAATTCTTCGTGCGTAAATAAAT----TTATGACATCTGATTTTAT	648
+2vanZ       -TATAC--ACTAGCGCAAGG-TAGAAAAGAAAAA----------CATACACCCATAGAAA	504
+12ermB      -CAGATGTTCCAGATAAATATTGGAAGCTATATA----------AGTACTTTGTTTCAAA	587
+                                                                        
+
+5rphC       CCGCTTATCAAAGACGCACTGATGACCATAATAGAGCGAGACTTTATAAAAACGTTACCA	1221
+11tetB      -----------AGGTAAAGCGATCCCACCACCAGCCAATAAAATTAAAACAGGG------	301
+13tetB      -----------AGGTAAAGCGATCCCACCACCAGCCAATAAAATTAAAACAGGG------	301
+14tetC      -----------GGGCATCCCGATGCCGCCGGAAGCGAGAAGAATCATAATGGGG------	280
+1vanF       --------------TTG-TATGGCGCCGTCTTCACC-------------CGATTTGCCGT	737
+16vanF      --------------TTG-TATGGCGCCGTCTTCACC-------------CGATTTGCCGT	737
+6vanF       --------------TTG-TATGGCGCCGTCTTCACC-------------CGATTTGCCGT	737
+10vanF      --------------AAC-GGTACCGACTTAATCGTTGGCGAAGTGGACCAAATTTCACTT	708
+7tetB       ACTCA---------GTA-TTCCAAGCCTTTGTGGCAGGAAGAATAGCCACTAAATGGGGC	663
+8tetH       ATATT---------TTC-TTTCAGGCGATTGTCGCTGGGAAATTGGCACAAAAATGGGGC	822
+4vanS       ATTTT---------TCA-CTTGCCTGATTAATGCCTTGTGCAATATCACTAAATTCATCA	766
+9catTC      AACTC---------TCC-GTCGCTATTGTAACCAGT-----------TCTAAAAGCTGTA	530
+15lsaB      TTCCTT-----AGATAA-TCAGAGACCGTCTTTCGTGCATCAGTGTCTAGATGATTGGTT	1034
+3vanY       ACTCT---------TTT-GGCGAACAGGATGTTCATTGTTGACCAAGAGTAGATTCCCAT	698
+2vanZ       ATGCT---------TAA-TAGATAATTTTTTTTGCGCCTTTAATAAAAATCCAGTTTGAA	554
+12ermB      ATGGG---------TCA-ATCGAGAATATCGTCAACTGTTTACTAAAAATCAGTTTCGTC	637
+                                                                        
+
+5rphC       GATGAGAATATAAAACCAAGTCCAATCAAAAGCATTACAGATACGA---TTCGTGAA---	1275
+11tetB      ---AAAACTAACCAAC---CTTCAGATATAAACGCTAAAAAGGCAAATGCACTACTA---	352
+13tetB      ---AAAACTAACCAAC---CTTCAGATATAAACGCTAAAAAGGCAAATGCACTACTA---	352
+14tetC      ---AAGGCCATCCAGC---CTCGCGTCGCGAACGCCAGCAAGACGTAGCCCAGCGCG---	331
+1vanF       GCAAAACCGAAAATACCGCGT---CT-ATACGTTGTATTTGATATCCTTTATTCCGCA--	791
+16vanF      GCAAAACCGAAAATACCGCGT---CT-ATACGTTGTATTTGATATCCTTTATTCCGCA--	791
+6vanF       GCAAAACCGAAAATACCGCGT---CT-ATACGTTGTATTTGATATCCTTTATTCCGCA--	791
+10vanF      T--------------------------------CGCATGGTATCTTTCGCATTCATCAAG	736
+7tetB       GAAAAAACGGCAGTACTGCTCGGATTTATTGCAGATAGTAGTGCATTTGCCTTTTTAGCG	723
+8tetH       GAAAAAACCACCATTATGATCAGTATGTCTATTGATATGATGGGCTGTTTATTATTAGCG	882
+4vanS       T----TTGACAA-----------------T------ATTTGAACTCGATGCTTAAAG---	796
+9catTC      T----TTGAGTT-----------------TATCACCCTTGTCACTAAGAAAATAAAT---	566
+15lsaB      GGCTCATCAATT-----------------AATAGAAATTGACCCTCAGTCAAAAAAAGTG	1077
+3vanY       GATAGATCTGTT-----------------CTTCCGTAAGCTCAATCTTTT----------	731
+2vanZ       ACACAATACAAA-----------------AAATAAT-AGTACAAAAATAAGTATA-----	591
+12ermB      AAGCAATGAAAC-----------------ACGCCAA-AGTAAACAATTTAAGTA------	673
+                                                                        
+
+5rphC       --ATTGAAAACAATCCGTCAATCGTTCCTGATT---TGATTCAGC--------GTAGCCA	1322
+11tetB      --TCTGCAATAAATCCGAGCAGTACTGCCGTTT---TTTCGCCCCATTTAGTGGCTATTC	407
+13tetB      --TCTGCAATAAATCCGAGCAGTACTGCCGTTT---TTTCGCCCCATTTAGTGGCTATTC	407
+14tetC      --TCGGCCGCCATGCCGGCGATAATGGCCTGCT---TCTCGCCGAAACGTTTGGTGGCGG	386
+1vanF       --TAACAAGCAGCCCGTGC-------------------ATTTTTTTGTCCGGAGAAAGCA	830
+16vanF      --TAACAAGCAGCCCGTGC-------------------ATTTTTTTGTCCGGAGAAAGCA	830
+6vanF       --TAACAAGCAGCCCGTGC-------------------ATTTTTTTGTCCGGAGAAAGCA	830
+10vanF      AAGATCAACCAGAAAAAGGCTCCGAAAACG------CAGTTGTTTTGGTTCCCGCAAACC	790
+7tetB       --TTTATATCTGAAGGTTGGTTAGTTTTCCCTGTTTTAATTTTATTGGCTGGGGGGGGGA	781
+8tetH       --TGGATAGGCCACGTTTGGGTCATCTTACCAGCATTAATTTGCTTAGCGGCAGGAGGTA	940
+4vanS       ----TCACCCTGAGCGAGATAATGAATTCC-----------TTTTGAAATCTCATTGAAA	841
+9catTC      ----GCAGGGTAAAATTTATATCCTTCTTG-----------TTTT-ATGTTTCGGTATAA	610
+15lsaB      --CAGCAAGCAACACCTTTGTTTGTTCTCCATTTGATAATGTTTTAAATGGTCGGTACAT	1135
+3vanY       ----GGATATTTTCAGTAGCTGTATTATCATTTTGTTCATATTTT---------------	772
+2vanZ       ----CAAAACTGTAGCTGCAAGCAT-----------------------------------	612
+12ermB      ----CCATTACTTATGAGCAAGTATTGTCTA----------TTTT---------------	704
+                                                                        
+
+5rphC       AGCATCGATCGAAGCGTTGAAACAAAATATCCAAAC-GAAATCAGGATCGGATTTGTTTG	1381
+11tetB      TTCCTGCCACAAAGGCTTGGAATACTGAGTGTAAAA------------------------	443
+13tetB      TTCCTGCCACAAAGGCTTGGAATACTGAGTGTAAAA------------------------	443
+14tetC      GACCAGTGACGAAGGCTTGAGCGAGGGCGTGCAAGA------------------------	422
+1vanF       CTGCCGAACGGCAGTT------------------------TTCGTTGTCCCAATCCACGC	866
+16vanF      CTGCCGAACGGCAGTT------------------------TTCGTTGTCCCAATCCACGC	866
+6vanF       CTGCCGAACGGCAGTT------------------------TTCGTTGTCCCAATCCACGC	866
+10vanF      TGTCGGCAGAGAAACG---------------------CATAAAGATACAAGAAACGGCGA	829
+7tetB       T--CGCTTTACCTGCATTACAGGGAGCGATGTCTATCCAAACAAAG--AGTCATCAGCAA	837
+8tetH       T--GGGGCAACCCGCATTACAAGGTTATTTATCAAAATCTGTCGAT--GATAATGCGCAA	996
+4vanS       TA-GGCAGAATAGGGTTTTGTAAGTAAAAAGAAAAACAATATCGAAAGCAGGATAAA-TA	899
+9catTC      AACACTAATATCAATTTCTGTGGTTATACT--AAAA----GTCGTTTGTTGGTTCAAATA	664
+15lsaB      GACCTCAGCATCAACA-----------------------TTTAGATAGGATATTTCACGA	1172
+3vanY       ------------------------------------------------------------	772
+2vanZ       ------------------------------------------------------------	612
+12ermB      ------------------------------------------------------------	704
+                                                                        
+
+5rphC       ATTTTATTCTTGAAGATCTCGAGCAATTAAAGATGTTTGTATTTGATCCGCAGAGTTTAC	1441
+11tetB      ---GACCAAGACCCGCTAATGAAAAGCCAACCATCATGCTATTCCATCCAAAACGATTTT	500
+13tetB      ---GACCAAGACCCGCTAATGAAAAGCCAACCATCATGCTATTCCATCCAAAACGATTTT	500
+14tetC      ---TTCCGAATACCGCAAGCGACAGGCCGATCATCGTCGCGCTCCAGCGAAAGCGGTCCT	479
+1vanF       AT-----------------------------GGCTTTTCGCACATTTTCCAAACGCCGGA	897
+16vanF      AT-----------------------------GGCTTTTCGCACATTTTCCAAACGCCGGA	897
+6vanF       AT-----------------------------GGCTTTTCGCACATTTTCCAAACGCCGGA	897
+10vanF      AAGCAATTTATAAGGCGCT-----------CGGC-TGTAAAGGTCTTT-CTCGTGTTGAT	876
+7tetB       GG-TGCTTTACAGGGATTA----------------TTGGTGAGCCTTACCAATGCAACCG	880
+8tetH       GG-GAAATTACAAGGTACT----------------CTGGTGAGCCTAACCAATATTACCG	1039
+4vanS       AC--AG-TAAAAA--GACGTTAAGGTCTCCAATATTTTGTATGATTTTGCGAAAATAAGC	954
+9catTC      AT--GATTAAATA--TCTCTTTTCTCTTCCAATTGTCTAAATCAATTT------------	708
+15lsaB      AG-AAATTCCCAATCTTCTGCTTGGGGGCAAATTTCTTCAAAGATTT--CATGAGTATAC	1229
+3vanY       ----------------------------------------------T--GAATATCTACT	784
+2vanZ       ------------------------------------------------------------	612
+12ermB      -------------------------------------------------TAATAGTTATC	715
+                                                                        
+
+5rphC       GTGTGATTCTGGCTGCAATGGATGCTGCAACATGGATCAATGC-AAATATGAACGAGTGG	1500
+11tetB      CGGTAAATAGCACCCACACCGTTGCGGGAATTTGGCCTATCAA-TTGCGCTGAAAAATAA	559
+13tetB      CGGTAAATAGCACCCACACCGTTGCGGGAATTTGGCCTATCAA-TTGCGCTGAAAAATAA	559
+14tetC      CGCCGAAAATGACCCAGAGCGCTGCCGGCACCTGTCCTACGAG-TTGCATGATAAAGAAG	538
+1vanF       TCGGGTGATTCCGATGTATATCGGCTCATA-------------------TTTTTCTGTGT	938
+16vanF      TCGGGTGATTCCGATGTATATCGGCTCATA-------------------TTTTTCTGTGT	938
+6vanF       TCGGGTGATTCCGATGTATATCGGCTCATA-------------------TTTTTCTGTGT	938
+10vanF      ATGTTTTTGCAGAAAAACGGACGTATTATACT-----GAATG----AAGTCAATACGTTG	927
+7tetB       GTGTTATTGGCCCATTACTGTTTGCTGTTATTTATAATCATTCACTACCAATTTGGGATG	940
+8tetH       GGATCATTGGTCCCCTTTTATTTGCCTTTATTTATAGTTATAGCGTCGCTTATTGGGATG	1099
+4vanS       TAGTGTATCTCCATAACTAACATTTGTATAATAATACAATTGGAGTACTTTAAAGAGTAG	1014
+9catTC      -------------------------------------TATTAAAGTTCAT----------	721
+15lsaB      TTGTTTTTATCCGAAACTGGATAAGGGAAAT------AATT-----AAATTCTACCGAAG	1278
+3vanY       TTATCTTTG----------GATATCGGTAAT------ATATTA---AAAATAAAAACTAG	825
+2vanZ       ------------------------------------------------------------	612
+12ermB      TATTATTTA----------ACGGGAGGAAAT------AA---------------------	738
+                                                                        
+
+5rphC       TTAGGTGAAAA-ACACGCAGCAGATACACTTTCTCAATCTGTACAGGACA------ATAT	1553
+11tetB      ATAATCAACAAAATGGGCATCGTTTTAAATAAAGTGATGTATACCGAATT------C---	610
+13tetB      ATAATCAACAAAATGGGCATCGTTTTAAATAAAGTGATGTATACCGAATT------C---	610
+14tetC      ACAGTCATAAGTGCGGCGACGATAGTC-ATGCCCCGCGCCCACCGGAAGG------AGCT	591
+1vanF       CGAT--GTTAT-CG----------------------------------------------	949
+16vanF      CGAT--GTTAT-CG----------------------------------------------	949
+6vanF       CGAT--GTTAT-CG----------------------------------------------	949
+10vanF      CCGG--GATTC-AC-------------------------------GGTATACAGCCGTTA	953
+7tetB       GCTG--GATTT-GG----------------------------------------------	951
+8tetH       GTCT--GTTAT-GG----------------------------------------------	1110
+4vanS       GTAT--GTTAT--GGCGCTAGACAACAACATGCTTAAACATAACAATAAT---ATCATTT	1067
+9catTC      ------------------------------------------------------------	721
+15lsaB      AAAT--GATTT-TGCCACTATACTCATAATTCCCTAATAATAAATGAAAGAATGTTGTTT	1335
+3vanY       AAAT--AATGC-AA-----------------------AAACCAATAAAAAACCCCACTTT	859
+2vanZ       ------------------------------------------------------------	612
+12ermB      ------------------------------------------------------------	738
+                                                                        
+
+5rphC       TACTTCGGAAATGGGTCTGGCGCTATTGGATGTCGCAGATGTGATCCGTCCTTATCCGGA	1613
+11tetB      --------GATTGCGTCTCAACCCCTACTT---------CGGTATCTGTATTATCACGTG	653
+13tetB      --------GATTGCGTCTCAACCCCTACTT---------CGGTATCTGTATTATCACGTG	653
+14tetC      --------GACTGGGTTGA-AGGCTCTCAA---------GGGCATCGGTCGACGC-TCTC	632
+1vanF       --------------------------GCAATCTC--------------------------	957
+16vanF      --------------------------GCAATCTC--------------------------	957
+6vanF       --------------------------GCAATCTC--------------------------	957
+10vanF      TCCCCGTATGATGGCTGCCGCGGGGATGACACTTTCCGGGTTAATTG-------------	1000
+7tetB       -----------------ATTATTGGTTTAGCGTTTTACTGTATTATTATCCT--------	986
+8tetH       -----------------CTGATGGGGGCAATACTTTTTGCTATGTTGCTTAT--------	1145
+4vanS       TTGAACGA------------AAGCCTCGTAGTATTTTAACCAT-----------------	1098
+9catTC      ------------------------------------------------------------	721
+15lsaB      TACCTCGTCCATTTCTACCGATAAATCCAAGTTTCCAATCCGTATCT-------------	1382
+3vanY       TTCAT-------------------------------------------------------	864
+2vanZ       ------------------------------------------------------------	612
+12ermB      ------------------------------------------------------------	738
+                                                                        
+
+5rphC       GATCATTGAATATTTGCAACATGTCAAAGATGAGCACTTTTTGGATGAACTGCTTACGTT	1673
+11tetB      TATTTTTG---GTTTCACGGAACCAAAACATAACCACAAGGAAAGTGACAATATTTAGCA	710
+13tetB      TATTTTTG---GTTTCACGGAACCAAAACATAACCACAAGGAAAGTGACAATATTTAGCA	710
+14tetC      CCTTATGC---GACTCCTGCATTAGGAAGCAGCCCAGTAGTAGGTTGAGGCCGTTGAGCA	689
+1vanF       ---TTTCGCCGATTTTACCGACACAT---CGTGTTCCTCTGAGCAGCCCC----------	1001
+16vanF      ---TTTCGCCGATTTTACCGACACAT---CGTGTTCCTCTGAGCAGCCCC----------	1001
+6vanF       ---TTTCGCCGATTTTACCGACACAT---CGTGTTCCTCTGAGCAGCCCC----------	1001
+10vanF      ----------------ATCATTGCATCACACTGGCACTCAAAGGATG-------------	1031
+7tetB       -GCTATCGATGACCTTCATGTT---A--ACCCCTCAAGCTCAGGGGAG------------	1028
+8tetH       ---TACCGCTTATTTTCACCAAAGAA--AAACCACAC-CTAAAGCTG-------------	1186
+4vanS       ------------------------------------------------------------	1098
+9catTC      ------------------------------------------------------------	721
+15lsaB      ---ATTTGAAAGTTTACACCTTCAAAAATATTGTCAAAGCTACCTGGA------------	1427
+3vanY       ------------------------------------------------------------	864
+2vanZ       ------------------------------------------------------------	612
+12ermB      ------------------------------------------------------------	738
+                                                                        
+
+5rphC       GGATGGCGGGCAGAAAGC----CCGAGACGCGATCTATGCT----TATCTCGACAAATAC	1725
+11tetB      ACGCAGCGATAAAAAAGGGACTATGCGGTGAAATCTCTCCTGCAAAACCACCAATAATAG	770
+13tetB      ACGCAGCGATAAAAAAGGGACTATGCGGTGAAATCTCTCCTACAAAACCACCAATAATAG	770
+14tetC      CCGCCGCCGCAAGGAATGGTGCATGCAAGGAGATGGCGCCCAACAGTCCCCCGGCCACGG	749
+1vanF       ---------CAAACAGGA-------------G----------------------------	1011
+16vanF      ---------CAAACAGGA-------------G----------------------------	1011
+6vanF       ---------CAAACAGGA-------------G----------------------------	1011
+10vanF      ------------------------------------------------------------	1031
+7tetB       ---------TAAACAGGA-------------G----------------------------	1038
+8tetH       ---------TTAT------------------T----------------------------	1191
+4vanS       ------------------------------------------------------------	1098
+9catTC      ------------------------------------------------------------	721
+15lsaB      ---------TAAGAAAAA-------------G----------------------------	1437
+3vanY       ------------------------------------------------------------	864
+2vanZ       ------------------------------------------------------------	612
+12ermB      ------------------------------------------------------------	738
+                                                                        
+
+5rphC       GGAATGCGATGTGCCGG-----AGAAATCGATCTTACCAGAACGCGCTGGATCGAA---A	1777
+11tetB      GCCCCGCTATTAAACCAAGCCCAAAACTTGCCCCTAACCAACCGAACCACTTCACGCGTT	830
+13tetB      GCCCCGCTATTAAACCAAGCCCAAAACTTGCCCCTAACCAACCGAACCACTTCACGCGTT	830
+14tetC      GGCCTGCCACCATACCCACGCCGAAACAAGCGCTCATGAGCCCGAAGTGGCGAGCCCGAT	809
+1vanF       -----------------------------------------------------------G	1012
+16vanF      -----------------------------------------------------------G	1012
+6vanF       -----------------------------------------------------------G	1012
+10vanF      ------------------------------------------------------------	1031
+7tetB       -----------------------------------------------------------A	1039
+8tetH       -----------------------------------------------------------T	1192
+4vanS       ------------------------------------------------------------	1098
+9catTC      ------------------------------------------------------------	721
+15lsaB      -----------------------------------------------------------T	1438
+3vanY       ------------------------------------------------------------	864
+2vanZ       ------------------------------------------------------------	612
+12ermB      ------------------------------------------------------------	738
+                                                                        
+
+5rphC       AACCAATTACGATTGTCCCGTTGATTCT--TGGCAACATCAAAAACTTTGA---GCCTAA	1832
+11tetB      GAGAAGCTGAGGTGGTATCGGCAATGACCGATGCCGCGACAGCCCCAGTAGCTCCTGTGA	890
+13tetB      GAGAAGCTGAGGTGGTATCGGCAATGACCGATGCCGCGACAGCCCCAGTAGCTCCTGTGA	890
+14tetC      CTTCCCCATCGGTGATGTCGGCGATATAGGCGCCAGCAACCGCACCTGTGGCGCCGGTGA	869
+1vanF       GCTATTTTCAATCTATTCAA----------------------------------------	1032
+16vanF      GCTATTTTCAATCTATTCAA----------------------------------------	1032
+6vanF       GCTATTTTCAATCTATTCAA----------------------------------------	1032
+10vanF      --A---------------------------------------------------------	1032
+7tetB       CAAGTGCTTAG-------------------------------------------------	1050
+8tetH       CAACCCCTTAA-------------------------------------------------	1203
+4vanS       ------------------------------------------------------------	1098
+9catTC      ------------------------------------------------------------	721
+15lsaB      TAAGTCTTGAACTTGTATCATTGACAT---------------------------------	1465
+3vanY       ------------------------------------------------------------	864
+2vanZ       ------------------------------------------------------------	612
+12ermB      ------------------------------------------------------------	738
+                                                                        
+
+5rphC       TGCGAGCCAGCGGAAATTTGAGCAAGGGCAGC---AAGAAGCTTTGAAAAAAGAACAAGA	1889
+11tetB      TCCCTGAAAGCAAACGGCCTAAATACAGCATCCAAAGCGCACTTGAAAAAGCCAGCAATA	950
+13tetB      TCCCTGAAAGCAAACGGCCTAAATACAGCATCCAAAGCGCACTTGAAAAAGCCAGCAATA	950
+14tetC      TGCCGGCCACGATGCGTCCGGCGTAGAGGATCCACAGGACGGGTGTGGTCGCCATGATCG	929
+1vanF       ------------------------------------------------------------	1032
+16vanF      ------------------------------------------------------------	1032
+6vanF       ------------------------------------------------------------	1032
+10vanF      ------------------------------------------------------------	1032
+7tetB       ------------------------------------------------------------	1050
+8tetH       ------------------------------------------------------------	1203
+4vanS       ------------------------------------------------------------	1098
+9catTC      ------------------------------------------------------------	721
+15lsaB      ------------------------------------------------------------	1465
+3vanY       ------------------------------------------------------------	864
+2vanZ       ------------------------------------------------------------	612
+12ermB      ------------------------------------------------------------	738
+                                                                        
+
+5rphC       GTTGTTGGAA------------------CGATTAAAGCAATTGCCGGATGGCGAACAAAA	1931
+11tetB      AGTAATCCAGCGATGCGCCTATTAATGACAACAACAGCACTGGGCGCCGACCAAATCGGT	1010
+13tetB      AGTAATCCAGCGATGCGCCTATTAATGACAACAACAGCACTGGGCGCCGACCAAATCGGT	1010
+14tetC      CGTAGTCGATAGTGGCTCCAAGTAGCGAAGCGAGCAGGACTGGGCGGCGGCCAAAGCGGT	989
+1vanF       ------------------------------------------------------------	1032
+16vanF      ------------------------------------------------------------	1032
+6vanF       ------------------------------------------------------------	1032
+10vanF      ------------------------------------------------------------	1032
+7tetB       ------------------------------------------------------------	1050
+8tetH       ------------------------------------------------------------	1203
+4vanS       ------------------------------------------------------------	1098
+9catTC      ------------------------------------------------------------	721
+15lsaB      ------------------------------------------------------------	1465
+3vanY       ------------------------------------------------------------	864
+2vanZ       ------------------------------------------------------------	612
+12ermB      ------------------------------------------------------------	738
+                                                                        
+
+5rphC       AGCGAAAGAAACAAAACAAACGATCGACTTCATCCGGAATTACAGTGGGTATAGGGAATA	1991
+11tetB      CAGACATTTTTCCAAGCCAAGGAGCAAAGATAACCTGCATTAACGCAT------AAAGTG	1064
+13tetB      CAGACATTTTTCCAAGCCAAGGAGCAAAGATAACCTGCATTAACGCAT------AAAGTG	1064
+14tetC      CGGACAGTGCTCCGAGAACGGGTGCGCATAGAAATTGCATCAACGCAT------ATAGCG	1043
+1vanF       ------------------------------------------------------------	1032
+16vanF      ------------------------------------------------------------	1032
+6vanF       ------------------------------------------------------------	1032
+10vanF      ------------------------------------------------------------	1032
+7tetB       ------------------------------------------------------------	1050
+8tetH       ------------------------------------------------------------	1203
+4vanS       ------------------------------------------------------------	1098
+9catTC      ------------------------------------------------------------	721
+15lsaB      ------------------------------------------------------------	1465
+3vanY       ------------------------------------------------------------	864
+2vanZ       ------------------------------------------------------------	612
+12ermB      ------------------------------------------------------------	738
+                                                                        
+
+5rphC       TCCGAAATACGTCATGGTTAATCGTTACTTCGTGTATAAACAGGCTTTGCTGAAAGAAGC	2051
+11tetB      CAAGCAATACGCCAAAGTGGTTAGCGATATCTTCCGAAGCAATAAATTCACGTAATAACG	1124
+13tetB      CAAGCAATACGCCAAAGTGGTTAGCGATATCTTCCGAAGCAATAAATTCACGTAATAACG	1124
+14tetC      CTAGCAGCACGCCATAGTGACTGGCGATGCTGTCGGAATGGACGATATCCCGCAAGAGGC	1103
+1vanF       ------------------------------------------------------------	1032
+16vanF      ------------------------------------------------------------	1032
+6vanF       ------------------------------------------------------------	1032
+10vanF      ------------------------------------------------------------	1032
+7tetB       ------------------------------------------------------------	1050
+8tetH       ------------------------------------------------------------	1203
+4vanS       ------------------------------------------------------------	1098
+9catTC      ------------------------------------------------------------	721
+15lsaB      ------------------------------------------------------------	1465
+3vanY       ------------------------------------------------------------	864
+2vanZ       ------------------------------------------------------------	612
+12ermB      ------------------------------------------------------------	738
+                                                                        
+
+5rphC       CGAACAACTCGTACAAGCGGGCATCATTCATGAAAAAGAAGATATCTTCTATCTCACTTT	2111
+11tetB      TTGGCAAGAC--------TGGC-------AT-----------------------------	1140
+13tetB      TTGGCAAGAC--------TGGC-------AT-----------------------------	1140
+14tetC      CCGGCAGTAC--------CGGC-------AT-----------------------------	1119
+1vanF       ------------------------------------------------------------	1032
+16vanF      ------------------------------------------------------------	1032
+6vanF       ------------------------------------------------------------	1032
+10vanF      ------------------------------------------------------------	1032
+7tetB       ------------------------------------------------------------	1050
+8tetH       ------------------------------------------------------------	1203
+4vanS       ------------------------------------------------------------	1098
+9catTC      ------------------------------------------------------------	721
+15lsaB      ------------------------------------------------------------	1465
+3vanY       ------------------------------------------------------------	864
+2vanZ       ------------------------------------------------------------	612
+12ermB      ------------------------------------------------------------	738
+                                                                        
+
+5rphC       GGAGGAACTTCACGAGGTTGTACGCACAAATAAACTGGATTACCACATCATCAGCAAACG	2171
+11tetB      ----------------------------GATAAGGCCAATCCCCATGGCATCGAGT----	1168
+13tetB      ----------------------------GATAAGGCCAATCCCCATGGCATCGAGT----	1168
+14tetC      ----------------------------AACCAAGCCTATGCCTACAGCATCCAGG----	1147
+1vanF       ------------------------------------------------------------	1032
+16vanF      ------------------------------------------------------------	1032
+6vanF       ------------------------------------------------------------	1032
+10vanF      ------------------------------------------------------------	1032
+7tetB       ------------------------------------------------------------	1050
+8tetH       ------------------------------------------------------------	1203
+4vanS       ------------------------------------------------------------	1098
+9catTC      ------------------------------------------------------------	721
+15lsaB      ------------------------------------------------------------	1465
+3vanY       ------------------------------------------------------------	864
+2vanZ       ------------------------------------------------------------	612
+12ermB      ------------------------------------------------------------	738
+                                                                        
+
+5rphC       GAAAGATGATTACAACTATTATGAAAAATTAACTCCGCCACGTGTTATCACGTCTGATGG	2231
+11tetB      --AACGTAATTACCAATGCGATCTTTGTCGA------------ACTATTCAT--------	1206
+13tetB      --AACGTAATTACCAATGCGATCTTTGTCGA------------ACTATTCAT--------	1206
+14tetC      --GTGACGGTGCCGAGGATGACGATGAGCGC------------ATTGTTAGATTTCAT--	1191
+1vanF       ------------------------------------------------------------	1032
+16vanF      ------------------------------------------------------------	1032
+6vanF       ------------------------------------------------------------	1032
+10vanF      ------------------------------------------------------------	1032
+7tetB       ------------------------------------------------------------	1050
+8tetH       ------------------------------------------------------------	1203
+4vanS       ------------------------------------------------------------	1098
+9catTC      ------------------------------------------------------------	721
+15lsaB      ------------------------------------------------------------	1465
+3vanY       ------------------------------------------------------------	864
+2vanZ       ------------------------------------------------------------	612
+12ermB      ------------------------------------------------------------	738
+                                                                        
+
+5rphC       TGAAATCATTGCAGGGGAGTACAAACGAGAAAATCTCCCGTCTGGAGCATTAGTAGGTCT	2291
+11tetB      ------------------------------------------------------------	1206
+13tetB      ------------------------------------------------------------	1206
+14tetC      ------------------------------------------------------------	1191
+1vanF       ------------------------------------------------------------	1032
+16vanF      ------------------------------------------------------------	1032
+6vanF       ------------------------------------------------------------	1032
+10vanF      ------------------------------------------------------------	1032
+7tetB       ------------------------------------------------------------	1050
+8tetH       ------------------------------------------------------------	1203
+4vanS       ------------------------------------------------------------	1098
+9catTC      ------------------------------------------------------------	721
+15lsaB      ------------------------------------------------------------	1465
+3vanY       ------------------------------------------------------------	864
+2vanZ       ------------------------------------------------------------	612
+12ermB      ------------------------------------------------------------	738
+                                                                        
+
+5rphC       GCCTGTGTCTGCCGGGGTAATAGAGGGACGCGCACGTGTCATCTTGAAATTGGAAGATGC	2351
+11tetB      ------------------------------------------------------------	1206
+13tetB      ------------------------------------------------------------	1206
+14tetC      ------------------------------------------------------------	1191
+1vanF       ------------------------------------------------------------	1032
+16vanF      ------------------------------------------------------------	1032
+6vanF       ------------------------------------------------------------	1032
+10vanF      ------------------------------------------------------------	1032
+7tetB       ------------------------------------------------------------	1050
+8tetH       ------------------------------------------------------------	1203
+4vanS       ------------------------------------------------------------	1098
+9catTC      ------------------------------------------------------------	721
+15lsaB      ------------------------------------------------------------	1465
+3vanY       ------------------------------------------------------------	864
+2vanZ       ------------------------------------------------------------	612
+12ermB      ------------------------------------------------------------	738
+                                                                        
+
+5rphC       TGATCTAGAAGATGGAGATATATTAGTCACCGCTTTTACGGATCCTAGCTGGACCCCCTT	2411
+11tetB      ------------------------------------------------------------	1206
+13tetB      ------------------------------------------------------------	1206
+14tetC      ------------------------------------------------------------	1191
+1vanF       ------------------------------------------------------------	1032
+16vanF      ------------------------------------------------------------	1032
+6vanF       ------------------------------------------------------------	1032
+10vanF      ------------------------------------------------------------	1032
+7tetB       ------------------------------------------------------------	1050
+8tetH       ------------------------------------------------------------	1203
+4vanS       ------------------------------------------------------------	1098
+9catTC      ------------------------------------------------------------	721
+15lsaB      ------------------------------------------------------------	1465
+3vanY       ------------------------------------------------------------	864
+2vanZ       ------------------------------------------------------------	612
+12ermB      ------------------------------------------------------------	738
+                                                                        
+
+5rphC       GTTTGTATCTATCAAGGGTCTCGTCACCGAAGTTGGCGGACTGATGACCCATGGAGCCGT	2471
+11tetB      ------------------------------------------------------------	1206
+13tetB      ------------------------------------------------------------	1206
+14tetC      ------------------------------------------------------------	1191
+1vanF       ------------------------------------------------------------	1032
+16vanF      ------------------------------------------------------------	1032
+6vanF       ------------------------------------------------------------	1032
+10vanF      ------------------------------------------------------------	1032
+7tetB       ------------------------------------------------------------	1050
+8tetH       ------------------------------------------------------------	1203
+4vanS       ------------------------------------------------------------	1098
+9catTC      ------------------------------------------------------------	721
+15lsaB      ------------------------------------------------------------	1465
+3vanY       ------------------------------------------------------------	864
+2vanZ       ------------------------------------------------------------	612
+12ermB      ------------------------------------------------------------	738
+                                                                        
+
+5rphC       TATCGCACGGGAATATGGCTTGCCAGCAGTTGTTGGTGTAGAGAACGCTACCAAGCTGAT	2531
+11tetB      ------------------------------------------------------------	1206
+13tetB      ------------------------------------------------------------	1206
+14tetC      ------------------------------------------------------------	1191
+1vanF       ------------------------------------------------------------	1032
+16vanF      ------------------------------------------------------------	1032
+6vanF       ------------------------------------------------------------	1032
+10vanF      ------------------------------------------------------------	1032
+7tetB       ------------------------------------------------------------	1050
+8tetH       ------------------------------------------------------------	1203
+4vanS       ------------------------------------------------------------	1098
+9catTC      ------------------------------------------------------------	721
+15lsaB      ------------------------------------------------------------	1465
+3vanY       ------------------------------------------------------------	864
+2vanZ       ------------------------------------------------------------	612
+12ermB      ------------------------------------------------------------	738
+                                                                        
+
+5rphC       CCAAGATGGACAACGAATTCGCGTGCATGGAACAGAAGGGTATATCGAAATATTGTA	2588
+11tetB      ---------------------------------------------------------	1206
+13tetB      ---------------------------------------------------------	1206
+14tetC      ---------------------------------------------------------	1191
+1vanF       ---------------------------------------------------------	1032
+16vanF      ---------------------------------------------------------	1032
+6vanF       ---------------------------------------------------------	1032
+10vanF      ---------------------------------------------------------	1032
+7tetB       ---------------------------------------------------------	1050
+8tetH       ---------------------------------------------------------	1203
+4vanS       ---------------------------------------------------------	1098
+9catTC      ---------------------------------------------------------	721
+15lsaB      ---------------------------------------------------------	1465
+3vanY       ---------------------------------------------------------	864
+2vanZ       ---------------------------------------------------------	612
+12ermB      ---------------------------------------------------------	738
+                                                                     

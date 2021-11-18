@@ -1,0 +1,1225 @@
+CLUSTAL W (1.83) multiple sequence alignment
+
+cat-TC_9_Apilactobacillus   TTCAACT--AAC-GG-----------GGCA-----------GGTTAG---
+erm_B__12_Apilactobacillus  ATGAACA-AAA---------AT--A-TAAA-----------AT-ATT---
+lsa_B__15_Brevibacillus     TTTTTGT--TGC-AA------C--T-GTTT-----------GTTGAA---
+rphC_5_Paenibacillus        ATGAATA-CTTTCGTTCTCGAT--T-TTCAGGAAATGAAAAAT-ACACAG
+tet_B__11_Frischella        CTAAGCA--CTT-GT------C----TCCT-----------GT-TTA---
+tet_B__13_Gilliamella       CTAAGCA--CTT-GT------C----TCCT-----------GT-TTA---
+tet_B__7_Gilliamella        ATGCAGG---TT-AT-C---TT--T-GCTC------CT-TGGC-TTG---
+tet_C__14_Snodgrassella     TCAGGTC--GAG-GT------G----GCCC-----------GGCTCC---
+tet_H__8_Gilliamella        ATGAATA-AATC-AA------T--T-AT-----------TATT-ATA---
+vanF_10_Paenibacillus       TTGAATA-GATT-GA------AAATAGCCC------TC-CTGT-TTG---
+vanF_1_Paenibacillus        TCATCCT---TT-GA------G--T-GCCA-----------GT-GTG---
+vanF_6_Paenibacillus        TCATCCT---TT-GA------G--T-GCCA-----------GT-GTG---
+vanF_Paenibacillus          TCATCCT---TT-GA------G--T-GCCA-----------GT-GTG---
+vanS-F_4_Paenibacillus      TTGGGAATCCTC-CA------T--T-GGTA-----------ATCGGG---
+vanY-F_3_Paenibacillus      TCAAGAA--AAT-GA------G----GTCA-----------CAATCA---
+vanZ-F_2_Paenibacillus      AAT----TTTTC-GA--------------A-----------ATA------
+                                                                              
+
+cat-TC_9_Apilactobacillus   ------TGA---------------------------C-ATT-----AGA-
+erm_B__12_Apilactobacillus  ------CTC-----------------------------AAAACT------
+lsa_B__15_Brevibacillus     ------ATG---------------------------C-CTGATCATGCTC
+rphC_5_Paenibacillus        CTATTGCTCGTTGGCGGAAAAGGGTTGAATGTAGGGGAGTTATC------
+tet_B__11_Frischella        ------CTC---------------------------CCCTGAGCTTGAGG
+tet_B__13_Gilliamella       ------CTC---------------------------CCCTGAGCTTGAGG
+tet_B__7_Gilliamella        ------GAA---------------------------AAATGTCT------
+tet_C__14_Snodgrassella     ------ATG---------------------------CACCG-CG------
+tet_H__8_Gilliamella        ------CTG---------------------------C--TGATCCC---C
+vanF_10_Paenibacillus       ------GGG---------------------------G-CTGCTC------
+vanF_1_Paenibacillus        ------ATG---------------------------CAATGATC------
+vanF_6_Paenibacillus        ------ATG---------------------------CAATGATC------
+vanF_Paenibacillus          ------ATG---------------------------CAATGATC------
+vanS-F_4_Paenibacillus      ------CTT---------------------------C-A-----------
+vanY-F_3_Paenibacillus      ------CTC---------------------------C-ATC-----TAT-
+vanZ-F_2_Paenibacillus      --------------------------------------A-----------
+                                                                              
+
+cat-TC_9_Apilactobacillus   ---AAACC--------G------ACT--GT---AA--AAAGT-A----CA
+erm_B__12_Apilactobacillus  -TTT--T-----------------AACG-----AG---------------
+lsa_B__15_Brevibacillus     -AACAATA--------A------CCATTGTAGGAT--TAAAT-C----TT
+rphC_5_Paenibacillus        -AAA--AATGGAGGGAATACAAGTACCGGAAGGATTTTGTGT-G----AC
+tet_B__11_Frischella        -GGT--TA---------------ACA-TGAAG--------GT-C----AT
+tet_B__13_Gilliamella       -GGT--TA---------------ACA-TGAAG--------GT-C----AT
+tet_B__7_Gilliamella        -GAC--C-------G-A-------TTTGGTCGG------CGCCC----AG
+tet_C__14_Snodgrassella     -ACG--CA---------------ACGCGGGGAGGC----AG-AC----AA
+tet_H__8_Gilliamella        GTAT--T-----------------------AGA------TGC-C----AT
+vanF_10_Paenibacillus       -AGA-GGA---------------ACACG-A-TG------TGT-CGGTAAA
+vanF_1_Paenibacillus        -AAT--TA---------------ACCCGGAAAG------TGT-C----AT
+vanF_6_Paenibacillus        -AAT--TA---------------ACCCGGAAAG------TGT-C----AT
+vanF_Paenibacillus          -AAT--TA---------------ACCCGGAAAG------TGT-C----AT
+vanS-F_4_Paenibacillus      ----AATA--------T------AGTGCGT---AT--TAAAT-C----AC
+vanY-F_3_Paenibacillus      ----ATTA--------T------TACCGGATATTT--C------------
+vanZ-F_2_Paenibacillus      ----AAT--------------------TGG---AT----AAT-G----A-
+                                                                              
+
+cat-TC_9_Apilactobacillus   -----G--TCGGCAT--TAT---C--TCAT-------ATT---ATAA-A-
+erm_B__12_Apilactobacillus  --------------------------TGAAAA--------A---------
+lsa_B__15_Brevibacillus     -----T--GAATAAGCTCTTCAATCTGCAT-------GCGTGAATAAAT-
+rphC_5_Paenibacillus        ---A----ACAGCA------GGA-TATCAAAAAGCAATCGAGCAAAACGA
+tet_B__11_Frischella        ---C-G--ATAGCAG------GATAATAAT-------ACA-GTAAAA---
+tet_B__13_Gilliamella       ---C-G--ATAGCAG------GATAATAAT-------ACA-GTAAAA---
+tet_B__7_Gilliamella        ---T----GCTGTTG-----TTGTCATTA--------ATAGGCG-CAT--
+tet_C__14_Snodgrassella     GGTATAGGGCGGCGC--------CTACAAT-------CCA-TGCCAACC-
+tet_H__8_Gilliamella        ---T----GGTATCG-----GGCTTATCAT-------GCCAGTACTCC--
+vanF_10_Paenibacillus       ---A-TCGGCGAAAG--------AGAT--T-------GC--CGATAAC--
+vanF_1_Paenibacillus        ---C-CCCGCGGCAG--------CCATCAT-------ACGGGGATAAC--
+vanF_6_Paenibacillus        ---C-CCCGCGGCAG--------CCATCAT-------ACGGGGATAAC--
+vanF_Paenibacillus          ---C-CCCGCGGCAG--------CCATCAT-------ACGGGGATAAC--
+vanS-F_4_Paenibacillus      ---T-T--TCGGCAGT-TAT-------TGT-------CCCATTGTGT---
+vanY-F_3_Paenibacillus      ----------ATG-AT-GTT-------CAT-------TCGCTGGTAC---
+vanZ-F_2_Paenibacillus      ----------AGTAG--TAT-------CAT-------ACC----------
+                                                                              
+
+cat-TC_9_Apilactobacillus   --------------AGCCAGTCATTAGGCC--------------------
+erm_B__12_Apilactobacillus  ---G----------TACT-CA---ACCAA-ATAA----------------
+lsa_B__15_Brevibacillus     --------------ATCA-AT-AAAAT-TTAACG----------------
+rphC_5_Paenibacillus        AACGTACCATGCTTTGCT-CA---ATCGA-CTAACGATGCTACACGTAGA
+tet_B__11_Frischella        --------------CGCT-AA---ACCAA-TAAT----------------
+tet_B__13_Gilliamella       --------------CGCT-AA---ACCAA-TAAT----------------
+tet_B__7_Gilliamella        --------------CGC--------TGGA-TTAC----------------
+tet_C__14_Snodgrassella     --------------CGTT-CC-------A-T-------------------
+tet_H__8_Gilliamella        --------C-----TAC--------TCTA-TTAA----------------
+vanF_10_Paenibacillus       --------------ATCG----------A-CACA----------------
+vanF_1_Paenibacillus        --------------GGCT-GT-------A-TACC----------------
+vanF_6_Paenibacillus        --------------GGCT-GT-------A-TACC----------------
+vanF_Paenibacillus          --------------GGCT-GT-------A-TACC----------------
+vanS-F_4_Paenibacillus      --------------TGCT-CT---ACT-AT--------------------
+vanY-F_3_Paenibacillus      --------------TTCA------ACT-TC--------------------
+vanZ-F_2_Paenibacillus      -----------------T-GT---A----A--------------------
+                                                                              
+
+cat-TC_9_Apilactobacillus   --------T---AT----------C-------------TGAC--A-----
+erm_B__12_Apilactobacillus  ---------TAAAA----------C-------------------A-----
+lsa_B__15_Brevibacillus     --------G---TT---------CA-------------TCCC--AA----
+rphC_5_Paenibacillus        AGATCGAGATCAAATTGGTGAAATCAG-TAGGGAGATTCGAC--AAATCC
+tet_B__11_Frischella        --------CCAAAT---------CCAG-CC-----A--TCCC--AA----
+tet_B__13_Gilliamella       --------CCAAAT---------CCAG-CC-----A--TCCC--AA----
+tet_B__7_Gilliamella        ---------TTATT------------------------------------
+tet_C__14_Snodgrassella     --------GTGCTC---------GCCG-AGG-------CG----GC----
+tet_H__8_Gilliamella        --------ATGAAT---------TT--------------GTC--AG--TG
+vanF_10_Paenibacillus       --------GAAAAA---------TATGAGC--------CGATATAC----
+vanF_1_Paenibacillus        --------GTGAAT---------CCCG-GCA-------AC----GT----
+vanF_6_Paenibacillus        --------GTGAAT---------CCCG-GCA-------AC----GT----
+vanF_Paenibacillus          --------GTGAAT---------CCCG-GCA-------AC----GT----
+vanS-F_4_Paenibacillus      --------A---TT---------CT-------------TCGC--AA----
+vanY-F_3_Paenibacillus      --------A---AT---------TG-------------TCTC--AT----
+vanZ-F_2_Paenibacillus      ---------------------------------------------A----
+                                                                              
+
+cat-TC_9_Apilactobacillus   --------------------------------A-------------T-TC
+erm_B__12_Apilactobacillus  ---ATTG-------A-ATTT------------AAAA------GAAA-CC-
+lsa_B__15_Brevibacillus     ---ATAT---------------------ATAAA-TGA-------G-CTTT
+rphC_5_Paenibacillus        T--TTTGGAAGTAGAAATTCCTTCTGATGT--AGTGAAAGAAGTAACTC-
+tet_B__11_Frischella        ---ATTG---------------------GT--AGTGA---------ATG-
+tet_B__13_Gilliamella       ---ATTG---------------------GT--AGTGA---------ATG-
+tet_B__7_Gilliamella        ------G--------------------------CTGG------CTTTT--
+tet_C__14_Snodgrassella     ---ATAA---------------------AT---CGCC---------GTG-
+tet_H__8_Gilliamella        AAAATTC-------------------------ACTGG------CAACCC-
+vanF_10_Paenibacillus       ---ATCG---------------------GA---ATCA---------CCC-
+vanF_1_Paenibacillus        ---ATTG---------------------AC---TTCA---------TTC-
+vanF_6_Paenibacillus        ---ATTG---------------------AC---TTCA---------TTC-
+vanF_Paenibacillus          ---ATTG---------------------AC---TTCA---------TTC-
+vanS-F_4_Paenibacillus      ----TGA---------------------ATAAACCGA-------GACCTG
+vanY-F_3_Paenibacillus      ---TTTG---------------------AGAAA-T------------GGG
+vanZ-F_2_Paenibacillus      ----TGA---------------------ACAAACTA--------------
+                                                                              
+
+cat-TC_9_Apilactobacillus   CTGAATA---GAGTTCA---T-------A---------------------
+erm_B__12_Apilactobacillus  --GATA--------------------------------------------
+lsa_B__15_Brevibacillus     TTCACATAAACTTTTGGCTAT-------AA------GC---A----GCT-
+rphC_5_Paenibacillus        --AATAT--CTCTCCCGGTTTGGCGAGGAACATGCATATGCCGTGCGTTC
+tet_B__11_Frischella        --ATTA--------------T-------AA-----ATAA--C-AGCAAA-
+tet_B__13_Gilliamella       --ATTA--------------T-------AA-----ATAA--C-AGCAAA-
+tet_B__7_Gilliamella        -----T--------------C----------------A---AGTGCGCTT
+tet_C__14_Snodgrassella     --AAGA--------------T-------CA------GC---G----G-T-
+tet_H__8_Gilliamella        --ATTAC---------GGTGT-------GC------TA---TTAGCGCTC
+vanF_10_Paenibacillus       --GATC--------------C---------------GG---C----G-T-
+vanF_1_Paenibacillus        --AGTA--------------T-------AA------TA---C----G-T-
+vanF_6_Paenibacillus        --AGTA--------------T-------AA------TA---C----G-T-
+vanF_Paenibacillus          --AGTA--------------T-------AA------TA---C----G-T-
+vanS-F_4_Paenibacillus      TG--CTA---TT-TTCT---T-------GA------TG---A----G-T-
+vanY-F_3_Paenibacillus      GTAATATGA--------------------A------AT---T----GT--
+vanZ-F_2_Paenibacillus      ----------AA-TA-A---A-------AA------AC---A----GCC-
+                                                                              
+
+cat-TC_9_Apilactobacillus   -----------------------------------AACAAT-CCTGCATG
+erm_B__12_Apilactobacillus  ----------------------CCG--------T-TTA---------C--
+lsa_B__15_Brevibacillus     ----------------------TTT------TCTTTTGTCC-ACCAGAAT
+rphC_5_Paenibacillus        TAGTGCGACTGCTGAAGATTTGCCGCATGCCTCTTTTG-CTGGTCAAC--
+tet_B__11_Frischella        ----------------------CAG--------TAATG--G-GCCAAT--
+tet_B__13_Gilliamella       ----------------------CAG--------TAATG--G-GCCAAT--
+tet_B__7_Gilliamella        TG--------------------------------GA-T-GC-TGTATT--
+tet_C__14_Snodgrassella     ----------------------CCA--------ATGAT--C-GAAGTT--
+tet_H__8_Gilliamella        TA-T--------------------G--------CTACC-AT-GCAGGT--
+vanF_10_Paenibacillus       ----------------------TTGG-------AAAAT--G-TGCGAA--
+vanF_1_Paenibacillus        ----------------------CCG--------TTTTT--C-TGCAAA--
+vanF_6_Paenibacillus        ----------------------CCG--------TTTTC--C-TGCAAA--
+vanF_Paenibacillus          ----------------------CCG--------TTTTT--C-TGCAAA--
+vanS-F_4_Paenibacillus      ----------------------TCG------TGCTTTGT-C-ACCAGT--
+vanY-F_3_Paenibacillus      ------------------------A------TATTTTGT---CCCATC--
+vanZ-F_2_Paenibacillus      ----------------------TCG------TATTT----T-ACGACT--
+                                                                              
+
+cat-TC_9_Apilactobacillus   ATAA--C--CA--T-C--AC------------------------------
+erm_B__12_Apilactobacillus  GA---AA------T-T--GGAA--CA-------GGTA-AA----------
+lsa_B__15_Brevibacillus     AATGAGA--TA--T-A--TCT-----------------------TT----
+rphC_5_Paenibacillus        AA---GA--CACCT-A--TTTA--CATATTATCGGCA-AAGAAGCCATCC
+tet_B__11_Frischella        A-----A--CA--CCG--GTTG--CA-------TT---------------
+tet_B__13_Gilliamella       A-----A--CA--CCG--GTTG--CA-------TT---------------
+tet_B__7_Gilliamella        T-----A--GGCCG----TTTG--CT-------TT--CAGG--GCT----
+tet_C__14_Snodgrassella     A-----G--GCT---G--GTAAGAGC-------CG---------------
+tet_H__8_Gilliamella        T-----A--TTTTT-GCTCCTA--TT-------CTAGGACG--ACT----
+vanF_10_Paenibacillus       ---A--AGCCA--T-G--CGTG--GA-------TTG--------------
+vanF_1_Paenibacillus        A-----A--CAT---A--TCAA--CA-------CG---------------
+vanF_6_Paenibacillus        A-----A--CAT---A--TCAA--CA-------CG---------------
+vanF_Paenibacillus          A-----A--CAT---A--TCAA--CA-------CG---------------
+vanS-F_4_Paenibacillus      AAAAA-G--CA--T-A--TC------------------------------
+vanY-F_3_Paenibacillus      A-----A--CA--C-----T------------------------------
+vanZ-F_2_Paenibacillus      AAAGA-G-------------------------------------------
+                                                                              
+
+cat-TC_9_Apilactobacillus   -----------A-----AACAGA-ATGATGTACC------T-GTAAAG-A
+erm_B__12_Apilactobacillus  -----------------------------GGGCA------T-TTAACG-A
+lsa_B__15_Brevibacillus     -----CT---CAAATTGAATTCGGT-CAAAATCCA-----TCTTACGC-A
+rphC_5_Paenibacillus        TGCAGCATATCAG-C-AAATG------TTGGGCCTCCCTAT-TTACGGAT
+tet_B__11_Frischella        ------------------------G-GTAAGGCT------C---ACCA-A
+tet_B__13_Gilliamella       ------------------------G-GTAAGGCT------C---ACCA-A
+tet_B__7_Gilliamella        -----CA---CAG-G-AGCTA-----CTGGGGCT------G-TCGCGG-C
+tet_C__14_Snodgrassella     ------------------------C-GAGCGATC------C-TTGAAG-C
+tet_H__8_Gilliamella        ----------------------------------------G-T--CTG-A
+vanF_10_Paenibacillus       --------------------------GGACAACG------A-AAACTG-C
+vanF_1_Paenibacillus        ------------------------A-GAAAGACC------T-TTACAG-C
+vanF_6_Paenibacillus        ------------------------A-GAAAGACC------T-TTACAG-C
+vanF_Paenibacillus          ------------------------A-GAAAGACC------T-TTACAG-C
+vanS-F_4_Paenibacillus      -----------GAA---AATATG-A-GGCAGTTCA-----TCT-GG-A-G
+vanY-F_3_Paenibacillus      -----------A--------AC--A-GAAATGC-T-----CTTTTCT---
+vanZ-F_2_Paenibacillus      ------------GA---AATATC-A-GGT--TTTA-----TT--------
+                                                                              
+
+cat-TC_9_Apilactobacillus   T-------AGCG---G----TAAAT-------ATA-TTG----AAT-T-A
+erm_B__12_Apilactobacillus  CG------A------------------------AA-CT----G-------
+lsa_B__15_Brevibacillus     GG------ATGG---------ATTT-------AAA-TAA--CGGTT-C-A
+rphC_5_Paenibacillus        CG------CGC-AGTC---ATTTACCGGATGCAAA-AT----GGAT-T-C
+tet_B__11_Frischella        TA------ATC----C-----CTGT-------AAA-GC----ACCT-TGC
+tet_B__13_Gilliamella       TA------ATC----C-----CTGT-------AAA-GC----ACCT-TGC
+tet_B__7_Gilliamella        AT------CGG---TC----ATTGC-------CGA-T-----ACCA-C-C
+tet_C__14_Snodgrassella     TGTCCCTGATG---GTC---GTCAT-------CTACCT----GCCT-G-G
+tet_H__8_Gilliamella        TA------AAT---AC----GGCAG------AAAA-CC----CATC-T-T
+vanF_10_Paenibacillus       CG-------------------TTCG-------GCA-GT----GCTT-T-C
+vanF_1_Paenibacillus        CG------AGC---GCC----TTAT-------AAA-TT----GCTT-T-C
+vanF_6_Paenibacillus        CG------AGC---GCC----TTAT-------AAA-TT----GCTT-T-C
+vanF_Paenibacillus          CG------AGC---GCC----TTAT-------AAA-TT----GCTT-T-C
+vanS-F_4_Paenibacillus      GA------ATGGCGTCCCC-ATAAT-------TGA-TAACTTGAATAA-C
+vanY-F_3_Paenibacillus      ----------TC---------TTTT-------AAA-TAA----TCC-A-A
+vanZ-F_2_Paenibacillus      ---------T-----CACCTCTTTT-------ATA-TATCAT--------
+                                                              *               
+
+cat-TC_9_Apilactobacillus   --------------------------------------------------
+erm_B__12_Apilactobacillus  ---------------------GCT----------AA--------------
+lsa_B__15_Brevibacillus     --------------------------------------------------
+rphC_5_Paenibacillus        GACCACAGTCACGTTTATTTAGCTGTTATCGTTCAAAGGATGGTGTTCCC
+tet_B__11_Frischella        ----------------------------------T---------------
+tet_B__13_Gilliamella       ----------------------------------T---------------
+tet_B__7_Gilliamella        --------------------------------------------------
+tet_C__14_Snodgrassella     --------------------------------------------------
+tet_H__8_Gilliamella        --------------------------------------------------
+vanF_10_Paenibacillus       --------------------------------------------------
+vanF_1_Paenibacillus        --------------------------------------------------
+vanF_6_Paenibacillus        --------------------------------------------------
+vanF_Paenibacillus          --------------------------------------------------
+vanS-F_4_Paenibacillus      --------------------------------------------------
+vanY-F_3_Paenibacillus      --------------------------------------------------
+vanZ-F_2_Paenibacillus      --------------------------------------------------
+                                                                              
+
+cat-TC_9_Apilactobacillus   --------------------------------------------------
+erm_B__12_Apilactobacillus  --------------AATA----------------------------AGTA
+lsa_B__15_Brevibacillus     --------------------------------------------------
+rphC_5_Paenibacillus        ACAAGCTTCAGGGATATTATTTACCGCTGATCCGATTACTTCAAACCGTA
+tet_B__11_Frischella        --------------------------------------------------
+tet_B__13_Gilliamella       --------------------------------------------------
+tet_B__7_Gilliamella        --------------------------------------------------
+tet_C__14_Snodgrassella     --------------------------------------------------
+tet_H__8_Gilliamella        --------------------------------------------------
+vanF_10_Paenibacillus       --------------------------------------------------
+vanF_1_Paenibacillus        --------------------------------------------------
+vanF_6_Paenibacillus        --------------------------------------------------
+vanF_Paenibacillus          --------------------------------------------------
+vanS-F_4_Paenibacillus      --------------------------------------------------
+vanY-F_3_Paenibacillus      --------------------------------------------------
+vanZ-F_2_Paenibacillus      --------------------------------------------------
+                                                                              
+
+cat-TC_9_Apilactobacillus   -----------------------CCTT----TA------TT--AATGAA-
+erm_B__12_Apilactobacillus  AACAGGTAACG--TCTAT-TG-------A----------AT--TAGAC--
+lsa_B__15_Brevibacillus     -------TCAA--TCTCA-TGCTCTTCAATAAAGTCC--GA--TAA-CA-
+rphC_5_Paenibacillus        AGGTGAT---A--TCCAT-TG-------ATG-----CCAGT--TATGGAC
+tet_B__11_Frischella        -------GATG--ACTCTTTG----TTTG----------GAT--AGACA-
+tet_B__13_Gilliamella       -------GATG--ACTCTTTG----TTTG----------GAT--AGACA-
+tet_B__7_Gilliamella        -------TCAG--CTTCT-CA-------ACG-----C--GT--GAAGTG-
+tet_C__14_Snodgrassella     -------ACAGCATGGCC-TGC----AAC----------GC---GGGCA-
+tet_H__8_Gilliamella        -------GCTG--TTTTC-CC---------------T--TT--TAGGCG-
+vanF_10_Paenibacillus       -------TCCG--G-ACA-AAA----AAA----------TGC--ACGGG-
+vanF_1_Paenibacillus        -------GCCG--TTTCT-TGT----ATC----------TTT--ATGCG-
+vanF_6_Paenibacillus        -------GCCG--TTTCT-TGT----ATC----------TTT--ATGCG-
+vanF_Paenibacillus          -------GCCG--TTTCT-TGT----ATC----------TTT--ATGCG-
+vanS-F_4_Paenibacillus      -------TAC-----------TTCCTTTG--AAT--C--AATAGAGCCG-
+vanY-F_3_Paenibacillus      -------ATA-----------TTCTTCCA--AAG--C--TA--AATTCA-
+vanZ-F_2_Paenibacillus      -------------------------TTTA--AA--------TAAAGC---
+                                                                              
+
+cat-TC_9_Apilactobacillus   --------------TT------------TTCCTGC---T-GT--A-----
+erm_B__12_Apilactobacillus  --------------A-G----------TCATCTAT---------------
+lsa_B__15_Brevibacillus     --------------GT-------------CCCTTCAAAT-GA--G-----
+rphC_5_Paenibacillus        TTGGAGAAGCACTGG-TCTCTGGCCTGGTCTCTGC---C-GA--TTGTTA
+tet_B__11_Frischella        --------------TCAC----------TCCCTGT---AATG--------
+tet_B__13_Gilliamella       --------------TCAC----------TCCCTGT---AATG--------
+tet_B__7_Gilliamella        --------------GTTCGG-------TTGGTTAG---G-GG--C-----
+tet_C__14_Snodgrassella     --------------TC------------CCGATGC---C-GC--------
+tet_H__8_Gilliamella        --------------CGGCA------------CT-----C-GA--C-----
+vanF_10_Paenibacillus       --------------CT------------GCTTGTT---A-TG--------
+vanF_1_Paenibacillus        --------------TT------------TCTCTGC---CG-A--------
+vanF_6_Paenibacillus        --------------TT------------TCTCTGC---CG-A--------
+vanF_Paenibacillus          --------------TT------------TCTCTGC---CG-A--------
+vanS-F_4_Paenibacillus      --------------TTGA----------TATCTAC---A-TA--C-----
+vanY-F_3_Paenibacillus      --------------TT-------------TCCTGC---A-TAATC-----
+vanZ-F_2_Paenibacillus      ------------------------------TCTAT---A-TA--T-----
+                                                                              
+
+cat-TC_9_Apilactobacillus   -------------------------------ATA-----AT---------
+erm_B__12_Apilactobacillus  --------------------------------------------------
+lsa_B__15_Brevibacillus     -------------------------------AAG--TACCTT-G------
+rphC_5_Paenibacillus        TAAAGTAAAGGAAGGAGAGATCATCGAGAAGAGG-----ATC-G------
+tet_B__11_Frischella        ------------------------------CAGG-----TAAAGCGATCC
+tet_B__13_Gilliamella       ------------------------------CAGG-----TAAAGCGATCC
+tet_B__7_Gilliamella        -------------------------------AAG--T--TTT-G------
+tet_C__14_Snodgrassella     ------------------------------CGGA-----A---G------
+tet_H__8_Gilliamella        -------------------------------TATCTT--TTA-A------
+vanF_10_Paenibacillus       ------------------------------CGGA-----ATA-A------
+vanF_1_Paenibacillus        ------------------------------CAGG-----TTT-G------
+vanF_6_Paenibacillus        ------------------------------CAGG-----TTT-G------
+vanF_Paenibacillus          ------------------------------CAGG-----TTT-G------
+vanS-F_4_Paenibacillus      -------------------------------TGC-----CC--A------
+vanY-F_3_Paenibacillus      -------------------------------ACA--C--TGT-G------
+vanZ-F_2_Paenibacillus      -------------------------------T------------------
+                                                                              
+
+cat-TC_9_Apilactobacillus   ----GG----------------------------GT---------A---G
+erm_B__12_Apilactobacillus  ------TCAA-----------CTTAT---CGTCAGA---------AA--A
+lsa_B__15_Brevibacillus     ---TTG----------------------------GA---------CATAG
+rphC_5_Paenibacillus        ---CGGCCAAAAAATTAGCGATCTATGGACGTAAAGAAGGCGGAATA-GA
+tet_B__11_Frischella        CACCAC----------------------------CA---------G-C-C
+tet_B__13_Gilliamella       CACCAC----------------------------CA---------G-C-C
+tet_B__7_Gilliamella        ---GGC----------------------------TT---------GG--T
+tet_C__14_Snodgrassella     ---CGA----------------------------GA---------A-G-A
+tet_H__8_Gilliamella        ---TGG----------------------------------------C--A
+vanF_10_Paenibacillus       ---AGG----------------------------AT----------AT-C
+vanF_1_Paenibacillus        ---CGG----------------------------GA---------A-C-C
+vanF_6_Paenibacillus        ---CGG----------------------------GA---------A-C-C
+vanF_Paenibacillus          ---CGG----------------------------GA---------A-C-C
+vanS-F_4_Paenibacillus      ---TCA----------------------------TA---------T-C-C
+vanY-F_3_Paenibacillus      ---AGG----------------------------CA---------AGC-C
+vanZ-F_2_Paenibacillus      --------------------------------------------------
+                                                                              
+
+cat-TC_9_Apilactobacillus   AAG-G------TAAT-----------------------------------
+erm_B__12_Apilactobacillus  ATT-A------AAAC----------T------------------------
+lsa_B__15_Brevibacillus     GAA-A------TAAC-----------------------------------
+rphC_5_Paenibacillus        GAC-A------CAACAGATTGATCCTGAGCAGCAAAAGACTCAAACTCTT
+tet_B__11_Frischella        AAT-AAAATTAAAAC-----------------------------------
+tet_B__13_Gilliamella       AAT-AAAATTAAAAC-----------------------------------
+tet_B__7_Gilliamella        TTA-A------TAGC-----------------------------------
+tet_C__14_Snodgrassella     ATC-A------TAAT-----------------------------------
+tet_H__8_Gilliamella        TTC-T------CAAC-----------------------------------
+vanF_10_Paenibacillus       AAATA------CAAC-----------------------------------
+vanF_1_Paenibacillus        AAA-A------CAAC-----------------------------------
+vanF_6_Paenibacillus        AAA-A------CAAC-----------------------------------
+vanF_Paenibacillus          AAA-A------CAAC-----------------------------------
+vanS-F_4_Paenibacillus      ATA-A------CGGT-----------------------------------
+vanY-F_3_Paenibacillus      GAC-A------TAAC-----------------------------------
+vanZ-F_2_Paenibacillus      -AA-A------T-A------------------------------------
+                                                                              
+
+cat-TC_9_Apilactobacillus   ---------------------------TA------CT-------------
+erm_B__12_Apilactobacillus  ---G-------------------A------------AT------------
+lsa_B__15_Brevibacillus     --GA-------------------GGCCTGAACCTAAAT------------
+rphC_5_Paenibacillus        ACGGAGCAACAAATCTTGCAACTA------------GCACGCATCGGAAG
+tet_B__11_Frischella        --AG-------------------G------------GA------------
+tet_B__13_Gilliamella       --AG-------------------G------------GA------------
+tet_B__7_Gilliamella        --GG-------------------GGCC------T--AT------------
+tet_C__14_Snodgrassella     --GG-------------------G------------GA------------
+tet_H__8_Gilliamella        --CA-------------------C------------AC------------
+vanF_10_Paenibacillus       ---G-------------------T------------AT------------
+vanF_1_Paenibacillus        --TG-------------------C------------GT------------
+vanF_6_Paenibacillus        --TG-------------------C------------GT------------
+vanF_Paenibacillus          --TG-------------------C------------GT------------
+vanS-F_4_Paenibacillus      -----------------------T---TG------CAT------------
+vanY-F_3_Paenibacillus      ----------------------------G------AAT------------
+vanZ-F_2_Paenibacillus      -----------------------C---CC------AAT------------
+                                                                              
+
+cat-TC_9_Apilactobacillus   --------------ATTAT---------TAT--------TG---------
+erm_B__12_Apilactobacillus  ---AC-T---CGT--G-TC-A-C-TT-TAAT--------T-CA--CCAAG
+lsa_B__15_Brevibacillus     ---TC-A---TTG-AG-CCTGTA-TGCTGTAT------CGG---------
+rphC_5_Paenibacillus        GCATA-T---CGA-AG-CCTA-T-TT-TGGT--------T-GCCCGCAAG
+tet_B__11_Frischella        ---AA-A---CTA-AC-CAAC-C-TTCAGAT--------AT---------
+tet_B__13_Gilliamella       ---AA-A---CTA-AC-CAAC-C-TTCAGAT--------AT---------
+tet_B__7_Gilliamella        ---TA-T---TGG-TG-GTTT-T-GTAGGAG--------AG---------
+tet_C__14_Snodgrassella     ---AG-GCCATCC-AG-CCTC-GCGTCGCGA--------AC---------
+tet_H__8_Gilliamella        ---TT-T---GGA-TG-CTCT-A-TATTGGG--------CGC--------
+vanF_10_Paenibacillus       ---AG-A---CGC-GG-TA-----TTTTCG----------G---------
+vanF_1_Paenibacillus        ---TT-T---CGG-AG-CCTT-T-TTCTGGT--------TG---------
+vanF_6_Paenibacillus        ---TT-T---CGG-AG-CCTT-T-TTCTGGG--------TG---------
+vanF_Paenibacillus          ---TT-T---CGG-AG-CCTT-T-TTCTGGT--------TG---------
+vanS-F_4_Paenibacillus      ---TAAT---TAGAAG-ATT-T--T-CAA-ACACACGCGCC---------
+vanY-F_3_Paenibacillus      ---AT-G---CCA-AG-GTT------CATAA--------TG---------
+vanZ-F_2_Paenibacillus      ---A-A----TCGC-G-CCT------AGG-GT------------------
+                                                                              
+
+cat-TC_9_Apilactobacillus   -------------ATA--TTTAAGT--------------T------A---
+erm_B__12_Apilactobacillus  AT------------------------------------------------
+lsa_B__15_Brevibacillus     -------------ATT--TCCTAGA-------------AT------TA--
+rphC_5_Paenibacillus        ATATCGAGTGGTGC-C--TGGTTGATGATACCTTTTACATTGTCCAGA--
+tet_B__11_Frischella        -------------AAA--CGCT----------------AA------AA--
+tet_B__13_Gilliamella       -------------AAA--CGCT----------------AA------AA--
+tet_B__7_Gilliamella        -------------ATT--TCACC---G-----------CA------TA--
+tet_C__14_Snodgrassella     -------------GCC--AGCAAG--------------AC------GTAG
+tet_H__8_Gilliamella        -------------ATC--ATTGCGGGG-----------AT------CAC-
+vanF_10_Paenibacillus       -------------TTT--TGCACG--------------GC------AA--
+vanF_1_Paenibacillus        -------------ATC--TTCTTG--------------AT------GA--
+vanF_6_Paenibacillus        -------------ATC--TTCTTG--------------AT------GA--
+vanF_Paenibacillus          -------------ATC--TTCTTG--------------AT------GA--
+vanS-F_4_Paenibacillus      -------------AACAACTCTCC--------------AT------CA--
+vanY-F_3_Paenibacillus      -------------AAT--TCCT-GT-------------AA------CA--
+vanZ-F_2_Paenibacillus      --------------------GTTC--------------AT------AA--
+                                                                              
+
+cat-TC_9_Apilactobacillus   ------------------------AA-C---------------------C
+erm_B__12_Apilactobacillus  -----------------------------------ATT------------
+lsa_B__15_Brevibacillus     ----GT---T-------TGA--GGATACTACTTTTTCC--GCT----TCC
+rphC_5_Paenibacillus        ----GT-CGGCCAATCACGACATT---------ATACCCGATTCCTGA--
+tet_B__11_Frischella        ----AG---G-------CAAA-TGC-AC------TACT------------
+tet_B__13_Gilliamella       ----AG---G-------CAAA-TGC-AC------TACT------------
+tet_B__7_Gilliamella        ----GT---C-------CCTT-TT---------TTATC--GC--------
+tet_C__14_Snodgrassella     CCCAGC-----G-----CGTC-GGC---------CGCC------------
+tet_H__8_Gilliamella        ----AG---GCG-----CAAC-AG---------GTGCC--GT-----A--
+vanF_10_Paenibacillus       ----ATCGGGTG-----AAGA-CG---G------CGCC------------
+vanF_1_Paenibacillus        ----AT-----G-----CGAA-AG---------ATACC------------
+vanF_6_Paenibacillus        ----AT-----G-----CGAA-AG---------ATACC------------
+vanF_Paenibacillus          ----AT-----G-----CGAA-AG---------ATACC------------
+vanS-F_4_Paenibacillus      ----CC-----------CATA-ATAGAT---------------------A
+vanY-F_3_Paenibacillus      ----AC-----------CGTT-TTAT-C---------------------C
+vanZ-F_2_Paenibacillus      -----G-----------TAA------AT---------------------C
+                                                                              
+
+cat-TC_9_Apilactobacillus   -CAGT--------AAA-----TGAAG------TCC-A-----------TG
+erm_B__12_Apilactobacillus  ---CT------A-CA----------GT-----TTC-AA----------TT
+lsa_B__15_Brevibacillus     ATTCTTTCCATC-AAG-----TACAATTCG-GTCA-CC----------TT
+rphC_5_Paenibacillus        -AGCG------A-ATGATCAGGAAAATCGC-GTTT-ATGTCTCTGTCGGT
+tet_B__11_Frischella        ATCTG--CA--ATAA-ATCCGAGCAGTACT-GCCG-TT----------TT
+tet_B__13_Gilliamella       ATCTG--CA--ATAA-ATCCGAGCAGTACT-GCCG-TT----------TT
+tet_B__7_Gilliamella        -TGCG------T-TGC-----T-AAATATT-GT-C-AC----------TT
+tet_C__14_Snodgrassella     ATGCC---------GG-----CGATA-ATG-GCCT-GC----------TT
+tet_H__8_Gilliamella        -TGTG--CA--T-CAG-----CGATGAGTG-ATGTGAC----------TC
+vanF_10_Paenibacillus       ATACA--------AGG-----T-TTATTTG-AATT-A-----------TC
+vanF_1_Paenibacillus        ATGCG------A-AAG-----TGAAATTTG-GTCC-AC----------TT
+vanF_6_Paenibacillus        ATGCG------A-AAG-----TGAAATTTG-GTCC-AC----------TT
+vanF_Paenibacillus          ATGCG------A-AAG-----TGAAATTTG-GTCC-AC----------TT
+vanS-F_4_Paenibacillus      AAGGG------G-AAG-----TAATATTCG-TT-----------------
+vanY-F_3_Paenibacillus      AAGGG------A-TAG-----CGTAATATAAATCC-GT----------AT
+vanZ-F_2_Paenibacillus      ATC-------------------AATATCTG--T---------------AA
+                                                                              
+
+cat-TC_9_Apilactobacillus   -G--AAT--AATAGAAAGAGA-A---------------------A-----
+erm_B__12_Apilactobacillus  -C--CCT--AAC-----AAAC-AG-----------------------AGG
+lsa_B__15_Brevibacillus     -G--TTC--AAC-----TTTA-AA----------------GCTAATTGGC
+rphC_5_Paenibacillus        -C--ACC--AAC-----AAAT-GATGACCGATCCCATGAAACCG--CTGG
+tet_B__11_Frischella        -T--TCG--CCC-----CATT-TA----------------GT-----GGC
+tet_B__13_Gilliamella       -T--TCG--CCC-----CATT-TA----------------GT-----GGC
+tet_B__7_Gilliamella        -T--CCT--TGT-----GGTT-AT----------------GT-T--TTGG
+tet_C__14_Snodgrassella     -CTCGCCGAAAC-----GTTT--G----------------GTG---GCGG
+tet_H__8_Gilliamella        CC--GCT--AAA-----AATCGAA----------------CT-----CGC
+vanF_10_Paenibacillus       -C--GGC--ATC-----CCCT-AT----------------GT-----AGG
+vanF_1_Paenibacillus        -C--GCC--AAC-----GATT-AA----------------GT-----CGG
+vanF_6_Paenibacillus        -C--GCC--AAC-----GATT-AA----------------GT-----CGG
+vanF_Paenibacillus          -C--GCC--AAC-----GATT-AA----------------GT-----CGG
+vanS-F_4_Paenibacillus      -----CT--TGC-----TATC-AA----------------AT-----CGT
+vanY-F_3_Paenibacillus      -T--CCC--AAG-----AATT-T---------------------------
+vanZ-F_2_Paenibacillus      ----TCC--TAT-----GATT-TA----------------GC-----AAT
+                                                                              
+
+cat-TC_9_Apilactobacillus   A-----AGCATT----------TT-C---------A--------G---GT
+erm_B__12_Apilactobacillus  T-----AT---------------------------A--AAA--TT---GT
+lsa_B__15_Brevibacillus     TTATTCACTATTTGGTCATTGTAC-TT--------A--ACAGACA---CA
+rphC_5_Paenibacillus        G-----ATT-----GTCTTT-TTT-CCAGTTAACCA--ATC--CA---GC
+tet_B__11_Frischella        T-----AT--------TCT--TCCTGC--------C--ACA-AAG---GC
+tet_B__13_Gilliamella       T-----AT--------TCT--TCCTGC--------C--ACA-AAG---GC
+tet_B__7_Gilliamella        T-----TC--------CGTG-AAA-CC--------A--AAA--AT---AC
+tet_C__14_Snodgrassella     G-----AC--------CAG--TGA-CG--------A--AG--GCTTGAGC
+tet_H__8_Gilliamella        T-----ATT-----T-TGGT--TT-CT--------T--AGG--TG---GT
+vanF_10_Paenibacillus       C-----TG--------TGA--TGT-TC--------AAAGT--TCG---GC
+vanF_1_Paenibacillus        T-----AC--------CGT--TTC-CC--------A--AC--ACG---GC
+vanF_6_Paenibacillus        T-----AC--------CGT--TTC-CC--------A--AC--ACG---GC
+vanF_Paenibacillus          T-----AC--------CGT--TTC-CC--------A--AC--ACG---GC
+vanS-F_4_Paenibacillus      T--------TTT---------C-T-CT--------A--AG--ACA---GG
+vanY-F_3_Paenibacillus      ----------TT---------T-T-CT--------A--TC--------CA
+vanZ-F_2_Paenibacillus      T--------GAC---------T-T-AG------------C--TC-----A
+                                                                              
+
+cat-TC_9_Apilactobacillus   -AT-------------A-GGTG--------T--T----T-T---------
+erm_B__12_Apilactobacillus  -TG--GG-----AA-TA-T---------------------T-----CC--
+lsa_B__15_Brevibacillus     -TC-------------A-GCCA--------AAAC----AATCAATTC-GT
+rphC_5_Paenibacillus        -AC--CCATGCGTA-AA-GCCGGTGGCAGAT--T------G-----TT--
+tet_B__11_Frischella        -TT-------------G-GAAT--------A--CTGAGTGTAA------A
+tet_B__13_Gilliamella       -TT-------------G-GAAT--------A--CTGAGTGTAA------A
+tet_B__7_Gilliamella        -AC-------------G-TGAT--------A--A-----TACA------G
+tet_C__14_Snodgrassella     GAG---------GG-CGTGCAAG-------A--T-----TCCG------A
+tet_H__8_Gilliamella        -GCTTTT---GGTGTTG-GCCT--------T--A-----TTATCGGCCCA
+vanF_10_Paenibacillus       -GG------------TA-TGTA--------T--G-----GACA------A
+vanF_1_Paenibacillus        -AC-------------A-GCCA--------A--C-----TTCA-------
+vanF_6_Paenibacillus        -AC-------------A-GCCA--------A--C-----TTCA-------
+vanF_Paenibacillus          -AC-------------A-GCCA--------A--C-----TTCA-------
+vanS-F_4_Paenibacillus      -AT-------------A-CAAC--------T--C-----T-----TC-TT
+vanY-F_3_Paenibacillus      ------------------CCTT--------C--C-----TTCAGG-----
+vanZ-F_2_Paenibacillus      -AT-------------A-GCCA--------A--T-----G----------
+                                                                              
+
+cat-TC_9_Apilactobacillus   --GGGA---------------------------------A---AC--A--
+erm_B__12_Apilactobacillus  -------TT----------------------------------ACA----
+lsa_B__15_Brevibacillus     TTG--ACTG------------------------------A--AATTCC--
+rphC_5_Paenibacillus        -------TG--TTGATGTGACACCCATGCTGGCTAGCAGAG--ACAATAC
+tet_B__11_Frischella        A--GACCAA------------------------------G--ACCC----
+tet_B__13_Gilliamella       A--GACCAA------------------------------G--ACCC----
+tet_B__7_Gilliamella        A--T-ACCG------------------------------A--AGTAG---
+tet_C__14_Snodgrassella     A---TACCGCAA----------------------------GCGACA----
+tet_H__8_Gilliamella        A--TGCTAG------------------------------GGGGATTA---
+vanF_10_Paenibacillus       A--TCCCTG--A------------------------------CATA----
+vanF_1_Paenibacillus        A--GGCCTG------------------------------G--AACA----
+vanF_6_Paenibacillus        A--GGCCTG------------------------------A--AACA----
+vanF_Paenibacillus          A--GGCCTG------------------------------G--AACA----
+vanS-F_4_Paenibacillus      TTA--ATTG------------------------------A---AT--A--
+vanY-F_3_Paenibacillus      -----------------------------------------------T--
+vanZ-F_2_Paenibacillus      -AG--AAA-------------------------------A---A------
+                                                                              
+
+cat-TC_9_Apilactobacillus   ---------ATTTC-C-CC-GA----------------------------
+erm_B__12_Apilactobacillus  ---------ATTTAA--GCA-CAC---AA---------------------
+lsa_B__15_Brevibacillus     ---------AATGG-T-TCTAATTTTAATGAC----------TCA-----
+rphC_5_Paenibacillus        ATTACATTACCTGGG--TCA-ATC---CGATCCGCTTATCAAAGACGCAC
+tet_B__11_Frischella        -------------G-C-T-A-ATG---AAAAG----------CCA-----
+tet_B__13_Gilliamella       -------------G-C-T-A-ATG---AAAAG----------CCA-----
+tet_B__7_Gilliamella        ----------GG-G-T-TGA-GAC---GCAAT----------CGA-----
+tet_C__14_Snodgrassella     ---------GGCCGA--TCA--TC---GTCGC----------GCT-----
+tet_H__8_Gilliamella        ----------TTAGGT-GAT-ATC---AGTGC----------TCA-----
+vanF_10_Paenibacillus       ---------CATTGTGGCCA-AAA---ATGCT----------GGT-----
+vanF_1_Paenibacillus        ---------GCTTG-T-TCA-ATC---AGGACT----------TT-----
+vanF_6_Paenibacillus        ---------GCTTG-T-TCA-ATC---AGGACT----------TT-----
+vanF_Paenibacillus          ---------GCTTG-T-TCA-ATC---AGGACT----------TT-----
+vanS-F_4_Paenibacillus      ---------AGTAG-C-TC-GCT---TA----------------------
+vanY-F_3_Paenibacillus      ---------GCTTT-A-TCCA-T---CTTCAT----------TT------
+vanZ-F_2_Paenibacillus      -----------------TA-ATC---CAG---------------------
+                                                                              
+
+cat-TC_9_Apilactobacillus   --------ACC-ATTAT-ATTTCT-------CTA--C-------------
+erm_B__12_Apilactobacillus  ----------------------------A--TTA--T-------------
+lsa_B__15_Brevibacillus     -----GTTTTT-TCCAC-ATTTTT----TAGCAG--T------TTTGA--
+rphC_5_Paenibacillus        TGATGA---C-CATAAT-AGAGCGAGACT--TTA--TAAAAACGTTA---
+tet_B__11_Frischella        --------ACC-ATCAT-G------------CTATTC------CATC---
+tet_B__13_Gilliamella       --------ACC-ATCAT-G------------CTATTC------CATC---
+tet_B__7_Gilliamella        -----A---TTCGGTAT-ACA-----------------------TCA---
+tet_C__14_Snodgrassella     --------CCA-GCGAA-A------------GCGGTC------CTCGC--
+tet_H__8_Gilliamella        -----T---AT-GCCAT-TTATT--------------------TTTGCCG
+vanF_10_Paenibacillus       --------TTT-GGCACTC------------CTG--A------ATTTT--
+vanF_1_Paenibacillus        --------ACT-GTCAT-A------------CTG--C------CTTGC--
+vanF_6_Paenibacillus        --------ACT-GTCAT-A------------CTG--C------CTTGC--
+vanF_Paenibacillus          --------ACT-GTCAT-A------------CTG--C------CTTGC--
+vanS-F_4_Paenibacillus      ----------A-ATCG------AT----TTGTTT--C-------------
+vanY-F_3_Paenibacillus      -------GAGT-AG-A-------------TCCCA--C-------------
+vanZ-F_2_Paenibacillus      ------TATAT-GCAA------CA----TTTTT-----------------
+                                                                              
+
+cat-TC_9_Apilactobacillus   --------------------------------ATCA---G-A--------
+erm_B__12_Apilactobacillus  --------------------------------TAAAAA-AGT--------
+lsa_B__15_Brevibacillus     C-----------------------TTTT---CCTCAAT-AGC--------
+rphC_5_Paenibacillus        CCAGATGAGAATATAAAACCAAGTCCA-----ATCAAA-AGCATTACAGA
+tet_B__11_Frischella        C-----------------------AA-----AACGATT-TTC--------
+tet_B__13_Gilliamella       C-----------------------AA-----AACGATT-TTC--------
+tet_B__7_Gilliamella        C-----------------------TTT-----ATTTAA-AAC--------
+tet_C__14_Snodgrassella     ------------------------CGAAAATGACCCAG-AGC--------
+tet_H__8_Gilliamella        C-----------------------TAT-----TTCACA-CTC--------
+vanF_10_Paenibacillus       ------------------------TGAT---TTTGAAT-CATG-------
+vanF_1_Paenibacillus        ------------------------TGT-----TTCAAT-GGC--------
+vanF_6_Paenibacillus        ------------------------TGT-----TTCAAT-GGC--------
+vanF_Paenibacillus          ------------------------TGT-----TTCAAT-GGC--------
+vanS-F_4_Paenibacillus      ------------------------TT------TTCAATTGGT--------
+vanY-F_3_Paenibacillus      --------------------------------ATCAAG-CGA--------
+vanZ-F_2_Paenibacillus      -----------------------------------GATT-----------
+                                                                              
+
+cat-TC_9_Apilactobacillus   ---AA--GG--TA-T-------A----------AA-TCA--TAA-AA-CT
+erm_B__12_Apilactobacillus  ---GG--TTTTTG-A-------A----------AG-CCG--TG---C-GT
+lsa_B__15_Brevibacillus     ---TT--TT--TG-T-------T----------GCCTTG-ATTC-AAGGT
+rphC_5_Paenibacillus        TACGA--TTCGTG-A-------AATTGAAAACAAT-CCG--TCAATC-GT
+tet_B__11_Frischella        ---GG--TA--AA-TAGCACCCA----------CA-CCG--TTG-CG-GG
+tet_B__13_Gilliamella       ---GG--TA--AA-TAGCACCCA----------CA-CCG--TTG-CG-GG
+tet_B__7_Gilliamella        ---GA--TG--CC-C-------A----------TT-TTG--TT---G-AT
+tet_C__14_Snodgrassella     ---GC--TGC--CGG-------C----------AC-CTG--TCC-TA-CG
+tet_H__8_Gilliamella        ---GA--T----A-T-------T----------AT-TAA--TA------C
+vanF_10_Paenibacillus       ----G--CGA----T-------A----------AA-CCGGATTC-AA-AT
+vanF_1_Paenibacillus        ---GG--TG--TG-T-------A----------AT-TCG--TCC-TA-GT
+vanF_6_Paenibacillus        ---GG--TG--TG-T-------A----------AT-TCG--TCC-TC-GT
+vanF_Paenibacillus          ---GG--TG--TG-T-------A----------AT-TCG--TCC-TA-GT
+vanS-F_4_Paenibacillus      ---AACATGC-CA-T-------A----------AT-TCA--TCC-TA-GT
+vanY-F_3_Paenibacillus      ---TA--AC--CC-C-------A----------AA-TTG--TGT-TC-GC
+vanZ-F_2_Paenibacillus      ---GTTC----TA-A-------A----------CT-GCG--GCC-AA-AT
+                                                                              
+
+cat-TC_9_Apilactobacillus   CT-TT--GAA---------------------GTC-ATTCTTT---A--C-
+erm_B__12_Apilactobacillus  ---CT--GACATCTAT--------------------------CTGACTG-
+lsa_B__15_Brevibacillus     TC-TT--TGCTCTCTTCATCATCTTTGCTGCTTT-ATGTCCTACAAAACC
+rphC_5_Paenibacillus        TC-CT--GATTTGATTCAG---C---GT-------------AGCCAAGC-
+tet_B__11_Frischella        AATTT--GGC-CTA------------------TC-AATTGCGCT------
+tet_B__13_Gilliamella       AATTT--GGC-CTA------------------TC-AATTGCGCT------
+tet_B__7_Gilliamella        TA-TT--TATTTTT--CAG---C-------------------GC------
+tet_C__14_Snodgrassella     AG-TT--G-CATG-------------------------------------
+tet_H__8_Gilliamella        TC-TCTTTGCTCTTT-TTC---C-------------------GA------
+vanF_10_Paenibacillus       AC-CT--TAACAT----------------------ATC----CTGT----
+vanF_1_Paenibacillus        TA-TT--GACTTT----------------------ATTCACGCC------
+vanF_6_Paenibacillus        TA-TT--GACTTT----------------------ATTCACGCC------
+vanF_Paenibacillus          TA-TT--GACTTT----------------------ATTCACGCC------
+vanS-F_4_Paenibacillus      TA-TT--TCG---------------------AATAATTCA--TCAATCA-
+vanY-F_3_Paenibacillus      TA--T--GAC---------------------CTG-CTG-G----CAAAG-
+vanZ-F_2_Paenibacillus      AG-TT--GGC---------------------AATA-----------A---
+                                                                              
+
+cat-TC_9_Apilactobacillus   -----------AGGAG----------------T--CCAAA----------
+erm_B__12_Apilactobacillus  --T--TGAAGAAGGAT----------------T--CTACAAG--------
+lsa_B__15_Brevibacillus     CTTGTCCAACTTGGAA----------------C--CCGAATT-------C
+rphC_5_Paenibacillus        -AT--CGATCGAAGCG----------------T--TGAAACA-------A
+tet_B__11_Frischella        ------GAAAAATAAAT----AAT--------CAACAAAATG-------G
+tet_B__13_Gilliamella       ------GAAAAATAAAT----AAT--------CAACAAAATG-------G
+tet_B__7_Gilliamella        ------AATTGATAGGCCAAATTC--------C--CGCAACGG------T
+tet_C__14_Snodgrassella     ------ATAAAGAAGAC----AGTCATAAGTGC--GGCGACGATAGTCAT
+tet_H__8_Gilliamella        ------GAAACACAAAA---------------A--AGAGAAG-------C
+vanF_10_Paenibacillus       ------TTTTGTTAAA----------------C--CGGCGCG-------T
+vanF_1_Paenibacillus        ------GAAAGATGAG----------------C--CGGAACG-------C
+vanF_6_Paenibacillus        ------GAAAGATGAG----------------C--CGGAACG-------C
+vanF_Paenibacillus          ------GAAAGATGAG----------------C--CGGAACG-------C
+vanS-F_4_Paenibacillus      ----------A-CCGT----------------T--CTAGGCG-------T
+vanY-F_3_Paenibacillus      ----------C-AAAA----------------T--CAGAACC-------C
+vanZ-F_2_Paenibacillus      -------------AAA----------------T--CCTAACG--------
+                                                                              
+
+cat-TC_9_Apilactobacillus   -----------------------T-AC-----C---AGA-G-----AA-T
+erm_B__12_Apilactobacillus  --------------------------------------------CGT-AC
+lsa_B__15_Brevibacillus     --GTTGTCCCA--TTT--TTGGAA-GCTTCCAC---TTG-A-----TTAG
+rphC_5_Paenibacillus        --AA-----TA-TCCA--AACGAA-A-----TC---AGG-ATCGGAT-TT
+tet_B__11_Frischella        --GCA-T--CG-TTTT--AAATAA-A-----GT-----G-A--------T
+tet_B__13_Gilliamella       --GCA-T--CG-TTTT--AAATAA-A-----GT-----G-A--------T
+tet_B__7_Gilliamella        --GTGGGTGCT-ATTT--ACCGAA-A-----AT---CGT-T-----T-TG
+tet_C__14_Snodgrassella     GCCC-----CGCGCCC--ACCGGA-A-----GGAGCTGA-C-----T-GG
+tet_H__8_Gilliamella        --GC-----TT-GTTGCCAATAGG-A----CAC---CTG-A-----A-AA
+vanF_10_Paenibacillus       --TC-----CG-GCTC--ATCTTTCG-----GC---GTGAA-----T-AA
+vanF_1_Paenibacillus        --GC-----CG-GTTT--AACAAA-A-----AC---AGG-A-----T-AT
+vanF_6_Paenibacillus        --GC-----CG-GTTT--AACAAA-A-----AC---AGG-A-----T-AT
+vanF_Paenibacillus          --GC-----CG-GTTT--AACAAA-A-----AC---AGG-A-----T-AT
+vanS-F_4_Paenibacillus      --T---GA--G-ATTT--AGTAAA-G-----GC---A---A------T-C
+vanY-F_3_Paenibacillus      --A---TT--T--CTT--CGTAAA-G------T---CTG-C-----TT-T
+vanZ-F_2_Paenibacillus      ------------GCAT--AAATAA-A-----AT---A---A--------T
+                                                                              
+
+cat-TC_9_Apilactobacillus   GT------------------------------------------------
+erm_B__12_Apilactobacillus  CTTG--------------------------------GATA-------TTC
+lsa_B__15_Brevibacillus     ACC--------------------AGC------CTGCTGTAC----GCTTT
+rphC_5_Paenibacillus        GTTTGATTTTATTCTTGAAGATCTCGAGCAATTAAAGATG-------TTT
+tet_B__11_Frischella        GT------------------------------ATACCGAA-------TTC
+tet_B__13_Gilliamella       GT------------------------------ATACCGAA-------TTC
+tet_B__7_Gilliamella        GA------------------------------TGG-AATA-G-----CAT
+tet_C__14_Snodgrassella     GT-------------------------------TGAAGGC-------TCT
+tet_H__8_Gilliamella        C-------------------------------CAA-ACTG-C-----CTC
+vanF_10_Paenibacillus       AG-------------------------------TCAATAA-------CTA
+vanF_1_Paenibacillus        GT-------------------------------TAAGGTA-------TTT
+vanF_6_Paenibacillus        GT-------------------------------TAAGGTA-------TTT
+vanF_Paenibacillus          GT-------------------------------TAAGGTA-------TTT
+vanS-F_4_Paenibacillus      GT-------------------------------TAAAAAATGCCTGATCT
+vanY-F_3_Paenibacillus      GC-----------------------------------TCA-------TCT
+vanZ-F_2_Paenibacillus      GT------------------------------TCAAAATA-------TAT
+                                                                              
+
+cat-TC_9_Apilactobacillus   ----------------------TTT---A-----------------G---
+erm_B__12_Apilactobacillus  ACCGAA-------------------------------------CA--CTA
+lsa_B__15_Brevibacillus     ---GAAG-------ACT---GTTTTA--AT-------------CTCCCTA
+rphC_5_Paenibacillus        ---GTATTTGA--TCCGCAGAGTTTA---CGTGTGATTCTGGCTG--CAA
+tet_B__11_Frischella        ---GATT-------GCG----TCTCA--AC--------------C--CC-
+tet_B__13_Gilliamella       ---GATT-------GCG----TCTCA--AC--------------C--CC-
+tet_B__7_Gilliamella        ---G-AT--GG---TTG----GCTTT---T-------------CA--TTA
+tet_C__14_Snodgrassella     ---CAAG---GGCATCG----GTCGACGCT-------------CT--CCC
+tet_H__8_Gilliamella        ---AAAT-------ACA----G-TCA---C-------------TG--TTT
+vanF_10_Paenibacillus       ---G--G-------ACG----AATTA--CA----------C---A--CCG
+vanF_1_Paenibacillus        ---GAAT-------CCG----GTTTA---T-------------CG--CCA
+vanF_6_Paenibacillus        ---GAAT-------CCG----GTTTA---T-------------CG--CCA
+vanF_Paenibacillus          ---GAAT-------CCG----GTTTA---T-------------CG--CCA
+vanS-F_4_Paenibacillus      ---GATT-------T--------TCA--GT-------------CAAGCTA
+vanY-F_3_Paenibacillus      ---AAGT-------CT----CGAAA---AC-------------CACT---
+vanZ-F_2_Paenibacillus      ---GTAG-------T-------AAT---AC-------------C------
+                                                                              
+
+cat-TC_9_Apilactobacillus   ----A-------T-ACACC---------ATCA------AAAATT------
+erm_B__12_Apilactobacillus  G-G-GTTGCTCTT-GCACA---------CTCAA-----------------
+lsa_B__15_Brevibacillus     T-G-TCTT----TTTGTAG---------ACGC------TGATTTGTTGCC
+rphC_5_Paenibacillus        T-GGATGC----T-GCAACA-----TGGATCAATGCA-AATATG------
+tet_B__11_Frischella        T-A-C-------T-TCGGTATCTGTATTATCAC---GTGTATTT------
+tet_B__13_Gilliamella       T-A-C-------T-TCGGTATCTGTATTATCAC---GTGTATTT------
+tet_B__7_Gilliamella        GCG-GGTC----T--TGGT---------CTTT------TACACT------
+tet_C__14_Snodgrassella     T-T-AT--------GCGAC----------TCC------TGCATT------
+tet_H__8_Gilliamella        T-T-TTTA----A-GAAAA---------GCCT------CTACTT------
+vanF_10_Paenibacillus       C-C-AT--------TGAAA-----------CA------GCAAGG------
+vanF_1_Paenibacillus        T-G-AT--------TCAAA---------ATCA------AAAATT------
+vanF_6_Paenibacillus        T-G-AT--------TCAAA---------ATCA------AAAATT------
+vanF_Paenibacillus          T-G-AT--------TCAAA---------ATCA------AAAATT------
+vanS-F_4_Paenibacillus      T-C-A-------T-CCTTA---------AGGA------TTAAAT------
+vanY-F_3_Paenibacillus      ---------------GCTA---------ATT-------------------
+vanZ-F_2_Paenibacillus      ------------T-TCAGA---------AGCA------AAGG--------
+                                                                              
+
+cat-TC_9_Apilactobacillus   -------------GTAT----------------A-------AAG------
+erm_B__12_Apilactobacillus  ----------------G--TC---TC-------G-------ATT------
+lsa_B__15_Brevibacillus     TCTTCGTGTTCCTGCTGTCTA---TC-------A------AAATTTAACT
+rphC_5_Paenibacillus        -----------AACGAG--TG---GTTAGGTGAA------AAACA---C-
+tet_B__11_Frischella        -----------TTGGTT--TC---AC-------G------GAAC------
+tet_B__13_Gilliamella       -----------TTGGTT--TC---AC-------G------GAAC------
+tet_B__7_Gilliamella        -----------CAGTAT-------------------------TC------
+tet_C__14_Snodgrassella     --A---------GGAAG--CAG--CC------CA------GTAG------
+tet_H__8_Gilliamella        -----------TTGGTT--AGCAACC------TATTTTATTATC------
+vanF_10_Paenibacillus       --C---------AGTA---TG---AC------A-------GTAA------
+vanF_1_Paenibacillus        --C---------AGGAG--TG---CC------A-------AAAC------
+vanF_6_Paenibacillus        --C---------AGGAG--TG---CC------A-------AAAC------
+vanF_Paenibacillus          --C---------AGGAG--TG---CC------A-------AAAC------
+vanS-F_4_Paenibacillus      -----------CTAAAT--AA---CC-------T------AAAA------
+vanY-F_3_Paenibacillus      -----------AAAAAG--TG---CC-------A------AACC------
+vanZ-F_2_Paenibacillus      -------------GGAG---------------------------------
+                                                                              
+
+cat-TC_9_Apilactobacillus   --T-----------------------------------------------
+erm_B__12_Apilactobacillus  --C-A---GCA------AT-------------------------------
+lsa_B__15_Brevibacillus     TCCAAGAAGAA------TAG----------TT------------------
+rphC_5_Paenibacillus        -GC-A---GCAGATACACTT---TCTCAATCTGTACAGGACAATATTACT
+tet_B__11_Frischella        --C-A---AAA------CA------------T------------------
+tet_B__13_Gilliamella       --C-A---AAA------CA------------T------------------
+tet_B__7_Gilliamella        --CAA---GCC------TTT----------GT------------------
+tet_C__14_Snodgrassella     --TA----G--------GTT----------GA------------------
+tet_H__8_Gilliamella        --C-A---GCT------TAT-----------C------------------
+vanF_10_Paenibacillus       --A-G---TCC------TGA----------TT------------------
+vanF_1_Paenibacillus        --C-A---GCA------TTT----------TT------------------
+vanF_6_Paenibacillus        --C-A---GCA------TTT----------TT------------------
+vanF_Paenibacillus          --C-A---GCA------TTT----------TT------------------
+vanS-F_4_Paenibacillus      --C-A---GAG------GTAAGAG------GT------------------
+vanY-F_3_Paenibacillus      -CC-A---TCT------TTT----------TT------------------
+vanZ-F_2_Paenibacillus      --------------------------------------------------
+                                                                              
+
+cat-TC_9_Apilactobacillus   --------------GGCTCTAA----------------------------
+erm_B__12_Apilactobacillus  -------------T-GCTTAAG---CT------G-----CCAGC-GGAAT
+lsa_B__15_Brevibacillus     ---------------ACCACTTTGAAC------T-----TCAA--TATTT
+rphC_5_Paenibacillus        TCGGAAATGGGTCTGGCGCTATTGGAT------G-----TCGCA-GATGT
+tet_B__11_Frischella        --------------AACCACAAGGAAA------G-----TGACAATATTT
+tet_B__13_Gilliamella       --------------AACCACAAGGAAA------G-----TGACAATATTT
+tet_B__7_Gilliamella        --------------GGCAGGAAG-AAT-----AG-----CCACT-AAATG
+tet_C__14_Snodgrassella     --------------GGCCGTTGAGCAC-----CGCCGCCGCAAG-GAATG
+tet_H__8_Gilliamella        --------------GGGCAAATT-CCTGCCACCA-----TCTGG-GTGCT
+vanF_10_Paenibacillus       --------------GA--ACAAGCTGT------T-----CCAGG-C-CTT
+vanF_1_Paenibacillus        --------------GGCCACAATGTAT------G-----TCAGG-GATTT
+vanF_6_Paenibacillus        --------------GGCCACAATGTAT------G-----TCAGG-GATTT
+vanF_Paenibacillus          --------------GGCCACAATGTAT------G-----TCAGG-GATTT
+vanS-F_4_Paenibacillus      --------------GTGCGCAAATCAT------G-----AGCCA-AAT--
+vanY-F_3_Paenibacillus      --------------AGCATCAGC-TA-------------TCAT---CTTG
+vanZ-F_2_Paenibacillus      -------------------TAAGT--T------------------GAT--
+                                                                              
+
+cat-TC_9_Apilactobacillus   --------------------------------------------------
+erm_B__12_Apilactobacillus  G----------C----TTTC----------------------ATCC----
+lsa_B__15_Brevibacillus     G--------CCC-----TATT----------------------TAT----
+rphC_5_Paenibacillus        G---A----TCC----GTCCT----TATCCGGAGATCATTGAATATTTGC
+tet_B__11_Frischella        AGCAACGCAGCG----ATAA----------------------AAAA----
+tet_B__13_Gilliamella       AGCAACGCAGCG----ATAA----------------------AAAA----
+tet_B__7_Gilliamella        G--------GGC----GAAA----------------------AAAC----
+tet_C__14_Snodgrassella     G--------TGC----ATGCAAGGAG----------------ATGG----
+tet_H__8_Gilliamella        G--------TTT----ACACA---------------------ATAT----
+vanF_10_Paenibacillus       G--------AAG----TTGG-----------------------CTG----
+vanF_1_Paenibacillus        G--------TCC----ATACA----------------------TAC----
+vanF_6_Paenibacillus        G--------TCC----ATACA----------------------TAC----
+vanF_Paenibacillus          G--------TCC----ATACA----------------------TAC----
+vanS-F_4_Paenibacillus      ---------TCA----ATACT----------------------AAC----
+vanY-F_3_Paenibacillus      G--------AA------AA------------------------TTT----
+vanZ-F_2_Paenibacillus      ---------TTCACTTATACG----------------------AAT----
+                                                                              
+
+cat-TC_9_Apilactobacillus   --------------------------------------------------
+erm_B__12_Apilactobacillus  ----------------------------------------TAA-AC----
+lsa_B__15_Brevibacillus     -------------AGATAA--------AATATGAT----------CA---
+rphC_5_Paenibacillus        AACATG---------TCAAAGATGAGCACTTT---TTGGATGA-ACT-GC
+tet_B__11_Frischella        ----GGGACTATGCGGTGA--------AATCTCTC----------CT---
+tet_B__13_Gilliamella       ----GGGACTATGCGGTGA--------AATCTCTC----------CT---
+tet_B__7_Gilliamella        ----GG---------CAGT--------ACTGC---T----CGG-A-T---
+tet_C__14_Snodgrassella     -------------CGCCCA--------ACAGTCCCC----CGG-CCACG-
+tet_H__8_Gilliamella        ----CG---------TTTT--------GATT---------GGA-ACA---
+vanF_10_Paenibacillus       -------------TGCCGT--------GTTGGG------------AA---
+vanF_1_Paenibacillus        -------------CGCCGA--------ACTTTGAA----------CA---
+vanF_6_Paenibacillus        -------------CGCCGA--------ACTTTGAA----------CA---
+vanF_Paenibacillus          -------------CGCCGA--------ACTTTGAA----------CA---
+vanS-F_4_Paenibacillus      ----TG-------CTCTTT--------ACTATTTTC----CGAAAAG---
+vanY-F_3_Paenibacillus      -------------TTTAGC--------TATTTCTT----------CT---
+vanZ-F_2_Paenibacillus      ----T------------------------------------AATG-----
+                                                                              
+
+cat-TC_9_Apilactobacillus   --------------------------------------------------
+erm_B__12_Apilactobacillus  -------------------------CAA-AA-------G-----------
+lsa_B__15_Brevibacillus     ------------------------ACAC-AT------CC-----------
+rphC_5_Paenibacillus        TTACGTTGGATGGCGGGCAGAAAGCCCG-AGACGCGATCTATGCTTATCT
+tet_B__11_Frischella        ------------------------GCAA-AA------CC-----------
+tet_B__13_Gilliamella       ------------------------ACAA-AA------CC-----------
+tet_B__7_Gilliamella        ------------------------TTAT-TG------CA-----------
+tet_C__14_Snodgrassella     ------------------------GGGCCTG------CC-----------
+tet_H__8_Gilliamella        ------------------------CAAC-TT------CT-ATCGG-----
+vanF_10_Paenibacillus       ------------------------ACGG-TA------CC-----------
+vanF_1_Paenibacillus        ------------------------TCAC-AG------CC-----------
+vanF_6_Paenibacillus        ------------------------TCAC-AG------CC-----------
+vanF_Paenibacillus          ------------------------TCAC-AG------CC-----------
+vanS-F_4_Paenibacillus      ------------------------TCAC-CC------CT-----------
+vanY-F_3_Paenibacillus      --------------------------------------------------
+vanZ-F_2_Paenibacillus      ------------------------TTTC----------------------
+                                                                              
+
+cat-TC_9_Apilactobacillus   --------------------------------------------------
+erm_B__12_Apilactobacillus  -TA---A----ACAG-----------TGTCT-------------------
+lsa_B__15_Brevibacillus     -AT---CTAA-AAAGTT-----TC--TGTCATG-TGA-AA-TTA------
+rphC_5_Paenibacillus        CGA---CA-A-ATACGGAATGCGATGTGCCGGA-GA---A-ATCGATCTT
+tet_B__11_Frischella        -AC---CAATAATAGGC-----CC--CGCT-AT-T---AA-ACC------
+tet_B__13_Gilliamella       -AC---CAATAATAGGC-----CC--CGCT-AT-T---AA-ACC------
+tet_B__7_Gilliamella        -G---ATA---GTAGTGCA---TT--TGCCTTT-TTAGCG-TTT------
+tet_C__14_Snodgrassella     -AC---C----ATACC------CA--CGCCGAA-AC--AAGCGC------
+tet_H__8_Gilliamella        -TATGTCT----TTGGC-----GG--TTCTGGG-TG---T-ATT------
+vanF_10_Paenibacillus       -GA---CT----TAATC-----GT--TGGCGAAGT---GG-ACC------
+vanF_1_Paenibacillus        -TA---C----ATAGGG-----GA--TGCCGGA-T---AA-TTC------
+vanF_6_Paenibacillus        -TA---C----ATAGGG-----GA--TGCCGGA-T---AA-TTC------
+vanF_Paenibacillus          -TA---C----ATAGGG-----GA--TGCCGGA-T---AA-TTC------
+vanS-F_4_Paenibacillus      -TT---C--T-ATAGCC-----TT--TTCC-AA-T---TT-TTC------
+vanY-F_3_Paenibacillus      -GA---CAAT-TTA-AT-----T-----TC--G-T---TA-T-C------
+vanZ-F_2_Paenibacillus      -----------ATAT-T-----T----TCC-TA-T---CA-CCC------
+                                                                              
+
+cat-TC_9_Apilactobacillus   ------------------------------------CTTA-T---CCC-A
+erm_B__12_Apilactobacillus  -----------------TAA--T-AAAACT--T------AC----C----
+lsa_B__15_Brevibacillus     -----------------AAA--T-AAACCC--TT-TTTTCTT---CCTTA
+rphC_5_Paenibacillus        ACCAGAACGCGCTGGATCGA--A-AAACCAATT------ACGATTG----
+tet_B__11_Frischella        -----------------AAGCCC-AAAACT--T------GC----CCC-T
+tet_B__13_Gilliamella       -----------------AAGCCC-AAAACT--T------GC----CCC-T
+tet_B__7_Gilliamella        -----------------ATATCT-GAAGGT--T------GG----TTA-G
+tet_C__14_Snodgrassella     -----------------TCA--T-GAGCCC--G------AA----GTG-G
+tet_H__8_Gilliamella        -----------------ACA--T-ATTTTC--T------T------TC--
+vanF_10_Paenibacillus       -----------------AAA--TTTCACTT-TC------GC----ATG-G
+vanF_1_Paenibacillus        -----------------AAA--T-AAACCT--------TGT----ATG-G
+vanF_6_Paenibacillus        -----------------AAA--T-AAACCT--------TGT----ATG-G
+vanF_Paenibacillus          -----------------AAA--T-AAACCT--------TGT----ATG-G
+vanS-F_4_Paenibacillus      -----------------ACT--T---GCCT--GATTAATGC----CTT-G
+vanY-F_3_Paenibacillus      -----------------AAG--T-AACCCA--T------ACC---CCTT-
+vanZ-F_2_Paenibacillus      -----------------AT---------------ATATTTC----CTA-C
+                                                                              
+
+cat-TC_9_Apilactobacillus   -A-TA--ACCT---A---ACT--C---T-CC-------------------
+erm_B__12_Apilactobacillus  -------------CG---CCA-T----A-CC-------------------
+lsa_B__15_Brevibacillus     GA-TA--ATCAGAGA---CCG-TC---TTTC----G--------------
+rphC_5_Paenibacillus        -------------TC---CCG-TTGATT-CTTGGCAACATCAAAAACTTT
+tet_B__11_Frischella        AACCA--ACC--GAA---CC--AC---T-TC-------------------
+tet_B__13_Gilliamella       AACCA--ACC--GAA---CC--AC---T-TC-------------------
+tet_B__7_Gilliamella        T-----T----TTCC---CTG-TT---T-TA-------------------
+tet_C__14_Snodgrassella     -------------CGAGCCCGATC---T-TC-------------------
+tet_H__8_Gilliamella        ------A----GGCG-----A-TT---G-TC-------------------
+vanF_10_Paenibacillus       -------------TA---TCT-TT---C-GC-------------------
+vanF_1_Paenibacillus        -------------CG---CCG-TC---T-TC-------------------
+vanF_6_Paenibacillus        -------------CG---CCG-TC---T-TC-------------------
+vanF_Paenibacillus          -------------CG---CCG-TC---T-TC-------------------
+vanS-F_4_Paenibacillus      TG-CAATATC----A---CTA-AA---T-TC----A--------------
+vanY-F_3_Paenibacillus      ----T--GTCAA-------T--TC---T-TC----G--------------
+vanZ-F_2_Paenibacillus      ---------C----C---CCG--------TC----A--------------
+                                                                              
+
+cat-TC_9_Apilactobacillus   --------------------------------------------------
+erm_B__12_Apilactobacillus  --------------------------------------------------
+lsa_B__15_Brevibacillus     --------------------------------------------------
+rphC_5_Paenibacillus        GAGCCTAATGCGAGCCAGCGGAAATTTGAGCAAGGGCAGCAAGAAGCTTT
+tet_B__11_Frischella        --------------------------------------------------
+tet_B__13_Gilliamella       --------------------------------------------------
+tet_B__7_Gilliamella        --------------------------------------------------
+tet_C__14_Snodgrassella     --------------------------------------------------
+tet_H__8_Gilliamella        --------------------------------------------------
+vanF_10_Paenibacillus       --------------------------------------------------
+vanF_1_Paenibacillus        --------------------------------------------------
+vanF_6_Paenibacillus        --------------------------------------------------
+vanF_Paenibacillus          --------------------------------------------------
+vanS-F_4_Paenibacillus      --------------------------------------------------
+vanY-F_3_Paenibacillus      --------------------------------------------------
+vanZ-F_2_Paenibacillus      --------------------------------------------------
+                                                                              
+
+cat-TC_9_Apilactobacillus   -------------GTC-----------G----------------------
+erm_B__12_Apilactobacillus  ---------AC--------------------A---G--AT--------GT
+lsa_B__15_Brevibacillus     ----------TGCATCAGT--------GTCTAGATG--AT--------TG
+rphC_5_Paenibacillus        GAAAAAAGAACA----AGAGTTGTTGGA--AC---G--ATTAAAGCAATT
+tet_B__11_Frischella        ---------ACGCGT----------------T---G--AGA--------A
+tet_B__13_Gilliamella       ---------ACGCGT----------------T---G--AGA--------A
+tet_B__7_Gilliamella        ---------AT-------------------TT---T--AT--------TG
+tet_C__14_Snodgrassella     ---------CCC-ATC---------------G-----GTGA--------T
+tet_H__8_Gilliamella        ---------GC-------------------TG---GGAAA--------TT
+vanF_10_Paenibacillus       ---------ATTCA------------------------TCA--------A
+vanF_1_Paenibacillus        ---------ACCCG------------------------ATT--------T
+vanF_6_Paenibacillus        ---------ACCCG------------------------ATT--------T
+vanF_Paenibacillus          ---------ACCCG------------------------ATT--------T
+vanS-F_4_Paenibacillus      ----------TC--------------------------AT--------TT
+vanY-F_3_Paenibacillus      ----------TGCGTA----------------------------------
+vanZ-F_2_Paenibacillus      ----------CC----A------------------T--AT--------AC
+                                                                              
+
+cat-TC_9_Apilactobacillus   -CT----------------------ATTGTA----------------AC-
+erm_B__12_Apilactobacillus  TCC--------------AG--A-------TAA--------A---------
+lsa_B__15_Brevibacillus     GT-TGG---CTCAT-C-AATTA---ATAGAAA--------TTG----ACC
+rphC_5_Paenibacillus        GCC-GGATGGCGAA-CAAA--A---AGCGAAAGAAACAAAACAAACGATC
+tet_B__11_Frischella        GCT-GA------GG-T-GG-----TATCGGCA--------ATG----ACC
+tet_B__13_Gilliamella       GCT-GA------GG-T-GG-----TATCGGCA--------ATG----ACC
+tet_B__7_Gilliamella        GCT-GG-----GGG-G-GG--G---ATCGC-T--------T---------
+tet_C__14_Snodgrassella     GTC-GG------CGAT-AT-----AGGCGCCA--------GC--------
+tet_H__8_Gilliamella        GGC-AC-------A-A-AA--ATGGGGCGAAA--------A---------
+vanF_10_Paenibacillus       GAA-GA-------T-C-AA------CCAGAAA--------AA--------
+vanF_1_Paenibacillus        GCC-GT-------G-C-AA-----AACCGAAA--------A---------
+vanF_6_Paenibacillus        GCC-GT-------G-C-AA-----AACCGAAA--------A---------
+vanF_Paenibacillus          GCC-GT-------G-C-AA-----AACCGAAA--------A---------
+vanS-F_4_Paenibacillus      GACAAT-----ATT-T-GA--A---CTCGATG--------CTT----AA-
+vanY-F_3_Paenibacillus      -------------------------AATAAAT--------TTA-----T-
+vanZ-F_2_Paenibacillus      ACT--------------------------------------------A--
+                                                                              
+
+cat-TC_9_Apilactobacillus   ----------------------CAGTTC----TAAA-A--GC-TG-----
+erm_B__12_Apilactobacillus  -------------------TATTG----------GA-A--GC-TA-----
+lsa_B__15_Brevibacillus     CTCAG------TC-AAAAAAAGTGCAGCAAGCAACA-C--CTTTGTTTGT
+rphC_5_Paenibacillus        ----GACTTCATCCGGAATTACAGTGGG----TATA-G--GG-AA-----
+tet_B__11_Frischella        -----------------GATGCCGCGAC----AGCC-CCAGT-AG-----
+tet_B__13_Gilliamella       -----------------GATGCCGCGAC----AGCC-CCAGT-AG-----
+tet_B__7_Gilliamella        -------------------TACCTGCAT----TACA-G--GG--------
+tet_C__14_Snodgrassella     -------------------AACCGCACC----TGTGGC--GC-CG-----
+tet_H__8_Gilliamella        -------------------AACCACCAT----TATG-A--TC-AG-----
+vanF_10_Paenibacillus       -------------------GGCTCCGAA----AACG-C-AGT-TG-----
+vanF_1_Paenibacillus        -------------------TACCGCGTC----TATA-C--GT-TG-----
+vanF_6_Paenibacillus        -------------------TACCGCGTC----TATA-C--GT-TG-----
+vanF_Paenibacillus          -------------------TACCGCGTC----TATA-C--GT-TG-----
+vanS-F_4_Paenibacillus      -------------------AGTCACCC-----TGAG-C--GA-GA-----
+vanY-F_3_Paenibacillus      ----------------------------------GA-C--ATCTG-----
+vanZ-F_2_Paenibacillus      ---------------------GCGCA---------A-G--GT-AG-----
+                                                                              
+
+cat-TC_9_Apilactobacillus   ----TAT-----TTGAG---------T-------------TT--------
+erm_B__12_Apilactobacillus  ----TAT-----A---AGT-----ACT-------------TT-----GTT
+lsa_B__15_Brevibacillus     TCTCCAT-----TTGATAA-----TGT------------TTT-----AAA
+rphC_5_Paenibacillus        ----TAT-----CCGAAAT-----ACGTCATGGTTAATCGTT-----ACT
+tet_B__11_Frischella        ----CTC-----CTGTGATC-----CC-------------TGAAAGCAAA
+tet_B__13_Gilliamella       ----CTC-----CTGTGATC-----CC-------------TGAAAGCAAA
+tet_B__7_Gilliamella        ------A-----GCGATGTC------------------TATCC----AA-
+tet_C__14_Snodgrassella     ----GTG-----ATGCCGGC-----CA-------------CG-----ATG
+tet_H__8_Gilliamella        ----TATGTCTATTGATATGATGGGCT-----------GTTT-----ATT
+vanF_10_Paenibacillus       ----T-T-----TTGGTTCC-----CG-------------CA-----AAC
+vanF_1_Paenibacillus        ----TAT-----TTGATATC-----CT-------------TT-----ATT
+vanF_6_Paenibacillus        ----TAT-----TTGATATC-----CT-------------TT-----ATT
+vanF_Paenibacillus          ----TAT-----TTGATATC-----CT-------------TT-----ATT
+vanS-F_4_Paenibacillus      ----TAA------TGAATT-----CCT------------TTTG----AAA
+vanY-F_3_Paenibacillus      -----AT-----TTTATAC-----TCT-------------TT--------
+vanZ-F_2_Paenibacillus      ----AAA------AGA----------------------------------
+                                                                              
+
+cat-TC_9_Apilactobacillus   ----------------------------------AT------------CA
+erm_B__12_Apilactobacillus  --T---CA--A-A-ATG-----------------GG------------TC
+lsa_B__15_Brevibacillus     --TGGTCG---GT-ACATG----------ACCTCAG------------CA
+rphC_5_Paenibacillus        --TCG-TGTAT-AAACAGGCTTTGCTGAAA--GAAGCCGAA-------CA
+tet_B__11_Frischella        --CGG-CC--TAA-ATA----------------CAG------------CA
+tet_B__13_Gilliamella       --CGG-CC--TAA-ATA----------------CAG------------CA
+tet_B__7_Gilliamella        --ACA-AA---GA-GTC------------A--TCAG------------CA
+tet_C__14_Snodgrassella     --CGT-CC--GGC-GTA----------------GAG------------GA
+tet_H__8_Gilliamella        ATTAG-CG--TGG-ATA------------G--GCCAC---GTTTGGGTCA
+vanF_10_Paenibacillus       --CTG-TC----G-GCA----------------GAG------------AA
+vanF_1_Paenibacillus        --CCG-CA--T-A-ACA-----------------AG------------CA
+vanF_6_Paenibacillus        --CCG-CA--T-A-ACA-----------------AG------------CA
+vanF_Paenibacillus          --CCG-CA--T-A-ACA-----------------AG------------CA
+vanS-F_4_Paenibacillus      --TCT-CATTGAA-ATAG--------------GCAG------------AA
+vanY-F_3_Paenibacillus      --TGG-C----GA-AC------------------AG------------GA
+vanZ-F_2_Paenibacillus      ----------AAA-ACAT--------------ACAC------------C-
+                                                                              
+
+cat-TC_9_Apilactobacillus   -----C--CC------------------------------TTGTC-----
+erm_B__12_Apilactobacillus  AAT--C--GAG--------AA-------------------TATC------
+lsa_B__15_Brevibacillus     -----T--CAA--------CA-------------------TTTAGATAGG
+rphC_5_Paenibacillus        ACT--C--GTACAAGCGGGCATCATTCATGAAAAAGAAGATATC------
+tet_B__11_Frischella        TCC--AAAGCG--------CA-------------------CTTGAA----
+tet_B__13_Gilliamella       TCC--AAAGCG--------CA-------------------CTTGAA----
+tet_B__7_Gilliamella        A----G--GTG--------CT-------------------TTAC------
+tet_C__14_Snodgrassella     TCC--ACAGGA--------CG-------------------GGTGTG----
+tet_H__8_Gilliamella        TCTTAC--CAG--------CA-------------------TTAA------
+vanF_10_Paenibacillus       ACG--C--ATA--------AA-------------------GATAC-----
+vanF_1_Paenibacillus        GCC--C--GTG--------CA-------------------TTTTT-----
+vanF_6_Paenibacillus        GCC--C--GTG--------CA-------------------TTTTT-----
+vanF_Paenibacillus          GCC--C--GTG--------CA-------------------TTTTT-----
+vanS-F_4_Paenibacillus      -----T--AGG--------GT-------------------TTTGT-----
+vanY-F_3_Paenibacillus      -----T--GTT--------CA-------------------TTGTT-----
+vanZ-F_2_Paenibacillus      --------------------------------------------------
+                                                                              
+
+cat-TC_9_Apilactobacillus   ----A-C--------------------------------------TAAGA
+erm_B__12_Apilactobacillus  ----G-TCAACTGTT----------------TAC------------TAAA
+lsa_B__15_Brevibacillus     ATATT-TC--------------------------------------ACGA
+rphC_5_Paenibacillus        TTCTA-TC------TCACTTTGGAGGAACTTC-ACGAGGTTGTACGCACA
+tet_B__11_Frischella        -AAAG-CC------------------------------------AGCAAT
+tet_B__13_Gilliamella       -AAAG-CC------------------------------------AGCAAT
+tet_B__7_Gilliamella        -AGGG-AT--------------------------------T---ATTGGT
+tet_C__14_Snodgrassella     -GTCG-CC------------------------------------ATGA--
+tet_H__8_Gilliamella        -TTTG-CT--------------------------------TAGCGGCAGG
+vanF_10_Paenibacillus       --AAGAAA------------------------------------CGGCGA
+vanF_1_Paenibacillus        --TTG-TC------------------------------------CGGAGA
+vanF_6_Paenibacillus        --TTG-TC------------------------------------CGGAGA
+vanF_Paenibacillus          --TTG-TC------------------------------------CGGAGA
+vanS-F_4_Paenibacillus      --AAG-TA------------------------------------AAAAGA
+vanY-F_3_Paenibacillus      ---GA-CC--------------------------------------AAGA
+vanZ-F_2_Paenibacillus      --------------------------------------------CATAGA
+                                                                              
+
+cat-TC_9_Apilactobacillus   AA----A----TAAATG-CA-----------------GGGT------AAA
+erm_B__12_Apilactobacillus  AATCAGTT--TC-GTCA-AG---CA-------------------------
+lsa_B__15_Brevibacillus     AG----A----A-ATTC-CC--AATCTTCTGCTTGG-GGGC------AAA
+rphC_5_Paenibacillus        AATAAACT--GG-ATTA-CC--ACATCATCAGCAAA-CGGAAAGA--TGA
+tet_B__11_Frischella        AA--------GT-AATC-CA--G-----------CG-ATGC------GCC
+tet_B__13_Gilliamella       AA--------GT-AATC-CA--G-----------CG-ATGC------GCC
+tet_B__7_Gilliamella        GA--------GC-CTTA-CC-------------AATGCAAC------CGG
+tet_C__14_Snodgrassella     TC--------GC-GTAG-TCGAT-----------AG-TGGC------TCC
+tet_H__8_Gilliamella        AG--------GT-ATGGGGC-------------AAC-CCGCA-TTACAAG
+vanF_10_Paenibacillus       AA--------GC-AATT-TAT-AA------GGCGCT-CGGC------TGT
+vanF_1_Paenibacillus        AA--------GC-ACTG-CC--G-----------AA-CGGC------AGT
+vanF_6_Paenibacillus        AA--------GC-ACTG-CC--G-----------AA-CGGC------AGT
+vanF_Paenibacillus          AA--------GC-ACTG-CC--G-----------AA-CGGC------AGT
+vanS-F_4_Paenibacillus      AA----A---AC-AATA-TCG-AA-------------AG-C------AGG
+vanY-F_3_Paenibacillus      GT----A----G-ATTC-CC--A--------------TGAT------AGA
+vanZ-F_2_Paenibacillus      AA----ATGCTT-AATA-GAT-AA-------------TT-T---------
+                                                                              
+
+cat-TC_9_Apilactobacillus   A---T-----------------------TTA-------TA-TC-C-----
+erm_B__12_Apilactobacillus  --------------ATGAA--ACA-----CGC------------------
+lsa_B__15_Brevibacillus     T---T-----------------------TCT-------T-----------
+rphC_5_Paenibacillus        T---TACAACTATTATGAAAAATTAACTCCGCCACGTGTTATCACGTCTG
+tet_B__11_Frischella        TA--T-----------------------TAA-------TGACAAC-----
+tet_B__13_Gilliamella       TA--T-----------------------TAA-------TGACAAC-----
+tet_B__7_Gilliamella        T---G-----------------------TTA-------TTGGCCC-----
+tet_C__14_Snodgrassella     AAGTA-----------------------GCG-------AAGC--G-----
+tet_H__8_Gilliamella        G---T-----------------------TAT-------TTATCAA-----
+vanF_10_Paenibacillus       A---A-----------------------AGG-------TCTTTCT-----
+vanF_1_Paenibacillus        T---T-----------------------TCG-------TTGTCCC-----
+vanF_6_Paenibacillus        T---T-----------------------TCG-------TTGTCCC-----
+vanF_Paenibacillus          T---T-----------------------TCG-------TTGTCCC-----
+vanS-F_4_Paenibacillus      A---T-----------------------AAA-------TAACAGT-----
+vanY-F_3_Paenibacillus      T---C-----------------------TGT-------TCTTC-C-----
+vanZ-F_2_Paenibacillus      ----T-----------------------T-----------TT--------
+                                                                              
+
+cat-TC_9_Apilactobacillus   ---------T---TCTT---GTTT-T--------ATGTTTC---------
+erm_B__12_Apilactobacillus  --------------------------------------------------
+lsa_B__15_Brevibacillus     ---------C---A--A--------A--------G-ATTTCATG--AGT-
+rphC_5_Paenibacillus        ATGGTGAAA-TCAT--T---GC-------------------AGG--GGAG
+tet_B__11_Frischella        -------AACAGCA--CTGGGCGCCGA-CCA--AATCGGTC---------
+tet_B__13_Gilliamella       -------AACAGCA--CTGGGCGCCGA-CCA--AATCGGTC---------
+tet_B__7_Gilliamella        -------AT-TAC---T---GT-------------------TTGCTGTT-
+tet_C__14_Snodgrassella     -------AGCAGGA--CTGGGCGGCGG-CCA--AAGCGGTC---------
+tet_H__8_Gilliamella        -------AA-TCTG--T---CG-------------------ATG--ATA-
+vanF_10_Paenibacillus       -------CG-TG--------------------------TTG---------
+vanF_1_Paenibacillus        -------AA-TCCA--C---GCAT-G--------GCTTTTC---------
+vanF_6_Paenibacillus        -------AA-TCCA--C---GCAT-G--------GCTTTTC---------
+vanF_Paenibacillus          -------AA-TCCA--C---GCAT-G--------GCTTTTC---------
+vanS-F_4_Paenibacillus      -------AAAAAGA--C---GTTA-AGGTCTCCAATATTTT---------
+vanY-F_3_Paenibacillus      --------GT---A--A---GCTC-A--------ATCTTTT---------
+vanZ-F_2_Paenibacillus      -------------------------------TGCGCCTTTA---------
+                                                                              
+
+cat-TC_9_Apilactobacillus   -------------------------G------------------------
+erm_B__12_Apilactobacillus  --------------------------------------------------
+lsa_B__15_Brevibacillus     ---------------------ATACT--TGT---TTT--------TAT--
+rphC_5_Paenibacillus        TACAAACGAGAAAATCTCCCGTCTGG--AG---CATTAGTAGGTCTGC-C
+tet_B__11_Frischella        -------------------------A--GAC---ATT--------TTTC-
+tet_B__13_Gilliamella       -------------------------A--GAC---ATT--------TTTC-
+tet_B__7_Gilliamella        ---------------------ATTTATAAT---CATT--------CACT-
+tet_C__14_Snodgrassella     -------------------------G--GAC---AGT--------GCT--
+tet_H__8_Gilliamella        ---------------------ATGCG--CAAGGGAAA--------TTACA
+vanF_10_Paenibacillus       -------------------------A--TAT--GTTT---------TT--
+vanF_1_Paenibacillus        -------------------------G--CAC---ATT---------TT--
+vanF_6_Paenibacillus        -------------------------G--CAC---ATT---------TT--
+vanF_Paenibacillus          -------------------------G--CAC---ATT---------TT--
+vanS-F_4_Paenibacillus      -------------------------G--TAT--GATT---------TT--
+vanY-F_3_Paenibacillus      -------------------------G--GAT---ATT---------TT--
+vanZ-F_2_Paenibacillus      -------------------------A--T---------------------
+                                                                              
+
+cat-TC_9_Apilactobacillus   --------------------GTATAA-------------AA---CACT--
+erm_B__12_Apilactobacillus  ---------CAA--------------------------------------
+lsa_B__15_Brevibacillus     --------------------CCGA-A--------------A---CTGG--
+rphC_5_Paenibacillus        TGTGTCTGCCGGGGTAATAGAGGGACGCGCACGTGTCATCT---TGAA--
+tet_B__11_Frischella        ---------------------CAAGC--------------C---AAGG--
+tet_B__13_Gilliamella       ---------------------CAAGC--------------C---AAGG--
+tet_B__7_Gilliamella        --------------------ACCAAT--------------T---TGGG--
+tet_C__14_Snodgrassella     --------------------CCGAGA--------------A---CGGG--
+tet_H__8_Gilliamella        -AGGTACTCTGG----TGAGCCTAAC------CAATATTAC---CGGG--
+vanF_10_Paenibacillus       --------------------GCAGAAA------------AACGGACGTAT
+vanF_1_Paenibacillus        --------------------CCAAAC-------------G----CCGG--
+vanF_6_Paenibacillus        --------------------CCAAAC-------------G----CCGG--
+vanF_Paenibacillus          --------------------CCAAAC-------------G----CCGG--
+vanS-F_4_Paenibacillus      --------------------GCGAAA--------------A---TAAG--
+vanY-F_3_Paenibacillus      --------------------CAGT-A--------------G---CTGT--
+vanZ-F_2_Paenibacillus      ----------------------AAAA--------------------AT--
+                                                                              
+
+cat-TC_9_Apilactobacillus   ---AAT--A----T---C--------------------------------
+erm_B__12_Apilactobacillus  ---A--------GT---AA----------ACAATTTA---AG------TA
+lsa_B__15_Brevibacillus     ---ATAAGGGAAAT---AATTAAATTCTACCGAAGAA------------A
+rphC_5_Paenibacillus        ---ATTGG----AA---GA-----TG---CTGATCTAGAAGATGGAGATA
+tet_B__11_Frischella        ---AGCAA-----A---GA-----TA---ACC-TG---------------
+tet_B__13_Gilliamella       ---AGCAA-----A---GA-----TA---ACC-TG---------------
+tet_B__7_Gilliamella        ---ATGGC----TG---GA-----TT---TGGAT----------------
+tet_C__14_Snodgrassella     ---TGCGCA----TAGAAA-----TTGCATCAACGCA-------------
+tet_H__8_Gilliamella        ---ATCAT-----T---GG-----TC---CCCTTT---------------
+vanF_10_Paenibacillus       TATACTGAA----T---GA-----AG---TCAATA---------------
+vanF_1_Paenibacillus        ---ATCGGG----T---GA-----TT---CCGATGT-------------A
+vanF_6_Paenibacillus        ---ATCGGG----T---GA-----TT---CCGATGT-------------A
+vanF_Paenibacillus          ---ATCGGG----T---GA-----TT---CCGATGT-------------A
+vanS-F_4_Paenibacillus      ---CTAGTG----T---A-----TC---TC--------------------
+vanY-F_3_Paenibacillus      ---ATT--A----T---C-----AT---TT--------------------
+vanZ-F_2_Paenibacillus      ---CCAGTT----T------------------------------------
+                                                                              
+
+cat-TC_9_Apilactobacillus   -----------------AAT-------------TT----CTGT----GGT
+erm_B__12_Apilactobacillus  -----------CC--AT------TA-----C-------------------
+lsa_B__15_Brevibacillus     TGATTTTG---CCACTATACTCATA-----A--TT----CCCT----AAT
+rphC_5_Paenibacillus        T-AT-TAGTCACC--GC---TTTTA-----C-------------------
+tet_B__11_Frischella        C-AT-T-----------AACGCATA-----A--AG----TGCA----AGC
+tet_B__13_Gilliamella       C-AT-T-----------AACGCATA-----A--AG----TGCA----AGC
+tet_B__7_Gilliamella        T-AT-TGG---TT--T----------------------------------
+tet_C__14_Snodgrassella     T-AT-AGC----------GCTAGCAGCACGCCATA----GTGACT--GGC
+tet_H__8_Gilliamella        T-AT-TTG---CC--TT------TA-----T--TTATAGTTAT----AGC
+vanF_10_Paenibacillus       C-GT-T------------GCCGGGA-----T--TC-----ACGGTATACA
+vanF_1_Paenibacillus        T-AT-C-----------GGCTCATA-----T--TT----TTCTGT--GTC
+vanF_6_Paenibacillus        T-AT-C-----------GGCTCATA-----T--TT----TTCTGT--GTC
+vanF_Paenibacillus          T-AT-C-----------GGCTCATA-----T--TT----TTCTGT--GTC
+vanS-F_4_Paenibacillus      ------------CAT--AACTAACA-----T--TT----GTAT----AAT
+vanY-F_3_Paenibacillus      -----------------TGTTCATA-----T--TT----TTGA----A--
+vanZ-F_2_Paenibacillus      -----------------GA----------------------AA----CAC
+                                                                              
+
+cat-TC_9_Apilactobacillus   TATAC----------------------------TAA-AA-GTC-------
+erm_B__12_Apilactobacillus  ------------T--------------------TAT--G-AGC----A--
+lsa_B__15_Brevibacillus     AATAA------ATGA------------------AAGAAT-GTT-------
+rphC_5_Paenibacillus        GGAT-------CCTAGCTGGACCCCCTTGTTTGTAT--CTATC----AAG
+tet_B__11_Frischella        AATACGCCAAAGT--------------------GGT---TAGC----G--
+tet_B__13_Gilliamella       AATACGCCAAAGT--------------------GGT---TAGC----G--
+tet_B__7_Gilliamella        ----------------------------------------AGC----G--
+tet_C__14_Snodgrassella     GATG--------C--------------------TGT---CGGA-------
+tet_H__8_Gilliamella        GTCG-------CT--------------------TAT--T-GGG----A--
+vanF_10_Paenibacillus       GCCG--------T--------------------TAT---CCCCGTATG--
+vanF_1_Paenibacillus        GATG--------T--------------------TAT---CGGC----A--
+vanF_6_Paenibacillus        GATG--------T--------------------TAT---CGGC----A--
+vanF_Paenibacillus          GATG--------T--------------------TAT---CGGC----A--
+vanS-F_4_Paenibacillus      AATAC----------------------------AAT--T-GGA----G--
+vanY-F_3_Paenibacillus      --------------------------------------T-ATC-------
+vanZ-F_2_Paenibacillus      AATAC----------------------------A----------------
+                                                                              
+
+cat-TC_9_Apilactobacillus   --GT-TTGT-TG-GT---T--CA-AA------TA--ATGA-TT--AA---
+erm_B__12_Apilactobacillus  -AG-T-----AT-TG---T--C--T-------------------------
+lsa_B__15_Brevibacillus     --GTTTTAC-CT-CG---T--C--CAT--TTCTA--CCGA-----TA---
+rphC_5_Paenibacillus        GG--T-----CT-CGTCAC--C--G---AAGTTGG--CGGACTGATGACC
+tet_B__11_Frischella        -ATATCT---TC-CG---AAGC--AATAA--ATT--CACG-----TAATA
+tet_B__13_Gilliamella       -ATATCT---TC-CG---AAGC--AATAA--ATT--CACG-----TAATA
+tet_B__7_Gilliamella        ---TTTTACT-G-TA---T--T--A------TTAT-CCTG-----CTAT-
+tet_C__14_Snodgrassella     -------A---T-GG-----ACG--A------TAT-CCCG-----CAAGA
+tet_H__8_Gilliamella        -TGGTCTGTTAT-GG---C--T--G------ATG--GGGG-----CAATA
+vanF_10_Paenibacillus       -ATGGCTG---C-CG---C--G--GG------G-----------------
+vanF_1_Paenibacillus        -ATCTCTT---T-CG---C--C--GA------T-----------------
+vanF_6_Paenibacillus        -ATCTCTT---T-CG---C--C--GA------T-----------------
+vanF_Paenibacillus          -ATCTCTT---T-CG---C--C--GA------T-----------------
+vanS-F_4_Paenibacillus      -TACTTTA---AAGA---G--TA-GGT-ATGTTATGGCGC-TAGACA---
+vanY-F_3_Paenibacillus      -TACTTTA---T-CT---T--TG-GA------TA--TCGG-----TA---
+vanZ-F_2_Paenibacillus      -------A---AA--------AATAA---TAGTA-----------CA---
+                                                                              
+
+cat-TC_9_Apilactobacillus   -----------------AT---------------------ATCTCTT--T
+erm_B__12_Apilactobacillus  --------------------------------ATT--TT-----T-A--A
+lsa_B__15_Brevibacillus     AATCCAAG---TTTCCAATCCGT-----ATCTATT--TGAAAGTT-T--A
+rphC_5_Paenibacillus        CATG-GAGCCGTTAT----C-GCACGGGAA-TATGGCTTGC---C-A--G
+tet_B__11_Frischella        ACG----------TT-----GGC-----AA-GACT--GGCATGAT-A--A
+tet_B__13_Gilliamella       ACG----------TT-----GGC-----AA-GACT--GGCATGAT-A--A
+tet_B__7_Gilliamella        -------------------C-GA------T-GACC--TTCATGTT-A--A
+tet_C__14_Snodgrassella     GGC----------CC-----GGC-----AG-TACC--GGCATAAC-C--A
+tet_H__8_Gilliamella        CTT----------TT----T-GC-----TA-TGTT---GCTTATT-A--C
+vanF_10_Paenibacillus       ----------------------------AT-------GACACT-T-TCCG
+vanF_1_Paenibacillus        ----------------------------TT-TACC--GACACA-T-C--G
+vanF_6_Paenibacillus        ----------------------------TT-TACC--GACACA-T-C--G
+vanF_Paenibacillus          ----------------------------TT-TACC--GACACA-T-C--G
+vanS-F_4_Paenibacillus      -----------------A---------------C---AACATGCT-T--A
+vanY-F_3_Paenibacillus      -----------------AT-------------ATA--TTAAAAAT-A--A
+vanZ-F_2_Paenibacillus      -------------------------------------AAAAT--------
+                                                                              
+
+cat-TC_9_Apilactobacillus   ------T------------CT-CTTC--CAAT--TG-T------------
+erm_B__12_Apilactobacillus  TAGT------------------TATCT-A-------TTA-----------
+lsa_B__15_Brevibacillus     ------C------------AC-CTTCAAAAATATTGTCAA----AGCT--
+rphC_5_Paenibacillus        CAGTTGTTGGTGTAGAGAACGCTACCA-AGC-----TGATCC--AAGATG
+tet_B__11_Frischella        GGCCAAT------------C--C-CCA-TG------GCATCG--AGTA--
+tet_B__13_Gilliamella       GGCCAAT------------C--C-CCA-TG------GCATCG--AGTA--
+tet_B__7_Gilliamella        ------C------------C--CCTCA-AGC-----TCAG----GGG---
+tet_C__14_Snodgrassella     AGCCTAT------------G--C-CTA-CA------GCATCCAGGGTG--
+tet_H__8_Gilliamella        CGCTTAT------------TTTCACCA-AA---------G----AAAA--
+vanF_10_Paenibacillus       GG---TT---------------AAT-T-GA------TCAT----------
+vanF_1_Paenibacillus        TG---TT------------C--C-TCT-GA------GCAG------CC--
+vanF_6_Paenibacillus        TG---TT------------C--C-TCT-GA------GCAG------CC--
+vanF_Paenibacillus          TG---TT------------C--C-TCT-GA------GCAG------CC--
+vanS-F_4_Paenibacillus      ------A------------AC-ATA--ACAATAATATCAT------T---
+vanY-F_3_Paenibacillus      ------A------------AA-CTA--GAAATAATG-CAA------AA--
+vanZ-F_2_Paenibacillus      --------------------------------A--AGTAT------A---
+                                                                              
+
+cat-TC_9_Apilactobacillus   -------------------CT-----AAA-TC----AA-------T-T-T
+erm_B__12_Apilactobacillus  -------------------T-----TTAA-CGG---GA-G--G-------
+lsa_B__15_Brevibacillus     ------------------ACC----TGGA-TAAG-AAAAA--GT-TAAGT
+rphC_5_Paenibacillus        GACAACGAATTCGCGTGCAT-----GGAA-CAG---AA-G--GG-T---A
+tet_B__11_Frischella        ------------------ACG----TAAT-TACC-AAT-GC-GA-TCT-T
+tet_B__13_Gilliamella       ------------------ACG----TAAT-TACC-AAT-GC-GA-TCT-T
+tet_B__7_Gilliamella        ------------------AG-----TAAA-CAG---GA-G----------
+tet_C__14_Snodgrassella     ------------------ACGGTGCCGAG-GATGACGATGA-GCGC-A-T
+tet_H__8_Gilliamella        ------------------AC-----CACACCTA---AA-GCTGT-T---A
+vanF_10_Paenibacillus       -------------------T-----GCAT-CAC---AC-T--GG-C---A
+vanF_1_Paenibacillus        ------------------CC-----CAAA-CAG---GA-GG-GC-T-A-T
+vanF_6_Paenibacillus        ------------------CC-----CAAA-CAG---GA-GG-GC-T-A-T
+vanF_Paenibacillus          ------------------CC-----CAAA-CAG---GA-GG-GC-T-A-T
+vanS-F_4_Paenibacillus      ------------------TTT-----GAA-CGA---AA-G--CC-T-C-G
+vanY-F_3_Paenibacillus      ------------------ACC------AA-TAA---AA---------A-A
+vanZ-F_2_Paenibacillus      -------------------CA-----AAA-CTG---TA-G----------
+                                                                              
+
+cat-TC_9_Apilactobacillus   TATTAAA--------GT--TCAT
+erm_B__12_Apilactobacillus  -----A----------A--ATAA
+lsa_B__15_Brevibacillus     C-TTGAACTTGTATCATTGACAT
+rphC_5_Paenibacillus        TATCGAAA------TAT--TGTA
+tet_B__11_Frischella        TGTCGAAC------TAT--TCAT
+tet_B__13_Gilliamella       TGTCGAAC------TAT--TCAT
+tet_B__7_Gilliamella        --A-CAAG------TGC--TTAG
+tet_C__14_Snodgrassella     TGTTAGA--------TT--TCAT
+tet_H__8_Gilliamella        TTT-CAAC------CCC--TTAA
+vanF_10_Paenibacillus       C-TCAAAG--------G--ATGA
+vanF_1_Paenibacillus        TTTCAATC------TAT--TCAA
+vanF_6_Paenibacillus        TTTCAATC------TAT--TCAA
+vanF_Paenibacillus          TTTCAATC------TAT--TCAA
+vanS-F_4_Paenibacillus      T-AGTATT-----TTAA--CCAT
+vanY-F_3_Paenibacillus      C-CCCACT------TTT--TCAT
+vanZ-F_2_Paenibacillus      C------T-----GCAA--GCAT
+                                                   
