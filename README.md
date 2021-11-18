@@ -27,5 +27,5 @@ webPRANK: webprank_SA.txt
 Clustal Omega : Clustal_Omega_MSA.txt
 
 
-### Guide Trees for each tool can be found in the fole below:
-MSA_guide_trees.xlsx
+### MSA_guide_trees.xlsx
+Contains the guide Trees for each tool 
