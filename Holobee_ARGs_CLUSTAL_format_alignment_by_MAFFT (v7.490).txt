@@ -1,0 +1,830 @@
+CLUSTAL format alignment by MAFFT (v7.490)
+
+
+NZ_AARF01000388 --------------tcatcctttgagtgccagtgtgatgcaatg----------------
+NZ_LAWY01000018 --------------tcatcctttgagtgccagtgtgatgcaatg----------------
+NC_023134.1:778 --------------tcatcctttgagtgccagtgtgatgcaatg----------------
+NZ_AMBZ01000002 ------------------------------------------------------------
+NZ_JPYX01000005 ------------------------------------------------------------
+NZ_AMBZ01000002 ttgggaa------tcctccattggtaatcgggcttcaaa---------------------
+NZ_CP009056.1:2 ctaagcacttgtctcctgtttactcccctgagcttgaggggtta----------------
+NZ_CP007445.1:9 ctaagcacttgtctcctgtttactcccctgagcttgaggggtta----------------
+NZ_CP007446.1:7 -------------tcaggtcgaggtggcccggctccatgcaccg----------------
+NZ_JPUI01000002 ---------------------------------ttcaactaacg----------------
+NZ_AMBZ01000002 ---------------------------------tcaagaaaatg----------------
+NZ_CP007806.1:3 -----------------tttttgttgcaactgtttgttgaaatgcc--------------
+NZ_AMBZ01000009 atgaa-----------tactttcgttctcgattttcaggaaatgaaaaatacacagctat
+NZ_ADFW01000001 ------------------------------------------------------------
+JAIN01000052.1: ------------------------------------------------------------
+JAIN01000039.1: atgaata--aatcaattattattatactgctgatccccgtattaga--------------
+                                                                            
+
+NZ_AARF01000388 ------------------------------------------------------------
+NZ_LAWY01000018 ------------------------------------------------------------
+NC_023134.1:778 ------------------------------------------------------------
+NZ_AMBZ01000002 ------------------------------------------------------------
+NZ_JPYX01000005 ------------------------------------------------------------
+NZ_AMBZ01000002 ------------------------------------------------------------
+NZ_CP009056.1:2 ------------------------------------------------------------
+NZ_CP007445.1:9 ------------------------------------------------------------
+NZ_CP007446.1:7 ------------------------------------------------------------
+NZ_JPUI01000002 ------------------------------------------------------------
+NZ_AMBZ01000002 ------------------------------------------------------------
+NZ_CP007806.1:3 ------------------------------------------------------------
+NZ_AMBZ01000009 tgctcgttggcggaaaagggttgaatgtaggggagttatcaaaaatggagggaatacaag
+NZ_ADFW01000001 ------------------------------------------------------------
+JAIN01000052.1: ------------------------------------------------------------
+JAIN01000039.1: ----tgccattggtatcgggcttatcatgccagtactccc--------------------
+                                                                            
+
+NZ_AARF01000388 ------------------------------------------------------------
+NZ_LAWY01000018 ------------------------------------------------------------
+NC_023134.1:778 ------------------------------------------------------------
+NZ_AMBZ01000002 ------------------------------------------------------------
+NZ_JPYX01000005 ------------------------------------------------------------
+NZ_AMBZ01000002 ------------------------------------------------------------
+NZ_CP009056.1:2 --------acatgaaggtcatcgatagcaggataataatacagtaaaacgctaaac----
+NZ_CP007445.1:9 --------acatgaaggtcatcgatagcaggataataatacagtaaaacgctaaac----
+NZ_CP007446.1:7 --------cgacg--------caacgcggggaggcagacaaggtatagggcggcgc----
+NZ_JPUI01000002 --------gggca--ggttagtgacattagaaaaccgactgtaaaaag------------
+NZ_AMBZ01000002 --------aggtcacaatc-actccatctatattattaccggatatttcatgatgttcat
+NZ_CP007806.1:3 --------tgatcatgctcaacaataaccattgtaggattaaatctttgaataagctctt
+NZ_AMBZ01000009 taccggaaggattttgtgtgacaacagcaggatatcaaaaagcaatcgagcaaaacgaaa
+NZ_ADFW01000001 ------------------------------------------------------------
+JAIN01000052.1: ------------------------------------------------------------
+JAIN01000039.1: tactctattaaatgaatttgtcagtgaaaattcactggcaacccattacggtgtgctatt
+                                                                            
+
+NZ_AARF01000388 ------------------------------------------atcaattaacccggaaag
+NZ_LAWY01000018 ------------------------------------------atcaattaacccggaaag
+NC_023134.1:778 ------------------------------------------atcaattaacccggaaag
+NZ_AMBZ01000002 ------------------------------------------------------------
+NZ_JPYX01000005 ------------------------------------------------------------
+NZ_AMBZ01000002 ----------------------------------------------tatagtgcgtatta
+NZ_CP009056.1:2 ---------------------------------------------caataatccaaatcc
+NZ_CP007445.1:9 ---------------------------------------------caataatccaaatcc
+NZ_CP007446.1:7 ---------------------------------------------ctacaatccatgcca
+NZ_JPUI01000002 ----------------------------------------------tacagtcggcatta
+NZ_AMBZ01000002 tcgctgg------------------------------------tacttcaacttcaattg
+NZ_CP007806.1:3 caatctgc----------------------------------atgcgtgaataaatatca
+NZ_AMBZ01000009 cgtaccatgctttgctcaatcgactaacgatgctacacgtagaagatcgagatcaaattg
+NZ_ADFW01000001 ------------------------------------------------------------
+JAIN01000052.1: --------------------------------------------------atgcaggtta
+JAIN01000039.1: agcgctct----------------------------------atgctaccatgcaggtta
+                                                                            
+
+NZ_AARF01000388 tgtcatccccgc---ggcagccatcatacggggataac----------------------
+NZ_LAWY01000018 tgtcatccccgc---ggcagccatcatacggggataac----------------------
+NC_023134.1:778 tgtcatccccgc---ggcagccatcatacggggataac----------------------
+NZ_AMBZ01000002 ------------------------------------------------------------
+NZ_JPYX01000005 ------------------------------------------------------------
+NZ_AMBZ01000002 aatcactttcgg-----cagttattgtcccattgtg------------------------
+NZ_CP009056.1:2 agccatcccaaa-----ttggtagtgaatgatt---------------------------
+NZ_CP007445.1:9 agccatcccaaa-----ttggtagtgaatgatt---------------------------
+NZ_CP007446.1:7 acccgttccatg-----tgctcgccgaggcggc---------------------------
+NZ_JPUI01000002 tctcatattataaaagccagtcattaggcctatctgaca---------------------
+NZ_AMBZ01000002 tctcattttgag-aaatggggtaatatgaaattgta------------------------
+NZ_CP007806.1:3 ataaaatttaac-----ggttcatcccaaatatataaatg--------------------
+NZ_AMBZ01000009 gtgaaatcagta-gggagattcgacaaatccttttggaagtagaaattccttctgatgta
+NZ_ADFW01000001 ------------------------------------------------------------
+JAIN01000052.1: tctttgctcctt------------------------------------------------
+JAIN01000039.1: tttttgctccta------------------------------------------------
+                                                                            
+
+NZ_AARF01000388 ------------------------------------------------------------
+NZ_LAWY01000018 ------------------------------------------------------------
+NC_023134.1:778 ------------------------------------------------------------
+NZ_AMBZ01000002 ------------------------------------------------------------
+NZ_JPYX01000005 ------------------------------------------------------------
+NZ_AMBZ01000002 ------------------------------------------------------------
+NZ_CP009056.1:2 ------------------------------------------------------------
+NZ_CP007445.1:9 ------------------------------------------------------------
+NZ_CP007446.1:7 ------------------------------------------------------------
+NZ_JPUI01000002 ------------------------------------------------------------
+NZ_AMBZ01000002 ------------------------------------------------------------
+NZ_CP007806.1:3 ------------------------------------------------------------
+NZ_AMBZ01000009 gtgaaagaagtaactcaatatctctcccggtttggcgaggaacatgcatatgccgtgcgt
+NZ_ADFW01000001 ------------------------------------------------------------
+JAIN01000052.1: -----------------------------------------------------------g
+JAIN01000039.1: -----------------------------------------------------------t
+                                                                            
+
+NZ_AARF01000388 ---------------------------------------------------ggctgtata
+NZ_LAWY01000018 ---------------------------------------------------ggctgtata
+NC_023134.1:778 ---------------------------------------------------ggctgtata
+NZ_AMBZ01000002 ------------------------------------------------------------
+NZ_JPYX01000005 ------------------------------------------------------------
+NZ_AMBZ01000002 ----------------------------------------ttgctctactatattcttcg
+NZ_CP009056.1:2 ------------------------------------------------------------
+NZ_CP007445.1:9 ------------------------------------------------------------
+NZ_CP007446.1:7 ------------------------------------------------------------
+NZ_JPUI01000002 ---------------------------------------attcctgaatagagttc----
+NZ_AMBZ01000002 ---------------------------------------------------tattttgtc
+NZ_CP007806.1:3 ---------------------------------------------------agctttttc
+NZ_AMBZ01000009 tctagtgcgactgctgaagatttgccgcatgcctcttttgctggtcaacaagacacctat
+NZ_ADFW01000001 ------------------------------------------------------------
+JAIN01000052.1: gcttggaaaaatgt----------------------------------------------
+JAIN01000039.1: tctaggacgactgt----------------------------------------------
+                                                                            
+
+NZ_AARF01000388 ccgtgaatccc-------------------------------------------------
+NZ_LAWY01000018 ccgtgaatccc-------------------------------------------------
+NC_023134.1:778 ccgtgaatccc-------------------------------------------------
+NZ_AMBZ01000002 ------------------------------------------------------------
+NZ_JPYX01000005 --atgaacaaaaatataaaa----------------------------------------
+NZ_AMBZ01000002 caatgaataaaccgagacctg-----------------------------tgctattttc
+NZ_CP009056.1:2 --ataaataacagcaaaca-----------------------------------------
+NZ_CP007445.1:9 --ataaataacagcaaaca-----------------------------------------
+NZ_CP007446.1:7 --ataaatcgccgtgaaga-----------------------------------------
+NZ_JPUI01000002 --ataaacaatcctgcatg-----------------------------------------
+NZ_AMBZ01000002 ccatcaacact--aacagaaa-----------------------------tgctcttttc
+NZ_CP007806.1:3 acataaacttttggctataag----------------------------cagctttttct
+NZ_AMBZ01000009 ttacatattatcggcaaagaagccatcctgcagcatatcagcaaatgttgggcctcccta
+NZ_ADFW01000001 --ttgaatagattgaaaatag----------------------------------ccctc
+JAIN01000052.1: --ctgaccgatttggtcggcgccca---------------------gtgctgttgttgtc
+JAIN01000039.1: --ctgataaatacggcagaaaaccc---------------------atcttgctgttttc
+                                                                            
+
+NZ_AARF01000388 ---------------------------------------------------------ggc
+NZ_LAWY01000018 ---------------------------------------------------------ggc
+NC_023134.1:778 ---------------------------------------------------------ggc
+NZ_AMBZ01000002 ------------------------------------------------------------
+NZ_JPYX01000005 ------ta--------------------------------------------------tt
+NZ_AMBZ01000002 ttgatg----------------------------------------------------ag
+NZ_CP009056.1:2 ------------------------------------------------------------
+NZ_CP007445.1:9 ------------------------------------------------------------
+NZ_CP007446.1:7 ------------------------------------------------------------
+NZ_JPUI01000002 ------------------------------------------------------------
+NZ_AMBZ01000002 tt---------------------------------------------------------c
+NZ_CP007806.1:3 tttgt-------------------------------------------------------
+NZ_AMBZ01000009 tttacggatcgcgcagtcatttaccggatgcaaaatggattcgaccacagtcacgtttat
+NZ_ADFW01000001 ct--------------------------------------------------------gt
+JAIN01000052.1: attaatag--------------------------------------------------gc
+JAIN01000039.1: ccttttag--------------------------------------------------gc
+                                                                            
+
+NZ_AARF01000388 aacgtattgacttcattcagtataatacgtccgttt------------------------
+NZ_LAWY01000018 aacgtattgacttcattcagtataatacgtccgttt------------------------
+NC_023134.1:778 aacgtattgacttcattcagtataatacgtccgttt------------------------
+NZ_AMBZ01000002 -----------------------aatttttcgaaat------------------------
+NZ_JPYX01000005 ctcaaaactttttaacgagtgaaaaagtactcaaccaaataataaa--------------
+NZ_AMBZ01000002 ttcgtgctttgtcaccagtaaaaagcatatcgaaaatatgaggcagttcatctggaggaa
+NZ_CP009056.1:2 ---gtaatgggccaataacaccggttgcattggtaaggctcaccaataatccctgtaaag
+NZ_CP007445.1:9 ---gtaatgggccaataacaccggttgcattggtaaggctcaccaataatccctgtaaag
+NZ_CP007446.1:7 ---tcagcggtccaatgatcgaagttaggctggtaagagccgcgagcgatccttgaagct
+NZ_JPUI01000002 ---ataaccatcacaaacagaatgatgtacctgtaaagatagcggt--------------
+NZ_AMBZ01000002 ttttaaataatccaa------atattcttccaaagc------------------------
+NZ_CP007806.1:3 ---ccaccagaataatgagatatatctttctcaaattgaattcggtcaaaatccatctta
+NZ_AMBZ01000009 ttagctgttatcgttcaaaggatggtgttcccacaagcttcagggatattatttaccgct
+NZ_ADFW01000001 ttgggggctgctcagaggaacacgatgtgtcggtaaaatcggcgaa--------------
+JAIN01000052.1: gcatcgctggattacttattgctggctttttcaagtgcgctttggatgctgtatttaggc
+JAIN01000039.1: gcggcactcgactatcttttaatggcattctcaaccacactttggatgctctatattggg
+                                       .     .. .                           
+
+NZ_AARF01000388 ------------------------------------------------------------
+NZ_LAWY01000018 ------------------------------------------------------------
+NC_023134.1:778 ------------------------------------------------------------
+NZ_AMBZ01000002 ----------------------------------------aaaattggataatgaagtag
+NZ_JPYX01000005 ----------------------------------------acaattgaatttaaaagaaa
+NZ_AMBZ01000002 tggcg------------------------------tccccataattgataacttgaataa
+NZ_CP009056.1:2 cacct------------------------------tgctgatgactctttgtttggatag
+NZ_CP007445.1:9 cacct------------------------------tgctgatgactctttgtttggatag
+NZ_CP007446.1:7 gtccc------------------------------tgatggtcgtcatctacctgcctgg
+NZ_JPUI01000002 ------------------------------------------------------------
+NZ_AMBZ01000002 ----------------------------------------taaattcatttcctgcataa
+NZ_CP007806.1:3 cgcaggatgg--------------------------------------------------
+NZ_AMBZ01000009 gatccgattacttcaaaccgtaaggtgatatccattgatgccagttatggacttggagaa
+NZ_ADFW01000001 ------------------------------------------------------------
+JAIN01000052.1: cgtttgctttcagg----------------------------------------------
+JAIN01000039.1: cgcatcattgcggg----------------------------------------------
+                                                                            
+
+NZ_AARF01000388 ---------------------------------------------------------ttc
+NZ_LAWY01000018 ---------------------------------------------------------ttc
+NC_023134.1:778 ---------------------------------------------------------tcc
+NZ_AMBZ01000002 --------------------------------------------------tatcatacct
+NZ_JPYX01000005 ccgataccgtttacg-----------------------------------aaattggaac
+NZ_AMBZ01000002 ctacttcctttgaa-----tcaatagagccgttgatatctacatactgcccatcatatcc
+NZ_CP009056.1:2 acatcactccctg-------taatgcaggtaaagcgatcccaccaccagccaataaaatt
+NZ_CP007445.1:9 acatcactccctg-------taatgcaggtaaagcgatcccaccaccagccaataaaatt
+NZ_CP007446.1:7 acagcatggcctg-------caacgcgggcatcccgatgccgccggaagcgagaagaatc
+NZ_JPUI01000002 ------------------------------------------------------------
+NZ_AMBZ01000002 t---cacactgtgag--gcaagccgacataacgaatatgccaaggttcataatgaattcc
+NZ_CP007806.1:3 ----------------atttaaataacggttcatcaatctcatgctcttcaataaagtcc
+NZ_AMBZ01000009 gcactggtctctggcctggtctctgccgattgttataaagtaaaggaaggagagatcatc
+NZ_ADFW01000001 --------------------------------------------------agagattgcc
+JAIN01000052.1: -----------------gctcacaggagctactggggctgtcgcggcatcggtcattgcc
+JAIN01000039.1: -----------------gatcacaggcgcaacaggtgccgtatgtgcatcagcgatgagt
+                                                                            
+
+NZ_AARF01000388 tgcaaaaacatatcaacacgagaaagacctttacagccgagcgccttataaa--------
+NZ_LAWY01000018 tgcaaaaacatatcaacacgagaaagacctttacagccgagcgccttataaa--------
+NC_023134.1:778 tgcaaaaacatatcaacacgagaaagacctttacagccgagcgccttataaa--------
+NZ_AMBZ01000002 gtaaatgaacaaactaaataaaaaacagcctcgtat------------------------
+NZ_JPYX01000005 aggtaaagggcatttaacgacgaaactggctaaaataagtaaacaggtaacg--------
+NZ_AMBZ01000002 ataacggtttgcattaattagaagattttcaaacacacgcgccaacaactc---------
+NZ_CP009056.1:2 aaaacagggaaaactaacc----aaccttcagatataaacgctaaaaaggca--------
+NZ_CP007445.1:9 aaaacagggaaaactaacc----aaccttcagatataaacgctaaaaaggca--------
+NZ_CP007446.1:7 ataatggggaaggccatcc----agcctcgcgtcgcgaacgccagcaagacg--------
+NZ_JPUI01000002 --------------------aaatatattgaattacctttattaatgaatt---------
+NZ_AMBZ01000002 tgtaacaaccgttttatccaagggatagcgtaatataaatccgtattccca---------
+NZ_CP007806.1:3 gataacagtcccttcaaatgagaagtaccttgttggacataggaaataacgaggcctgaa
+NZ_AMBZ01000009 gagaagaggatcgcggccaaaaaattagcgatctatggacgtaaagaaggcggaatagag
+NZ_ADFW01000001 gataacatcgacacagaa--aaatatgagccgatatacatcggaatcacccg--------
+JAIN01000052.1: gataccacctcagcttctcaacgcgtgaagtggttcggttggttaggggcaa--------
+JAIN01000039.1: gatgtgactcccgctaaaaatcgaactcgctattttggtttcttaggtggtg--------
+                                                                            
+
+NZ_AARF01000388 ---------ttgctttcgccgtttc-----------ttgtatctttatgcgtttctctgc
+NZ_LAWY01000018 ---------ttgctttcgccgtttc-----------ttgtatctttatgcgtttctctgc
+NC_023134.1:778 ---------ttgctttcgccgtttc-----------ttgtatctttatgcgtttctctgc
+NZ_AMBZ01000002 -----------------------------------------------------------t
+NZ_JPYX01000005 ------------------------------------------------------------
+NZ_AMBZ01000002 -------------------------------------------------tccatcaccca
+NZ_CP009056.1:2 -----------------------------------------------aatgcactactat
+NZ_CP007445.1:9 -----------------------------------------------aatgcactactat
+NZ_CP007446.1:7 -----------------------------------------------tagcccagcgcgt
+NZ_JPUI01000002 ------------------------------------------------ttcctgctgtaa
+NZ_AMBZ01000002 ------------------------------------------------agaatttttttc
+NZ_CP007806.1:3 cc----------------------------------taaattcattgagcctgtatgctg
+NZ_AMBZ01000009 acacaacagattgatcctgagcagcaaaagactcaaactcttacggagcaacaaatcttg
+NZ_ADFW01000001 -------------atccggcgt-------------------------ttggaaaatgtgc
+JAIN01000052.1: ------------gttttgggcttg--------------gtttaatagcggggcctattat
+JAIN01000039.1: ------------cttttggtgttg--------------gccttattatcggcccaatgct
+                                                                            
+
+NZ_AARF01000388 cgacaggtttgcgggaaccaaaacaactgcgttttcggagcctttttctggttgatcttc
+NZ_LAWY01000018 cgacaggtttgcgggaaccaaaacaactgcgttttcggagcctttttctggttgatcttc
+NC_023134.1:778 cgacaggtttgcgggaaccaaaacaactgcgttttcggagcctttttctgggtgatcttc
+NZ_AMBZ01000002 ttacgactaaagaggaaata---------------tcaggttttatttcac---------
+NZ_JPYX01000005 ------------------------------------------------------------
+NZ_AMBZ01000002 taatagataaaggggaagtaata-----------ttcgttcttgctatcaa---------
+NZ_CP009056.1:2 ctgcaataaatccgagcagt---------------actgccgttttttcgc---------
+NZ_CP007445.1:9 ctgcaataaatccgagcagt---------------actgccgttttttcgc---------
+NZ_CP007446.1:7 cggccgccatgccggcgata---------------atggcctgcttctcgc---------
+NZ_JPUI01000002 taatgggtagaaggtaattacta-----------ttattattgatatttaagt-------
+NZ_AMBZ01000002 tatccaccttccttcaggtgctt-----------tatccatcttcatttgagtagatccc
+NZ_CP007806.1:3 tatcggatttcctagaattagtt-------------------------------------
+NZ_AMBZ01000009 caactagcacgcatcggaaggca-----------tatcgaagcctattttggttgcccgc
+NZ_ADFW01000001 gaaaagccatgcgtggattg----------------------------------------
+JAIN01000052.1: tggtggttttgtaggagagatttc---accgcatagtcccttttttatcgctgcgttgct
+JAIN01000039.1: agggggattattaggtgatatcag---tgctcatatgccatttatttttgccgctatttc
+                                                                            
+
+NZ_AARF01000388 ttgatgaatgcgaaagatacc---------------------------------------
+NZ_LAWY01000018 ttgatgaatgcgaaagatacc---------------------------------------
+NC_023134.1:778 ttgatgaatgcgaaagatacc---------------------------------------
+NZ_AMBZ01000002 ------------------------------------------------------------
+NZ_JPYX01000005 ------------------------------------------------------------
+NZ_AMBZ01000002 ------------------------------------------------------------
+NZ_CP009056.1:2 ------------------------------------------------------------
+NZ_CP007445.1:9 ------------------------------------------------------------
+NZ_CP007446.1:7 ------------------------------------------------------------
+NZ_JPUI01000002 ------------------------------------------------------------
+NZ_AMBZ01000002 a-----------------------------------------------------------
+NZ_CP007806.1:3 ------------------------------------------------------------
+NZ_AMBZ01000009 aagata---tcgagtggtgcctggttgatgataccttttacattgtccagagtcggccaa
+NZ_ADFW01000001 ------------------------------------------------------ggacaa
+JAIN01000052.1: a-----------------------------------------------------------
+JAIN01000039.1: a-----------------------------------------------------------
+                                                                            
+
+NZ_AARF01000388 ------------------------------------------------------------
+NZ_LAWY01000018 ------------------------------------------------------------
+NC_023134.1:778 ------------------------------------------------------------
+NZ_AMBZ01000002 --------------------------------------------ctcttttatatatcat
+NZ_JPYX01000005 ------------------------------------------------------------
+NZ_AMBZ01000002 --------------------------------------------atcgtttttctctaag
+NZ_CP009056.1:2 --------------------------------------------cccatttagtggctat
+NZ_CP007445.1:9 --------------------------------------------cccatttagtggctat
+NZ_CP007446.1:7 --------------------------------------------cgaaacgtttggtggc
+NZ_JPUI01000002 ---------------------------------------taaa-----------------
+NZ_AMBZ01000002 -----------------------------catcaagcgataaccccaaattgtgttcgct
+NZ_CP007806.1:3 ------------------------------------tgaggatactactttttccgcttc
+NZ_AMBZ01000009 tcacgacattatacccgattcctgaagcgaatgatcaggaaaatcgcgtttatgtctctg
+NZ_ADFW01000001 ------------------------------------cgaaaactgccgttcggcagtgct
+JAIN01000052.1: -----------------------------aatattgtcactttccttgtggttatgtttt
+JAIN01000039.1: -----------------------------cactcgatattattaatactctctttgctct
+                                                                            
+
+NZ_AARF01000388 -------atgcgaaagtgaaatttggtcca------------------------------
+NZ_LAWY01000018 -------atgcgaaagtgaaatttggtcca------------------------------
+NC_023134.1:778 -------atgcgaaagtgaaatttggtcca------------------------------
+NZ_AMBZ01000002 tt----------taaataaagctct-----------------------------------
+NZ_JPYX01000005 -------tctattgaattagacagtc----------------------------------
+NZ_AMBZ01000002 ac----------aggatacaactct-----------------------------------
+NZ_CP009056.1:2 tct----tcctgccacaaaggcttg-----------------------------------
+NZ_CP007445.1:9 tct----tcctgccacaaaggcttg-----------------------------------
+NZ_CP007446.1:7 ggg----accagtgacgaaggcttg-----------------------------------
+NZ_JPUI01000002 -------cccagtaaatgaagtccat----------------------------------
+NZ_AMBZ01000002 atgacctgctggcaaagcaaaatcag----------------------------------
+NZ_CP007806.1:3 cattctttccatcaagtacaattcggtc--------------------------------
+NZ_AMBZ01000009 tcgg-tcaccaacaaatgatgaccgatcccatgaaaccgctgggattgtcttttttccag
+NZ_ADFW01000001 ttc----tccggacaaaaaaatgcac----------------------------------
+JAIN01000052.1: ggt----tccgtgaaaccaaaaatac----------------------------------
+JAIN01000039.1: ttt----tccgagaaacacaaaaaag----------------------------------
+                              .     .                                       
+
+NZ_AARF01000388 -----------------------------------------cttcgccaacgattaagtc
+NZ_LAWY01000018 -----------------------------------------cttcgccaacgattaagtc
+NC_023134.1:778 -----------------------------------------cttcgccaacgattaagtc
+NZ_AMBZ01000002 -----------------------------------------atatattaaatacccaata
+NZ_JPYX01000005 -----------------------------------------atctattcaacttatcgtc
+NZ_AMBZ01000002 ------------------------------------------tcttttaattgaataagt
+NZ_CP009056.1:2 -----------------------------------------gaatactgagtgtaaaaga
+NZ_CP007445.1:9 -----------------------------------------gaatactgagtgtaaaaga
+NZ_CP007446.1:7 -----------------------------------------agcgagggcgtgcaagatt
+NZ_JPUI01000002 ----------------------------------------ggaataatagaaagagaaaa
+NZ_AMBZ01000002 --------------aacccatttcttcgtaaagtctgctttgctcatctaagtctcgaaa
+NZ_CP007806.1:3 ---------------accttgttcaactttaaagctaattggcttattcactatttggtc
+NZ_AMBZ01000009 ttaaccaatccagcacccatgcgtaaagccggtggcagattgtttgttgatgtgacaccc
+NZ_ADFW01000001 -------------------------------gggctgcttgttatgcggaataaaggata
+JAIN01000052.1: -----------------------------------------acgtg---ataatacagat
+JAIN01000039.1: -----------------------------------------agaagcgcttgttgccaat
+                                                                            
+
+NZ_AARF01000388 ggtaccgtttcccaacacggcacagccaact-------tcaaggcctggaacag---ctt
+NZ_LAWY01000018 ggtaccgtttcccaacacggcacagccaact-------tcaaggcctggaacag---ctt
+NC_023134.1:778 ggtaccgtttcccaacacggcacagccaact-------tcaaggcctgaaacag---ctt
+NZ_AMBZ01000002 atcgcgcctagg-gtgttcataagtaaatca-------tc--------------------
+NZ_JPYX01000005 agaaaaattaa-------------------------------------------------
+NZ_AMBZ01000002 agctcgcttaa----atcgatttgtttcttt-------tc--------------------
+NZ_CP009056.1:2 ccaagacccgc---taatgaaaagccaacca-------tcatgctattc-----------
+NZ_CP007445.1:9 ccaagacccgc---taatgaaaagccaacca-------tcatgctattc-----------
+NZ_CP007446.1:7 ccgaataccgc---aagcgacaggccgatca-------tcgtcgcgctc-----------
+NZ_JPUI01000002 agcattttcag-------------------------------------------------
+NZ_AMBZ01000002 accactgctaat-taaaaagt--gccaaacc-------ccatcttttttagcatcagcta
+NZ_CP007806.1:3 attgtacttaacagacacatcagccaaaacaa------tcaattcgtttgactgaaattc
+NZ_AMBZ01000009 atgctggctagcagagacaatacattacattacctgggtcaatccgatccgc--------
+NZ_ADFW01000001 tcaaatacaac--gtatagacgcggtatttt-------cggttttgcacggca------a
+JAIN01000052.1: accgaagtaggggttgagacgcaatcgaatt-----------------------------
+JAIN01000039.1: aggacacctgaaaaccaaactgcctcaaata-----------------------------
+                       .                                                    
+
+NZ_AARF01000388 gttcaatcaggactttactgtcatactgccttgctgtttcaatggc--------------
+NZ_LAWY01000018 gttcaatcaggactttactgtcatactgccttgctgtttcaatggc--------------
+NC_023134.1:778 gttcaatcaggactttactgtcatactgccttgctgtttcaatggc--------------
+NZ_AMBZ01000002 --------aatatctgtaatcctatgatttagcaa-------------------------
+NZ_JPYX01000005 ---aactgaatactcgtgtcactttaattcaccaagatattctaca--------------
+NZ_AMBZ01000002 --------aattggtaacatgccataattcatcctagttat-------------------
+NZ_CP009056.1:2 ---catccaaaacgattttcggtaaatagcacccacaccgt-------------------
+NZ_CP007445.1:9 ---catccaaaacgattttcggtaaatagcacccacaccgt-------------------
+NZ_CP007446.1:7 ---cagcgaaagcggtcctcgccgaaaatgacccagagcgc-------------------
+NZ_JPUI01000002 -----gtataggtgttttgggaaacaatttccccgaaccat-------------------
+NZ_AMBZ01000002 tcatcttggaaaatt-----------ttttagctatttcttctgac--------------
+NZ_CP007806.1:3 caatggttctaattttaatgactcagttttttccacattttttagc--------------
+NZ_AMBZ01000009 ttatcaaagacgcactgatgaccataatagagcgagactttataaaaacgttaccagatg
+NZ_ADFW01000001 atcgggtgaagacggcgccatacaaggtttatttgaattatccggca-------------
+JAIN01000052.1: ---cggtatacatcactttatttaaaacgatgcccattttgttgat--------------
+JAIN01000039.1: ---cagtcactgttttttttaagaaaagcctctacttttggttagc--------------
+                                                                            
+
+NZ_AARF01000388 --ggtgtgtaattcgtcctagttatt------gacttta---------------------
+NZ_LAWY01000018 --ggtgtgtaattcgtcctagttatt------gacttta---------------------
+NC_023134.1:778 --ggtgtgtaattcgtcctcgttatt------gacttta---------------------
+NZ_AMBZ01000002 ----ttgacttagctcaatagccaa------------tg---------------------
+NZ_JPYX01000005 --gtttcaattccctaacaaacagaggtata-----------------------------
+NZ_AMBZ01000002 ----ttcgaataattcatcaatcaac------cgttcta---------------------
+NZ_CP009056.1:2 ----tgcgggaatttggcctatcaat------tgcgctg---------------------
+NZ_CP007445.1:9 ----tgcgggaatttggcctatcaat------tgcgctg---------------------
+NZ_CP007446.1:7 ----tgccggcacctgtcctacgagt------tgcatga---------------------
+NZ_JPUI01000002 ------tatatttctctacatcagaa------aggtata---------------------
+NZ_AMBZ01000002 --aatttaatttcgttatcaagtaacccatacccctttgtc-----aattcttcgtgcgt
+NZ_CP007806.1:3 --agttttgacttttcctcaatagctttttgttgccttg--------attcaaggttctt
+NZ_AMBZ01000009 agaatataaaaccaagtccaatcaaa------agcattacagatacgattcgtgaaattg
+NZ_ADFW01000001 --------------------------------tcccctatg-------------------
+JAIN01000052.1: --tatttatttttcagcgcaattgat------aggccaa---------------------
+JAIN01000039.1: --aacctattttattatccagcttat------cgggcaa---------------------
+                                                                            
+
+NZ_AARF01000388 ----------------------------------------------ttcacgccgaaaga
+NZ_LAWY01000018 ----------------------------------------------ttcacgccgaaaga
+NC_023134.1:778 ----------------------------------------------ttcacgccgaaaga
+NZ_AMBZ01000002 ------------------------------------------------------------
+NZ_JPYX01000005 ------------------------------------------------------------
+NZ_AMBZ01000002 ------------------------------------------------------------
+NZ_CP009056.1:2 ------------------------------------------------------------
+NZ_CP007445.1:9 ------------------------------------------------------------
+NZ_CP007446.1:7 ------------------------------------------------------------
+NZ_JPUI01000002 ------------------------------------------------------------
+NZ_AMBZ01000002 aaataaatttatgacatctgattttatactcttttggcgaacaggatgttcattgttgac
+NZ_CP007806.1:3 tgctctcttcatcatctttgctgctttatgtcctacaaaacccttgtccaacttggaacc
+NZ_AMBZ01000009 aaaacaatccgtcaatcgttcctgatttgattcagcgtagccaagcatcgatcgaagcgt
+NZ_ADFW01000001 ------------------------------------------------------------
+JAIN01000052.1: ------------------------------------------------------------
+JAIN01000039.1: ------------------------------------------------------------
+                                                                            
+
+NZ_AARF01000388 tgagccg--------------gaacgcgccggtttaacaaaaacaggatatgtta-aggt
+NZ_LAWY01000018 tgagccg--------------gaacgcgccggtttaacaaaaacaggatatgtta-aggt
+NC_023134.1:778 tgagccg--------------gaacgcgccggtttaacaaaaacaggatatgtta-aggt
+NZ_AMBZ01000002 ----------------------agaaaaataatccagtatatgcaac-----------at
+NZ_JPYX01000005 --------------------------------------------------------aaat
+NZ_AMBZ01000002 ----------------------ggcgttgagatttagtaaaggcaatcgtt------aaa
+NZ_CP009056.1:2 ----------------------aaaaataaataatcaacaaaatgggc----------at
+NZ_CP007445.1:9 ----------------------aaaaataaataatcaacaaaatgggc----------at
+NZ_CP007446.1:7 ----------------------taaagaagacagtcataagtgcggcg----------ac
+NZ_JPUI01000002 ----------------------aatcataaaactctttgaagtcattcttt---------
+NZ_AMBZ01000002 caagagtagattcccatga-t-agatctgttcttccgtaagctcaatctttt----ggat
+NZ_CP007806.1:3 cgaattcgttgtcccatttttggaagcttccacttgattagaccagcctgct----gtac
+NZ_AMBZ01000009 tga-------------------aacaaaatatccaaacgaaatcagga------------
+NZ_ADFW01000001 ----------------------taggctgtgatgttcaaagttcggcggtatgtatggac
+JAIN01000052.1: ----------------------attcccgcaacggtgtgggtgctatttaccga--aaat
+JAIN01000039.1: ----------------------attcctgccaccatctgggtgctgtttacaca--atat
+                                                                            
+
+NZ_AARF01000388 attt--------------------------------------------------------
+NZ_LAWY01000018 attt--------------------------------------------------------
+NC_023134.1:778 attt--------------------------------------------------------
+NZ_AMBZ01000002 tttt-------------------------gattgttctaaactgcggccaaatagttgg-
+NZ_JPYX01000005 tgttgggaata-------------------------------------------------
+NZ_AMBZ01000002 aaat-------------------------gcctgatctgattttcagtcaagctatcat-
+NZ_CP009056.1:2 cgttttaaataaagtgatgtatac-------cgaattcgattgcgtctcaacccct----
+NZ_CP007445.1:9 cgttttaaataaagtgatgtatac-------cgaattcgattgcgtctcaacccct----
+NZ_CP007446.1:7 gat----agtcatgccccgcgccc-accggaaggagctgactgggttgaaggctctcaag
+NZ_JPUI01000002 ----------------------------acaggagtccaaataccagagaatgttttaga
+NZ_AMBZ01000002 atttt---------------------cagtagctgtattatcattttgttcatatttttg
+NZ_CP007806.1:3 gctt---------------------tgaagactgttttaatctccctatgtctttttgta
+NZ_AMBZ01000009 --------------------------tcggatttgtttgattttattcttgaagatctcg
+NZ_ADFW01000001 aaatccctgacatacattgtggccaaaaatgctggttttggcactcctgaatttttgat-
+JAIN01000052.1: cgttttggatggaatagcatgatg-gttggcttttcattagcgggtcttggtcttttaca
+JAIN01000039.1: cgttttgattggaacacaacttct-atcggtatgtctttggcggttctgggtgtattaca
+                                                                            
+
+NZ_AARF01000388 -------------------------------------------------gaatccggttt
+NZ_LAWY01000018 -------------------------------------------------gaatccggttt
+NC_023134.1:778 -------------------------------------------------gaatccggttt
+NZ_AMBZ01000002 ------------------------------------------------------------
+NZ_JPYX01000005 ------------------------------------------------------------
+NZ_AMBZ01000002 ------------------------------------------------------------
+NZ_CP009056.1:2 -actt-----------------cggtatctgtattat-----------------------
+NZ_CP007445.1:9 -actt-----------------cggtatctgtattat-----------------------
+NZ_CP007446.1:7 ggcat-----------------cggtcgacgctctcc-----------------------
+NZ_JPUI01000002 taca--------------------------------------------------------
+NZ_AMBZ01000002 aat---------------------atctactttatctttg---------gatatcggtaa
+NZ_CP007806.1:3 gacgc-----------------tgatttgttgcctcttcg---------tgttcctgctg
+NZ_AMBZ01000009 agcaattaaagatgtttgtatttgatccgcagagtttacgtgtgattctggctgcaatgg
+NZ_ADFW01000001 ----------------------------------------------------tttgaatc
+JAIN01000052.1: ctcag-------------------------------------------------------
+JAIN01000039.1: tattt-------------------------------------------------------
+                                                                            
+
+NZ_AARF01000388 atcgccatgattcaaaatcaaaaattcaggag---------tgccaaaaccag-------
+NZ_LAWY01000018 atcgccatgattcaaaatcaaaaattcaggag---------tgccaaaaccag-------
+NC_023134.1:778 atcgccatgattcaaaatcaaaaattcaggag---------tgccaaaaccag-------
+NZ_AMBZ01000002 -caataaaaatcctaacggcataaat----------------------------------
+NZ_JPYX01000005 ttccttacaatttaagcacacaaattattaaaaaagtggtttttgaaagccgtgcgtctg
+NZ_AMBZ01000002 -ccttaaggattaaatctaaataacctaaaac-------------agaggtaagaggtgt
+NZ_CP009056.1:2 cacgtgtatttttggtttcacggaaccaaaac-------------ataaccacaaggaaa
+NZ_CP007445.1:9 cacgtgtatttttggtttcacggaaccaaaac-------------ataaccacaaggaaa
+NZ_CP007446.1:7 cttatgcgactcctgcattaggaagc--------------------agcccagtagtagg
+NZ_JPUI01000002 -ccatcaaaaattgtataaagtggctctaa------------------------------
+NZ_AMBZ01000002 tatattaaaaataaaaactagaaataatgca--------------aaaaccaataaaaaa
+NZ_CP007806.1:3 tctatcaaaatttaacttccaagaagaatagttaccactt-----tgaacttcaatattt
+NZ_AMBZ01000009 atgctgcaacatggatcaatgcaaatatgaacgagtggttaggtgaaaaacacgcagcag
+NZ_ADFW01000001 atggcgataaaccggattcaaataccttaa------------------------------
+JAIN01000052.1: tattccaagcctttgtggcaggaagaatagccactaaa-------tggggcgaaaaaacg
+JAIN01000039.1: tctttcaggcgattgtcgctgggaaattggcacaaaaa-------tggggcgaaaaaacc
+                    .                  .                                    
+
+NZ_AARF01000388 -----------------------------------catttttggccacaatgtatgtcag
+NZ_LAWY01000018 -----------------------------------catttttggccacaatgtatgtcag
+NC_023134.1:778 -----------------------------------catttttggccacaatgtatgtcag
+NZ_AMBZ01000002 -----------------------------------------------aaaataatgttca
+NZ_JPYX01000005 acatctatct--------------------------------------gactgttgaaga
+NZ_AMBZ01000002 gcgcaaatcatgagcca--------------------aattcaatactaactgctcttta
+NZ_CP009056.1:2 gtgacaatatttagcaacgcagcgataaaaaagggactatgcggtgaaatctctcctgca
+NZ_CP007445.1:9 gtgacaatatttagcaacgcagcgataaaaaagggactatgcggtgaaatctctcctaca
+NZ_CP007446.1:7 ttgaggccgttgagcaccgccgccgcaaggaatggtgcatgcaaggagatggcgcccaac
+NZ_JPUI01000002 ------------------------------------------------------------
+NZ_AMBZ01000002 ccccactttttcat----------------------------------------------
+NZ_CP007806.1:3 gccctatttatagataaaatatgatcaaca--catccatctaaaaagtttctgtcatgtg
+NZ_AMBZ01000009 atacactttctcaatctgtacaggacaata---ttacttcggaaatgggtctggcgctat
+NZ_ADFW01000001 ------------------------------------------------------------
+JAIN01000052.1: gcagtactgctcggatt------------------tattgcagatagtagtgcatttgcc
+JAIN01000039.1: accattatgatcagtat------------------gtctattgatatgatgggctgttta
+                                                                            
+
+NZ_AARF01000388 ggatttgtccatacataccg-------------------------------------ccg
+NZ_LAWY01000018 ggatttgtccatacataccg-------------------------------------ccg
+NC_023134.1:778 ggatttgtccatacataccg-------------------------------------ccg
+NZ_AMBZ01000002 aaatatatgtagtaataccttcagaagcaaaggggagt--aagttgatttcacttatacg
+NZ_JPYX01000005 aggattctacaagcgtaccttggatattcaccgaacactagggttgctcttgcacactca
+NZ_AMBZ01000002 ctattttccgaaaagtcacccctttctatagccttttccaatttttcacttgcctgatta
+NZ_CP009056.1:2 aaaccaccaataataggccccgctattaaaccaagcccaaaacttgcccctaaccaaccg
+NZ_CP007445.1:9 aaaccaccaataataggccccgctattaaaccaagcccaaaacttgcccctaaccaaccg
+NZ_CP007446.1:7 agtcccccggccacggggcctgccaccatacccacgccgaaacaagcgctcatgagcccg
+NZ_JPUI01000002 -------------------------------------------cttatcccaataaccta
+NZ_AMBZ01000002 ------------------------------------------------------------
+NZ_CP007806.1:3 aaattaaaataaacccttttttcttccttagataatcagagaccgtctttcgtgcatcag
+NZ_AMBZ01000009 tggatgtcgcagatgtgatccgtccttatccggagatcattgaatatttgcaacatgtca
+NZ_ADFW01000001 -------------------------------------catatcctgtttttgttaaaccg
+JAIN01000052.1: tttttagcgtttatatctga----------------------------------------
+JAIN01000039.1: ttattagcgtggataggcca----------------------------------------
+                                                                            
+
+NZ_AARF01000388 aacttt------------------------------------------------------
+NZ_LAWY01000018 aacttt------------------------------------------------------
+NC_023134.1:778 aacttt------------------------------------------------------
+NZ_AMBZ01000002 aatt--------------------------------------------------------
+NZ_JPYX01000005 agtctc------------------------------------------------------
+NZ_AMBZ01000002 atgc--------------------------------------------------------
+NZ_CP009056.1:2 aacca-------------------------------------------------------
+NZ_CP007445.1:9 aacca-------------------------------------------------------
+NZ_CP007446.1:7 aagtg-------------------------------------------------------
+NZ_JPUI01000002 actctc------------------------------------------------------
+NZ_AMBZ01000002 ------------------------------------------------------------
+NZ_CP007806.1:3 tgtcta------------------------------------------------------
+NZ_AMBZ01000009 aagatgagcactttttggatgaactgcttacgttggatggcgggcagaaagcccgagacg
+NZ_ADFW01000001 gcgcgt------------------------------------------------------
+JAIN01000052.1: ------------------------------------------------------------
+JAIN01000039.1: ------------------------------------------------------------
+                                                                            
+
+NZ_AARF01000388 ------------------------------------------------------------
+NZ_LAWY01000018 ------------------------------------------------------------
+NC_023134.1:778 ------------------------------------------------------------
+NZ_AMBZ01000002 ----------aatgtttcatattttcct--------------------------------
+NZ_JPYX01000005 ----g--------attcagcaattgcttaagctgccagcg--------------------
+NZ_AMBZ01000002 ----------cttgtgcaata-tcactaaattcatcatttga------------------
+NZ_CP009056.1:2 ---------cttcacgcgttgagaagctgaggtggtatcgg-------------------
+NZ_CP007445.1:9 ---------cttcacgcgttgagaagctgaggtggtatcgg-------------------
+NZ_CP007446.1:7 ---------gcgagcccgatcttccccatcggtgatgtcgg-------------------
+NZ_JPUI01000002 -----cgtcgctattgtaaccagttctaaaagctgtatttg-------------------
+NZ_AMBZ01000002 ------------------------------------------------------------
+NZ_CP007806.1:3 -gatgattggttggctcatcaattaata--------------------------------
+NZ_AMBZ01000009 cgatctatgcttatctcgacaaatacggaatgcgatgtgccggagaaatcgatcttacca
+NZ_ADFW01000001 ---tccggctcatctttcggcgtgaataaagtcaataactaggac---------------
+JAIN01000052.1: ---aggttggttagttttccctgttttaattttattggctggggggg-------------
+JAIN01000039.1: ---cgtttgggtcatcttaccagcattaatttgcttagcggcaggag-------------
+                                                                            
+
+NZ_AARF01000388 gaacatcacagcctacataggggatgccg---gataattcaaataaaccttgt-------
+NZ_LAWY01000018 gaacatcacagcctacataggggatgccg---gataattcaaataaaccttgt-------
+NC_023134.1:778 gaacatcacagcctacataggggatgccg---gataattcaaataaaccttgt-------
+NZ_AMBZ01000002 ---------------------------------atcacccatatatttcct---------
+NZ_JPYX01000005 gaatgctttcatcctaaaccaaaagtaaa---cagtgtcttaataaaactt---------
+NZ_AMBZ01000002 caatatttgaactcgatgcttaaagtcaccctgagcgagataatgaattcc---------
+NZ_CP009056.1:2 caatgaccgatgccg----------------cgacagccccagtagctcctgtgatccct
+NZ_CP007445.1:9 caatgaccgatgccg----------------cgacagccccagtagctcctgtgatccct
+NZ_CP007446.1:7 cgatataggcgccag----------------caaccgcacctgtggcgccggtgatgccg
+NZ_JPUI01000002 --agtttatcacccttgtcactaagaaaa---taaatgcagggtaaaattt---------
+NZ_AMBZ01000002 ------------------------------------------------------------
+NZ_CP007806.1:3 gaaattgaccctcagtcaaaaaaagtgca---------gcaagcaacaccttt-------
+NZ_AMBZ01000009 gaacgcgctggatcgaaaaaccaatta----cgattgtcccgttgattctt---------
+NZ_ADFW01000001 gaattacacaccgccattgaaacagcaag--gcagtatgacagtaaagtcc---------
+JAIN01000052.1: ggatcgctttacctgcattacagggagcg-------------------------------
+JAIN01000039.1: gtatggggcaacccgcattacaaggttat-------------------------------
+                                                                            
+
+NZ_AARF01000388 ----------a-------------------------------------------------
+NZ_LAWY01000018 ----------a-------------------------------------------------
+NC_023134.1:778 ----------a-------------------------------------------------
+NZ_AMBZ01000002 ------------------------acccccgtcaccatatacact---------------
+NZ_JPYX01000005 ------------------------acccgccataccacagatg-----------------
+NZ_AMBZ01000002 ------------------------ttttgaaatctcattgaaataggcagaatagggttt
+NZ_CP009056.1:2 gaaagcaaacggcctaaatacagcatccaaagcgcacttgaaaaagccagcaataagtaa
+NZ_CP007445.1:9 gaaagcaaacggcctaaatacagcatccaaagcgcacttgaaaaagccagcaataagtaa
+NZ_CP007446.1:7 gccacgatgcgtccggcgtagaggatccacaggacgggtgtggtcgccatgatcgcgtag
+NZ_JPUI01000002 ------------------------atatccttcttgttttatgtt---------------
+NZ_AMBZ01000002 ------------------------------------------------------------
+NZ_CP007806.1:3 ------------------------gtttgttctccatttgataatg--------------
+NZ_AMBZ01000009 -----------ggcaacatcaaaaactttgagcctaatgcgagccagcggaaatttgagc
+NZ_ADFW01000001 -------------tgattgaacaagctgttccaggccttgaagttggctgtgccgtgttg
+JAIN01000052.1: ------------------------------------------------------------
+JAIN01000039.1: ------------------------------------------------------------
+                                                                            
+
+NZ_AARF01000388 ------------------------------------tggcgc--cgtcttcacccg----
+NZ_LAWY01000018 ------------------------------------tggcgc--cgtcttcacccg----
+NC_023134.1:778 ------------------------------------tggcgc--cgtcttcacccg----
+NZ_AMBZ01000002 ------------------------------------------------------------
+NZ_JPYX01000005 ------------------------------------------------------------
+NZ_AMBZ01000002 tgta-----------agtaaaaa-------------------------------------
+NZ_CP009056.1:2 tccagcgatgcgcctattaatgacaacaacagcactgggcgc--cgaccaaatcg---gt
+NZ_CP007445.1:9 tccagcgatgcgcctattaatgacaacaacagcactgggcgc--cgaccaaatcg---gt
+NZ_CP007446.1:7 tcgatagtggctccaagtagcgaagcgagcaggactgggcgg--cggccaaagcg---gt
+NZ_JPUI01000002 ------------------------------------------------------------
+NZ_AMBZ01000002 ------------------------------------------------------------
+NZ_CP007806.1:3 ------------------------------------------------------------
+NZ_AMBZ01000009 aagggcagcaagaagctttgaaaaaagaacaagagttgttggaacgattaaagcaattgc
+NZ_ADFW01000001 ggaaacggtac---------------------------------cgacttaatcg-----
+JAIN01000052.1: --------------------------------------------atgtctatcca---aa
+JAIN01000039.1: --------------------------------------------ttatcaaaatc---tg
+                                                                            
+
+NZ_AARF01000388 --------atttgccgtgcaaaaccgaaaataccgcg-----------------------
+NZ_LAWY01000018 --------atttgccgtgcaaaaccgaaaataccgcg-----------------------
+NC_023134.1:778 --------atttgccgtgcaaaaccgaaaataccgcg-----------------------
+NZ_AMBZ01000002 ---------------agcgcaaggtagaaaagaaaaa-----------------------
+NZ_JPYX01000005 ----------ttccagataaatattggaagctatata-----------------------
+NZ_AMBZ01000002 ------------gaaaaacaatatcgaaagcaggata-----------------------
+NZ_CP009056.1:2 cagacatttttccaagccaaggagcaaagataacctg-----------------------
+NZ_CP007445.1:9 cagacatttttccaagccaaggagcaaagataacctg-----------------------
+NZ_CP007446.1:7 cggacagtgctccgagaacgggtgcgcatagaaattg-----------------------
+NZ_JPUI01000002 ----------tcggtataaaacactaatatcaatttc-----------------------
+NZ_AMBZ01000002 ------------------------------------------------------------
+NZ_CP007806.1:3 ----------ttttaaatggtcggtacatgacctcag-----------------------
+NZ_AMBZ01000009 cgga------tggcgaacaaaaagcgaaagaaacaaaacaaacga------tcgacttca
+NZ_ADFW01000001 ----------ttggcgaagtggaccaaatttcacttt-cgcatggtatctttcgcattca
+JAIN01000052.1: caaagagtcatcagcaaggtgctttacagggattatt-----------------------
+JAIN01000039.1: tcgatgataatgcgcaagggaaattacaaggtactct-----------------------
+                                                                            
+
+NZ_AARF01000388 --------tctatacgttgtatttgatatcctttattccgcataacaagcagcccgtgca
+NZ_LAWY01000018 --------tctatacgttgtatttgatatcctttattccgcataacaagcagcccgtgca
+NC_023134.1:778 --------tctatacgttgtatttgatatcctttattccgcataacaagcagcccgtgca
+NZ_AMBZ01000002 -----------catacacccatagaaaatgcttaatagataattttttttgcgcctttaa
+NZ_JPYX01000005 -----------agtactttgtttcaaaatgggtcaatcgagaatatcgtcaactgtttac
+NZ_AMBZ01000002 -----------aata-acagtaaaaagacgttaaggtctccaatattttgtatgattttg
+NZ_CP009056.1:2 -----------cattaacgcataaagtgcaagcaatacgccaaagtggttagcgatatct
+NZ_CP007445.1:9 -----------cattaacgcataaagtgcaagcaatacgccaaagtggttagcgatatct
+NZ_CP007446.1:7 -----------catcaacgcatatagcgctagcagcacgccatagtgactggcgatgctg
+NZ_JPUI01000002 -----------tgtggttatactaaaagtcgtttgttggt--------tcaaataatgat
+NZ_AMBZ01000002 ------------------------------------------------------------
+NZ_CP007806.1:3 -----------catcaacatttagataggatatttcacgaagaaattcccaatcttctgc
+NZ_AMBZ01000009 tccggaattacagtgggtatagggaatatccgaaatacgtcatggttaatcgttacttcg
+NZ_ADFW01000001 tcaagaa----gatcaaccagaaaaaggctccgaaaacgcagttgtt-------------
+JAIN01000052.1: --ggtgagccttaccaatgcaaccggtgttattggcccattactgtttgctgttatttat
+JAIN01000039.1: --ggtgagcctaaccaatattaccgggatcattggtccccttttatttgcctttatttat
+                                                                            
+
+NZ_AARF01000388 tt------------tttttgtccggagaaagcactgccgaacgg----------------
+NZ_LAWY01000018 tt------------tttttgtccggagaaagcactgccgaacgg----------------
+NC_023134.1:778 tt------------tttttgtccggagaaagcactgccgaacgg----------------
+NZ_AMBZ01000002 taaaaatcca-----gtttgaaacacaatacaaaaaataatagt----------------
+NZ_JPYX01000005 taaaaatcag-----tttcgtcaagcaatgaaacacgccaaagt----------------
+NZ_AMBZ01000002 cgaaaataagctagtgtatctccataactaacatttgtataata----------------
+NZ_CP009056.1:2 tccgaagcaa-----taaattcacgtaataacgttggcaa--------------------
+NZ_CP007445.1:9 tccgaagcaa-----taaattcacgtaataacgttggcaa--------------------
+NZ_CP007446.1:7 tcggaatgga-----cgatatcccgcaagaggcccggcag--------------------
+NZ_JPUI01000002 taaatatctc-----ttttctcttccaattgtctaaatcaattt----------------
+NZ_AMBZ01000002 ------------------------------------------------------------
+NZ_CP007806.1:3 ttgggggcaa-----atttcttcaaagatttcatgagtatactt----------------
+NZ_AMBZ01000009 tgtataaaca-----ggctttgctgaaagaagccgaacaactcgtacaagcgggcatcat
+NZ_ADFW01000001 ---------------ttggttcccgcaaacctgtcggcagagaa----------------
+JAIN01000052.1: aatcattcac-tac----------------------------------------------
+JAIN01000039.1: agttatagcg-tcg----------------------------------------------
+                                                                            
+
+NZ_AARF01000388 ---------------cagttttcgttgt--------------------------------
+NZ_LAWY01000018 ---------------cagttttcgttgt--------------------------------
+NC_023134.1:778 ---------------cagttttcgttgt--------------------------------
+NZ_AMBZ01000002 ------------------------------------------------------------
+NZ_JPYX01000005 ------------------------------------------------------------
+NZ_AMBZ01000002 ------------------------------------------------------------
+NZ_CP009056.1:2 ------------------------------------------------------------
+NZ_CP007445.1:9 ------------------------------------------------------------
+NZ_CP007446.1:7 ------------------------------------------------------------
+NZ_JPUI01000002 ------------------------------------------------------------
+NZ_AMBZ01000002 ------------------------------------------------------------
+NZ_CP007806.1:3 -----------------gtttttat-------------------ccgaaactggataagg
+NZ_AMBZ01000009 tcatgaaaaagaagatatcttctatctcactttggaggaacttcacgaggttgtacgcac
+NZ_ADFW01000001 --------------------------------------------acgcataaagatacaa
+JAIN01000052.1: ------------------------------------------------------------
+JAIN01000039.1: ------------------------------------------------------------
+                                                                            
+
+NZ_AARF01000388 ------------------------------------------------------------
+NZ_LAWY01000018 ------------------------------------------------------------
+NC_023134.1:778 ------------------------------------------------------------
+NZ_AMBZ01000002 -acaaaaataagtatac-------------------------------------------
+NZ_JPYX01000005 -aaacaatttaagtaccattact-------------------------------------
+NZ_AMBZ01000002 -atacaattggagtact-------------------------------------------
+NZ_CP009056.1:2 ------------------------------------------------------------
+NZ_CP007445.1:9 ------------------------------------------------------------
+NZ_CP007446.1:7 ------------------------------------------------------------
+NZ_JPUI01000002 -tattaa-----------------------------------------------------
+NZ_AMBZ01000002 ------------------------------------------------------------
+NZ_CP007806.1:3 gaaataattaaat-----------------------------------------------
+NZ_AMBZ01000009 aaataaactggattaccacatcatcagcaaacggaaagatgattacaactattatgaaaa
+NZ_ADFW01000001 gaaacggcgaaagcaatttataa-------------------------------------
+JAIN01000052.1: ------------------------------------------------------------
+JAIN01000039.1: ------------------------------------------------------------
+                                                                            
+
+NZ_AARF01000388 ------------------------------------------------------------
+NZ_LAWY01000018 ------------------------------------------------------------
+NC_023134.1:778 ------------------------------------------------------------
+NZ_AMBZ01000002 ------------------------------------------------------------
+NZ_JPYX01000005 ------------------------------------------------------------
+NZ_AMBZ01000002 ------------------------------------------------------------
+NZ_CP009056.1:2 ------------------------------------------------------------
+NZ_CP007445.1:9 ------------------------------------------------------------
+NZ_CP007446.1:7 ------------------------------------------------------------
+NZ_JPUI01000002 ------------------------------------------------------------
+NZ_AMBZ01000002 ------------------------------------------------------------
+NZ_CP007806.1:3 ------------------------------------------------------------
+NZ_AMBZ01000009 attaactccgccacgtgttatcacgtctgatggtgaaatcattgcaggggagtacaaacg
+NZ_ADFW01000001 ------------------------------------------------------------
+JAIN01000052.1: ------------------------------------------------------------
+JAIN01000039.1: ------------------------------------------------------------
+                                                                            
+
+NZ_AARF01000388 ----------------------------------------------------cccaatcc
+NZ_LAWY01000018 ----------------------------------------------------cccaatcc
+NC_023134.1:778 ----------------------------------------------------cccaatcc
+NZ_AMBZ01000002 ----------------------------------------------------aaaactgt
+NZ_JPYX01000005 -----------------------------------------------------------t
+NZ_AMBZ01000002 ----------------------------------------------------ttaaag-a
+NZ_CP009056.1:2 -----------------------------------------------------------g
+NZ_CP007445.1:9 -----------------------------------------------------------g
+NZ_CP007446.1:7 -----------------------------------------------------------t
+NZ_JPUI01000002 -----------------------------------------------------------a
+NZ_AMBZ01000002 ------------------------------------------------------------
+NZ_CP007806.1:3 ----------------------------------------------------tctaccga
+NZ_AMBZ01000009 agaaaatctcccgtctggagcattagtaggtctgcctgtgtctgccggggtaatagaggg
+NZ_ADFW01000001 ----------------------------------------------------ggcgctcg
+JAIN01000052.1: ----------------------------------------------------caatttgg
+JAIN01000039.1: ----------------------------------------------------cttattgg
+                                                                            
+
+NZ_AARF01000388 acgcatggcttttcgcacattttccaaacgccggatcgggtgattccgatgtatatcggc
+NZ_LAWY01000018 acgcatggcttttcgcacattttccaaacgccggatcgggtgattccgatgtatatcggc
+NC_023134.1:778 acgcatggcttttcgcacattttccaaacgccggatcgggtgattccgatgtatatcggc
+NZ_AMBZ01000002 agctgcaagcat------------------------------------------------
+NZ_JPYX01000005 atgagcaagtattgtctatttttaatagttatctattatttaacgggaggaaataa----
+NZ_AMBZ01000002 gtaggtatgttatggcgctagacaacaacatgcttaaacataacaataatat--------
+NZ_CP009056.1:2 actggcatgataaggccaatccccatggcatcgagtaacgtaattaccaatg--------
+NZ_CP007445.1:9 actggcatgataaggccaatccccatggcatcgagtaacgtaattaccaatg--------
+NZ_CP007446.1:7 accggcataaccaagcctatgcctacagcatccagggtgacggtgccgagga--------
+NZ_JPUI01000002 gttcat------------------------------------------------------
+NZ_AMBZ01000002 ------------------------------------------------------------
+NZ_CP007806.1:3 agaaatgattttgccactatactcataattccctaataataaatgaaagaat--------
+NZ_AMBZ01000009 acgcgcacgtgtcatcttgaaattggaagatgctgatctagaagatggagatatattagt
+NZ_ADFW01000001 gctgtaaaggtctttctcgtgttgatatgtttttgcagaaaaacggacgtat--------
+JAIN01000052.1: gatggctggatttggattattggtttagcgttttactgtatta-----------------
+JAIN01000039.1: gatggtctgttatggctgatgggggcaatactttttgctat-------------------
+                                                                            
+
+NZ_AARF01000388 tcatattttt-------ctgtgtcgatgttatcggcaatctctttc--------------
+NZ_LAWY01000018 tcatattttt-------ctgtgtcgatgttatcggcaatctctttc--------------
+NC_023134.1:778 tcatattttt-------ctgtgtcgatgttatcggcaatctctttc--------------
+NZ_AMBZ01000002 ------------------------------------------------------------
+NZ_JPYX01000005 ------------------------------------------------------------
+NZ_AMBZ01000002 ------------------------------------------------------------
+NZ_CP009056.1:2 ------------------------------------------------------------
+NZ_CP007445.1:9 ------------------------------------------------------------
+NZ_CP007446.1:7 ------------------------------------------------------------
+NZ_JPUI01000002 ------------------------------------------------------------
+NZ_AMBZ01000002 ------------------------------------------------------------
+NZ_CP007806.1:3 --------------------gttgttttacctcgtccatttctaccgataaatccaagtt
+NZ_AMBZ01000009 caccgcttttacggatcctagctggacccccttgtttgtatctatcaagggt--ctcgtc
+NZ_ADFW01000001 ------------------------------------tatactgaatgaagtcaatacgtt
+JAIN01000052.1: --------------------ttatcctgctatcgatgaccttca----------------
+JAIN01000039.1: --------------------gttgcttattaccgcttattttcaccaaagaaaaacc---
+                                                                            
+
+NZ_AARF01000388 gccgattttaccgacaca-----------------------------tcgtgttcctctg
+NZ_LAWY01000018 gccgattttaccgacaca-----------------------------tcgtgttcctctg
+NC_023134.1:778 gccgattttaccgacaca-----------------------------tcgtgttcctctg
+NZ_AMBZ01000002 ------------------------------------------------------------
+NZ_JPYX01000005 ------------------------------------------------------------
+NZ_AMBZ01000002 ------------------------------------------------------------
+NZ_CP009056.1:2 ------------------------------------------------------------
+NZ_CP007445.1:9 ------------------------------------------------------------
+NZ_CP007446.1:7 ------------------------------------------------------------
+NZ_JPUI01000002 ------------------------------------------------------------
+NZ_AMBZ01000002 ------------------------------------------------------------
+NZ_CP007806.1:3 tccaat-----------------------------------------ccgtatctatttg
+NZ_AMBZ01000009 accgaagttggcggactgatgacccatggagccgttatcgcacgggaatatggcttgcca
+NZ_ADFW01000001 gccgggattcacggtata----------cagccgttatc--------------cccgtat
+JAIN01000052.1: -------------------------------------tg----------ttaacccctca
+JAIN01000039.1: ---------------------acacctaaagctgttatt----------tcaacccctta
+                                                                            
+
+NZ_AARF01000388 ag---cagcccccaaacaggagggctattttcaatctattcaa-----------------
+NZ_LAWY01000018 ag---cagcccccaaacaggagggctattttcaatctattcaa-----------------
+NC_023134.1:778 ag---cagcccccaaacaggagggctattttcaatctattcaa-----------------
+NZ_AMBZ01000002 ------------------------------------------------------------
+NZ_JPYX01000005 ------------------------------------------------------------
+NZ_AMBZ01000002 ------------catttttgaacgaaagcctcgtagtattttaaccat------------
+NZ_CP009056.1:2 ------------cgatctttgtcgaactattcat--------------------------
+NZ_CP007445.1:9 ------------cgatctttgtcgaactattcat--------------------------
+NZ_CP007446.1:7 ------------tgacgatgagcgcattgttagatttcat--------------------
+NZ_JPUI01000002 ------------------------------------------------------------
+NZ_AMBZ01000002 ------------------------------------------------------------
+NZ_CP007806.1:3 a----aagtttacaccttcaaaaatattgtcaaagctacctggataag------------
+NZ_AMBZ01000009 g----cagttgttggtgtagagaacgctaccaagctgatccaagatggacaacgaattcg
+NZ_ADFW01000001 g----atggctgccgcggggatgacactttccgggttaattgatcattgcatcacactgg
+JAIN01000052.1: agctcaggggagtaaacaggagacaagtgcttag--------------------------
+JAIN01000039.1: a-----------------------------------------------------------
+                                                                            
+
+NZ_AARF01000388 ----------------------------------------------
+NZ_LAWY01000018 ----------------------------------------------
+NC_023134.1:778 ----------------------------------------------
+NZ_AMBZ01000002 ----------------------------------------------
+NZ_JPYX01000005 ----------------------------------------------
+NZ_AMBZ01000002 ----------------------------------------------
+NZ_CP009056.1:2 ----------------------------------------------
+NZ_CP007445.1:9 ----------------------------------------------
+NZ_CP007446.1:7 ----------------------------------------------
+NZ_JPUI01000002 ----------------------------------------------
+NZ_AMBZ01000002 ----------------------------------------------
+NZ_CP007806.1:3 ------------aaaaagttaagtcttgaacttgtatcattgacat
+NZ_AMBZ01000009 cgtgcatggaacagaagggtatatcgaaatattgt----------a
+NZ_ADFW01000001 cactc--------aaaggatga------------------------
+JAIN01000052.1: ----------------------------------------------
+JAIN01000039.1: ----------------------------------------------
+                                                              
